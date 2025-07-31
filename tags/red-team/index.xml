@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Red Team on 0x-s0M3n4th&#39;s Blog</title>
-    <link>http://localhost:1313/tags/red-team/</link>
+    <link>https://0x-s0m3n4th.github.io/tags/red-team/</link>
     <description>Recent content in Red Team on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://0x-s0m3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0m3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jul 2025 04:14:54 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/red-team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x-s0m3n4th.github.io/tags/red-team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eJPT Notes</title>
-      <link>http://localhost:1313/notes/test-notes/</link>
+      <link>https://0x-s0m3n4th.github.io/notes/test-notes/</link>
       <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
-      <guid>http://localhost:1313/notes/test-notes/</guid>
+      <guid>https://0x-s0m3n4th.github.io/notes/test-notes/</guid>
       <description>&lt;p&gt;Testing the site for notes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RED TEAM TACTICS</title>
-      <link>http://localhost:1313/blogs/first-post/</link>
+      <link>https://0x-s0m3n4th.github.io/blogs/first-post/</link>
       <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
-      <guid>http://localhost:1313/blogs/first-post/</guid>
+      <guid>https://0x-s0m3n4th.github.io/blogs/first-post/</guid>
       <description>&lt;p&gt;This is a test site for studying real world attack engagements.&lt;/p&gt;</description>
     </item>
   </channel>
