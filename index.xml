@@ -21,11 +21,13 @@
       <description>&lt;p&gt;Testing the site for notes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>RED TEAM TACTICS</title>
+      <title>Recon on myself</title>
       <link>https://0x-s0M3n4th.github.io/blogs/first-post/</link>
       <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
       <guid>https://0x-s0M3n4th.github.io/blogs/first-post/</guid>
-      <description>&lt;p&gt;This is a test site for studying real world attack engagements.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome fighters!&lt;/p&gt;
+&lt;p&gt;Welcome to my little corner of the internet — a place where I document my Red Teaming journey, deep-dive malware case studies, personal notes, and hands-on exploitations in custom lab environments, plus my most favourite part how to stay anoynymous in the surface web as well as inside the darkweb.&lt;/p&gt;
+&lt;p&gt;If you’re into building things as well as breaking those stuffs to understand them — you’re in the right place.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Table of Contents</title>
