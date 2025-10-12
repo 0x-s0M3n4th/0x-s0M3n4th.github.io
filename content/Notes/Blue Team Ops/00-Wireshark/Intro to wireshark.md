@@ -10,7 +10,7 @@ weight: 1
 ---
 1. Wireshark: ![Wireshark-intro](/images/WIRESHARK_TUT/Wireshark-intro.png)
 
-2. Packets: ![Packets](/images/WIRESHARK_TUTPackets.png)
+2. Packets: ![Packets](/images/WIRESHARK_TUT/Packets.png)
 3. In a real world blue team operation usually the threat analysts are given with 'PCAP' files to analyze which systems are getting affected by the malware / what is the C2 server of the attacker/ where did the malware spread from which time, what's the IP of those infected systems etc. . . 
 4. _What are PCAP files?_ -> PCAP file is a exported format of the captured data from Layer 2-7 of the OSI model by wireshark. We can share that captured data to anyone to analyze what happened within this timeframe in the network.
 ## Practical DEMO:
