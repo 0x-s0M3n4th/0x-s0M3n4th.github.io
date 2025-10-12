@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/</link>
+    <description>Recent content on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2025 04:14:54 -0800</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eJPT Notes</title>
+      <link>https://0x-s0M3n4th.github.io/notes/test-notes/</link>
+      <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/test-notes/</guid>
+      <description>&lt;p&gt;Testing the site for notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recon on myself</title>
+      <link>https://0x-s0M3n4th.github.io/blogs/welcome/</link>
+      <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/blogs/welcome/</guid>
+      <description>&lt;p&gt;Welcome fighters!&lt;/p&gt;
+&lt;p&gt;Welcome to my little corner of the internet — a place where I document my Red Teaming journey, deep-dive malware case studies, personal notes, and hands-on exploitations in custom lab environments, plus my most favourite part how to stay anoynymous in the surface web as well as inside the darkweb.&lt;/p&gt;
+&lt;p&gt;If you’re into building things as well as breaking those stuffs to understand them — you’re in the right place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table of Contents</title>
+      <link>https://0x-s0M3n4th.github.io/table-of-contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/table-of-contents/</guid>
+      <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/blogs/welcome/&#34;&gt;My First Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
