@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/</link>
+    <description>Recent content on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Oct 2025 12:42:03 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practical Wireshark</title>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</link>
+      <pubDate>Sun, 12 Oct 2025 11:26:03 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</guid>
+      <description>A practical guide to using Wireshark for network analysis.</description>
+    </item>
+    <item>
+      <title>Practical Snort</title>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</link>
+      <pubDate>Sun, 12 Oct 2025 12:17:03 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</guid>
+      <description>A practical guide to use Snort.</description>
+    </item>
+    <item>
+      <title>Practical Wazuh</title>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</link>
+      <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</guid>
+      <description>A practical guide to use Wazuh.</description>
+    </item>
+    <item>
+      <title>Recon on myself</title>
+      <link>https://0x-s0M3n4th.github.io/blogs/welcome/</link>
+      <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/blogs/welcome/</guid>
+      <description>&lt;p&gt;Welcome fighters!&lt;/p&gt;
+&lt;p&gt;Hello, as you have already come here that means you are interested in red teaming and blogging staff. A very good welcome to you guys and for your time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Find Here&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Red Teaming Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My own stuff that i will be learning constantly&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table of Contents</title>
+      <link>https://0x-s0M3n4th.github.io/table-of-contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/table-of-contents/</guid>
+      <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/Blogs/Welcome.md&#34;&gt;My First Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

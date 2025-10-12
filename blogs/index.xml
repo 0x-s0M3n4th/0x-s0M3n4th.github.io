@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/blogs/</link>
+    <description>Recent content in Blogs on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2025 04:14:54 -0800</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recon on myself</title>
+      <link>https://0x-s0M3n4th.github.io/blogs/welcome/</link>
+      <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/blogs/welcome/</guid>
+      <description>&lt;p&gt;Welcome fighters!&lt;/p&gt;
+&lt;p&gt;Hello, as you have already come here that means you are interested in red teaming and blogging staff. A very good welcome to you guys and for your time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Find Here&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Red Teaming Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My own stuff that i will be learning constantly&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
