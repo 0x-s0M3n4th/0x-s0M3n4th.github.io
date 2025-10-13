@@ -17,8 +17,9 @@ weight: 2
 
 ### Lab environment:
 ![SNORT_LAB_ENV](/images/SNORT_TUT/SNORT_LAB_ENV.png)
+- we are not going to use this lab env just for the sake of simplicity of this excersise.
 
-### Installing snort on kali :
+### Installing snort on ubuntu 20.04 LTS :
 1. Before installing make sure `promisc` mode is on. While installing you will be prompted with to provide the `interface` name and `subnet range` 
 ```bash
 sudo apt-get install snort -y
