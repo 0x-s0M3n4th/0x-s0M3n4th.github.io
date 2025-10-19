@@ -8,9 +8,13 @@ params:
   author: 0x-s0M3n4th
 ---
 Radhe Radhe!
+
 This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.
+
 So, _let's start with what I was doing..._
+
 After completing `eJPT` certification and learning the basics as well as core concepts of `system administration`, I got my hands dirty on `CTF platforms` like `HTB`. I took a one-month subscription just to get the experience of it. But not gonna lie, it was not what I expected. First of all, playing `CTFs` on these platforms is very good for many people, and the platforms do a great job. But I didn't like its experience because I thought the normal boxes of the `HTB` platform would replicate real-world scenarios where, against hardened systems, normal scans easily fail. We can't even see a door except phishing/social engineering/hardcore OSINT for the initial access.
+
 Later I realized that I could get this experience through `HTB pro boxes`, but I didn't have the money for it. So I decided to make my own home lab. I took the `PNPT` course offered by `TCM Security`. It was hands-on, very good for beginners who want to learn how actual real-world pentest workflows work.
 After that, I expanded my lab. Let me give you an overview of what my lab includes:
 1.  ATTACK-NET : kali linux
