@@ -31,12 +31,10 @@
       <link>https://0x-s0M3n4th.github.io/blogs/blog_1/</link>
       <pubDate>Sun, 19 Oct 2025 18:45:11 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/blogs/blog_1/</guid>
-      <description>&lt;p&gt;Radhe Radhe!
-This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.
-So, &lt;em&gt;let&amp;rsquo;s start with what I was doing&amp;hellip;&lt;/em&gt;
-After completing &lt;code&gt;eJPT&lt;/code&gt; certification and learning the basics as well as core concepts of &lt;code&gt;system administration&lt;/code&gt;, I got my hands dirty on &lt;code&gt;CTF platforms&lt;/code&gt; like &lt;code&gt;HTB&lt;/code&gt;. I took a one-month subscription just to get the experience of it. But not gonna lie, it was not what I expected. First of all, playing &lt;code&gt;CTFs&lt;/code&gt; on these platforms is very good for many people, and the platforms do a great job. But I didn&amp;rsquo;t like its experience because I thought the normal boxes of the &lt;code&gt;HTB&lt;/code&gt; platform would replicate real-world scenarios where, against hardened systems, normal scans easily fail. We can&amp;rsquo;t even see a door except phishing/social engineering/hardcore OSINT for the initial access.
-Later I realized that I could get this experience through &lt;code&gt;HTB pro boxes&lt;/code&gt;, but I didn&amp;rsquo;t have the money for it. So I decided to make my own home lab. I took the &lt;code&gt;PNPT&lt;/code&gt; course offered by &lt;code&gt;TCM Security&lt;/code&gt;. It was hands-on, very good for beginners who want to learn how actual real-world pentest workflows work.
-After that, I expanded my lab. Let me give you an overview of what my lab includes:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Radhe Radhe!&lt;/p&gt;
+&lt;p&gt;This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.&lt;/p&gt;
+&lt;p&gt;So, &lt;em&gt;let&amp;rsquo;s start with what I was doing&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After completing &lt;code&gt;eJPT&lt;/code&gt; certification and learning the basics as well as core concepts of &lt;code&gt;system administration&lt;/code&gt;, I got my hands dirty on &lt;code&gt;CTF platforms&lt;/code&gt; like &lt;code&gt;HTB&lt;/code&gt;. I took a one-month subscription just to get the experience of it. But not gonna lie, it was not what I expected. First of all, playing &lt;code&gt;CTFs&lt;/code&gt; on these platforms is very good for many people, and the platforms do a great job. But I didn&amp;rsquo;t like its experience because I thought the normal boxes of the &lt;code&gt;HTB&lt;/code&gt; platform would replicate real-world scenarios where, against hardened systems, normal scans easily fail. We can&amp;rsquo;t even see a door except phishing/social engineering/hardcore OSINT for the initial access.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
