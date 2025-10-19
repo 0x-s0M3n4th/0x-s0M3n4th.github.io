@@ -1,5 +1,5 @@
 ---
-title: "Why i choose books over certs!"
+title: "Why i chose books over certs!"
 date: 2025-10-19T18:45:11+05:30
 draft: false
 weight: 2
