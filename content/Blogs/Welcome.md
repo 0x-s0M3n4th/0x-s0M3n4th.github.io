@@ -2,7 +2,7 @@
 title: "Recon on myself"
 date: 2025-07-08T04:14:54-08:00
 draft: false
-weight: 10
+weight: 1
 # tags: ["red team", "Penetration Testing"]
 params:
   author: 0x-s0M3n4th
