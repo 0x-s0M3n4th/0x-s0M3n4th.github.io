@@ -10,7 +10,7 @@ showtoc: true
 ### Blogs
 
 - [My First Blog]({{< relref "Blogs/Welcome.md" >}})
-- [Blog 1] ({{< relref "Blogs/Blog_1.md">}})
+- [Blog 1]({{< relref "Blogs/Blog_1.md" >}})
 
 ### Notes
 - [Practical Wireshark]({{< relref "Notes/Blue Team Ops/00-Wireshark/Intro to Wireshark.md" >}})
