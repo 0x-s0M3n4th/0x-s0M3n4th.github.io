@@ -9,4 +9,5 @@ showtoc: true
 
 ### Blogs
 
-- [My First Blog](/Blogs/Welcome.md) 
+- [My First Blog]({{< relref "Blogs/Welcome.md" >}})
+-  
