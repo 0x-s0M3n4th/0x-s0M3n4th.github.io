@@ -65,9 +65,12 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/blogs/welcome/&#34;&gt;My First Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;[Blog 1] (/blogs/blog_1/)&lt;/li&gt;
-&lt;li&gt;[Practical wireshark] (/notes/blue-team-ops/00-wireshark/intro-to-wireshark/)&lt;/li&gt;
-&lt;li&gt;[Practical Snort] (/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/)&lt;/li&gt;
-&lt;li&gt;[Practical Wazuh] (/notes/blue-team-ops/02-wazuh/00-introduction-&amp;#43;-installation/)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/&#34;&gt;Practical Wireshark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/&#34;&gt;Practical Snort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&amp;#43;-installation/&#34;&gt;Practical Wazuh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
