@@ -89,6 +89,8 @@ params:
       url: "https://github.com/0x-s0Mu"
     - name: Linkedin
       url: "https://www.linkedin.com/in/somenath-sebait-52575823b/"
+    - name: "cv"
+      url: "/resume.pdf" 
 
   analytics:
     google:
@@ -145,6 +147,10 @@ menu:
       name: tags
       url: /tags/
       weight: 6
+    - identifier: resume
+      name: Resume
+      url: /resume.pdf
+      weight: 7
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
