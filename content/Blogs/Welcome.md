@@ -8,9 +8,7 @@ params:
   author: 0x-s0M3n4th
 ---
 
-Welcome fighters!
-
-Hello, as you have already come here that means you are interested in red teaming and blogging staff. A very good welcome to you guys and for your time.
+Welcome. If you're here, you're likely passionate about red teaming and the art of the technical write-up. This blog is my contribution to that community. I appreciate you taking the time to be here.
 
 ---
 
