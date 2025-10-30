@@ -25,13 +25,11 @@
       <link>https://0x-s0M3n4th.github.io/blogs/welcome/</link>
       <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
       <guid>https://0x-s0M3n4th.github.io/blogs/welcome/</guid>
-      <description>&lt;p&gt;Welcome fighters!&lt;/p&gt;
-&lt;p&gt;Hello, as you have already come here that means you are interested in red teaming and blogging staff. A very good welcome to you guys and for your time.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome. If you&amp;rsquo;re here, you&amp;rsquo;re likely passionate about red teaming and the art of the technical write-up. This blog is my contribution to that community. I appreciate you taking the time to be here.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;What You’ll Find Here&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Red Teaming Notes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;My own stuff that i will be learning constantly&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why i chose books over certs!</title>
@@ -66,7 +64,10 @@
 &lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://0x-s0M3n4th.github.io/blogs/welcome/&#34;&gt;My First Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;[Blog 1] (/blogs/blog_1/)&lt;/li&gt;
+&lt;li&gt;[Practical wireshark] (/notes/blue-team-ops/00-wireshark/intro-to-wireshark/)&lt;/li&gt;
+&lt;li&gt;[Practical Snort] (/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/)&lt;/li&gt;
+&lt;li&gt;[Practical Wazuh] (/notes/blue-team-ops/02-wazuh/00-introduction-&amp;#43;-installation/)&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
