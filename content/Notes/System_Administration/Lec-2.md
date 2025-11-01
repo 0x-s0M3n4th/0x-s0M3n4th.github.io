@@ -7,7 +7,7 @@ weight: 2
 params:
   author: 0x-s0M3n4th
 ---
-
+**Commands are indicated like this:** `COMMANDS` 
 1. purpose of `touch` command →
     1.  creating a new file
     2.  changing / modifying the timestamp of a file
