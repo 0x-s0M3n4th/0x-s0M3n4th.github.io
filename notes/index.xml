@@ -11,28 +11,7 @@
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 12:42:03 +0530</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Practical Wireshark</title>
-      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</link>
-      <pubDate>Sun, 12 Oct 2025 11:26:03 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</guid>
-      <description>A practical guide to using Wireshark for network analysis.</description>
-    </item>
-    <item>
-      <title>Practical Snort</title>
-      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</link>
-      <pubDate>Sun, 12 Oct 2025 12:17:03 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</guid>
-      <description>A practical guide to use Snort.</description>
-    </item>
-    <item>
-      <title>Practical Wazuh</title>
-      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</link>
-      <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</guid>
-      <description>A practical guide to use Wazuh.</description>
-    </item>
   </channel>
 </rss>
