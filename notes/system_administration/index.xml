@@ -28,7 +28,8 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</guid>
-      <description>&lt;ol&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Commands are indicated like this:&lt;/strong&gt; &lt;code&gt;COMMANDS&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;purpose of &lt;code&gt;touch&lt;/code&gt; command →&lt;/p&gt;
 &lt;ol&gt;
@@ -56,10 +57,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
 &lt;p&gt;user info enumueration → &lt;code&gt;id&lt;/code&gt;,&lt;code&gt;whoami&lt;/code&gt;,&lt;code&gt;who&lt;/code&gt;,&lt;code&gt;id&lt;/code&gt;,&lt;code&gt;w&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;logname&lt;/code&gt; → to see current login name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;uptime&lt;/code&gt; → current session on system is active on how much time&lt;/p&gt;</description>
+&lt;p&gt;&lt;code&gt;logname&lt;/code&gt; → to see current login name&lt;/p&gt;</description>
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 2</title>
