@@ -7,7 +7,7 @@ description: "A comprehensive documentation of network attack vectors, enumerati
 
 Welcome to my Network Penetration Testing knowledge base. This section documents my methodology for assessing network infrastructure security, ranging from initial footprinting to privilege escalation and lateral movement.
 
-These notes serve as both a personal reference and a portfolio of my technical competencies. The content is organized by the phases of a standard engagement:
+These notes serve as both a personal reference and a portfolio of my technical competencies. This tutorial will contain the following contents:
 
 * **Reconnaissance & OSINT:** Passive information gathering, social media OSINT, Proxychaining etc.
 * **Active information Gathering:** Enumerating subdomains, basicc evasion techniques, active scanning etc.
