@@ -21,10 +21,24 @@
       <description></description>
     </item>
     <item>
+      <title>Anonymity</title>
+      <link>https://0x-s0M3n4th.github.io/tags/anonymity/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/anonymity/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Authentication</title>
       <link>https://0x-s0M3n4th.github.io/tags/authentication/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://0x-s0M3n4th.github.io/tags/automation/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
@@ -109,6 +123,13 @@
       <link>https://0x-s0M3n4th.github.io/tags/elasticsearch/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emails</title>
+      <link>https://0x-s0M3n4th.github.io/tags/emails/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/emails/</guid>
       <description></description>
     </item>
     <item>
@@ -252,6 +273,13 @@
       <description></description>
     </item>
     <item>
+      <title>Network</title>
+      <link>https://0x-s0M3n4th.github.io/tags/network/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Network Access</title>
       <link>https://0x-s0M3n4th.github.io/tags/network-access/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -301,10 +329,24 @@
       <description></description>
     </item>
     <item>
+      <title>OSINT</title>
+      <link>https://0x-s0M3n4th.github.io/tags/osint/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/osint/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pass-the-Hash</title>
       <link>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Passive</title>
+      <link>https://0x-s0M3n4th.github.io/tags/passive/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/passive/</guid>
       <description></description>
     </item>
     <item>
@@ -329,6 +371,13 @@
       <description></description>
     </item>
     <item>
+      <title>People</title>
+      <link>https://0x-s0M3n4th.github.io/tags/people/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/people/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Persistence</title>
       <link>https://0x-s0M3n4th.github.io/tags/persistence/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -350,6 +399,13 @@
       <description></description>
     </item>
     <item>
+      <title>Privacy</title>
+      <link>https://0x-s0M3n4th.github.io/tags/privacy/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Privilege Escalation</title>
       <link>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -361,6 +417,13 @@
       <link>https://0x-s0M3n4th.github.io/tags/rdp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/rdp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recon-Ng</title>
+      <link>https://0x-s0M3n4th.github.io/tags/recon-ng/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/recon-ng/</guid>
       <description></description>
     </item>
     <item>
@@ -399,6 +462,13 @@
       <description></description>
     </item>
     <item>
+      <title>Scraping</title>
+      <link>https://0x-s0M3n4th.github.io/tags/scraping/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/scraping/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Service Enumeration</title>
       <link>https://0x-s0M3n4th.github.io/tags/service-enumeration/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -410,6 +480,13 @@
       <link>https://0x-s0M3n4th.github.io/tags/snmp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/snmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Engineering</title>
+      <link>https://0x-s0M3n4th.github.io/tags/social-engineering/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/social-engineering/</guid>
       <description></description>
     </item>
     <item>
@@ -431,6 +508,13 @@
       <link>https://0x-s0M3n4th.github.io/tags/starkiller/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/starkiller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://0x-s0M3n4th.github.io/tags/tools/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/tools/</guid>
       <description></description>
     </item>
     <item>

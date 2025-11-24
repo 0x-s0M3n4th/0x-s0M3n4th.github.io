@@ -185,7 +185,13 @@
     <loc>https://0x-s0M3n4th.github.io/tags/active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/anonymity/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/authentication/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/automation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/bgp-hijacking/</loc>
@@ -222,6 +228,9 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/elasticsearch/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/emails/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/enumeration/</loc>
@@ -302,6 +311,9 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/network/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/network-access/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
@@ -326,7 +338,13 @@
     <loc>https://0x-s0M3n4th.github.io/tags/operations/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/osint/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/passive/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/payload-development/</loc>
@@ -338,6 +356,9 @@
     <loc>https://0x-s0M3n4th.github.io/tags/penetration-testing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/people/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/persistence/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
@@ -347,10 +368,16 @@
     <loc>https://0x-s0M3n4th.github.io/tags/post-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/privacy/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/rdp/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/recon-ng/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/reconnaissance/</loc>
@@ -368,10 +395,16 @@
     <loc>https://0x-s0M3n4th.github.io/tags/routing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/scraping/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/service-enumeration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/snmp/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/social-engineering/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/ssh/</loc>
@@ -384,6 +417,9 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/tools/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/trust-abuse/</loc>
