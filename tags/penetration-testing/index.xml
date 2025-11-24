@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Penetration Testing on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/tags/penetration-testing/</link>
+    <description>Recent content in Penetration Testing on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penetration Testing Phases</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/00-penetration-testing-phases/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/00-penetration-testing-phases/</guid>
+      <description>&lt;h2 id=&#34;penetration-testing-basics&#34;&gt;Penetration Testing basics:&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;pp_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/Pentesting/NP/pp/PP_1.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;pre-engagement&#34;&gt;Pre-engagement:&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;pp_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/Pentesting/NP/pp/PP_2.png&#34;&gt;
+&lt;em&gt;NDA:&lt;/em&gt; An NDA is a legal agreement that specifies that a penetration tester and their employer will not share or hold onto any sensitive or proprietary information that is encountered during the assessment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RoE:&lt;/em&gt; The scope of a penetration test, also known as the rules of engagement, defines the systems the penetration tester can and cannot hack. This ensures the penetration tester remains within legal boundaries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

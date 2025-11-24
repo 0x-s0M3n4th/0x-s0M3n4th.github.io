@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BloodHound on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/tags/bloodhound/</link>
+    <description>Recent content in BloodHound on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/tags/bloodhound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BloodHound</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</guid>
+      <description>Using BloodHound to analyze AD relationships and discover privilege escalation paths.</description>
+    </item>
+  </channel>
+</rss>
