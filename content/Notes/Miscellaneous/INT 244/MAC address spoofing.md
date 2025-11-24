@@ -1,3 +1,15 @@
+---
+title: "Practical Guide: MAC Address Spoofing"
+date: 2025-11-02T20:24:00+05:30  
+draft: false                    
+description: "A quick, hands-on guide to understanding and performing MAC address spoofing for network testing."
+tags:
+  - "Networking"
+  - "MAC Address"
+  - "Spoofing"
+  - "Red Team"
+  - "Practical"
+---
 # Requirements:
 1. Install `tmac changer` and `angry ip scanner` tool.
 
