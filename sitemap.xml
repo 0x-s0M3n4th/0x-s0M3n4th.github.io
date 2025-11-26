@@ -20,7 +20,13 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/00-penetration-testing-phases/</loc>
@@ -32,12 +38,6 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</loc>
     <lastmod>2025-11-01T10:00:00+05:30</lastmod>
   </url><url>
@@ -46,9 +46,6 @@
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/blogs/welcome/</loc>
     <lastmod>2025-07-08T04:14:54-08:00</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
@@ -74,7 +71,10 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</loc>
@@ -86,7 +86,7 @@
     <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</loc>
@@ -107,7 +107,7 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</loc>
@@ -125,10 +125,16 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/03-tor/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/</loc>
@@ -165,6 +171,9 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/06-spoofind-mac-and-ip-address/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</loc>
@@ -227,6 +236,9 @@
     <loc>https://0x-s0M3n4th.github.io/tags/covenant/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/cybersecurity/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/data-exfiltration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
@@ -284,9 +296,6 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
@@ -315,9 +324,6 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/mitm/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/network/</loc>

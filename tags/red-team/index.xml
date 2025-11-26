@@ -28,13 +28,6 @@
       <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
     <item>
-      <title>Anti-Malware Evasion Techniques</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
-      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
-    </item>
-    <item>
       <title>Gaining Access by Exploiting SSH</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -49,11 +42,11 @@
       <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
     </item>
     <item>
-      <title>Creating Custom Payloads With Shelter</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
+      <title>Anti-Malware Evasion Techniques</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
-      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
+      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
       <title>Leveraging Network-Based Trust in AD</title>
@@ -61,6 +54,13 @@
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
       <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
+    </item>
+    <item>
+      <title>Creating Custom Payloads With Shelter</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
+      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
     </item>
     <item>
       <title>DNS Tunneling</title>

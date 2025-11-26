@@ -49,11 +49,25 @@
       <description>Using Google search operators and DNS enumeration techniques to gather actionable intelligence.</description>
     </item>
     <item>
+      <title>Introduction to Network Pentesting</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</guid>
+      <description>Overview of network penetration testing concepts, methodology, and scope.</description>
+    </item>
+    <item>
       <title>Misconfiguring SSH on Windows Server</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</guid>
       <description>Understanding insecure SSH setups on Windows Server and their impact.</description>
+    </item>
+    <item>
+      <title>Nessus</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</guid>
+      <description>Using Nessus for vulnerability scanning and report generation.</description>
     </item>
     <item>
       <title>Penetration Testing Phases</title>
@@ -82,20 +96,6 @@
       <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
     <item>
-      <title>Vulnerability Discovery Using Nmap</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</guid>
-      <description>Leveraging Nmap NSE scripts to uncover vulnerabilities.</description>
-    </item>
-    <item>
-      <title>Working With Bind and Reverse Shells</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</guid>
-      <description>Understanding bind and reverse shells and how attackers leverage them for access.</description>
-    </item>
-    <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - INTRO</title>
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
@@ -122,13 +122,6 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
 &lt;p&gt;&lt;strong&gt;What You’ll Find Here&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Red Teaming Notes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anti-Malware Evasion Techniques</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
-      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
       <title>BloodHound</title>
@@ -180,11 +173,18 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
     </item>
     <item>
-      <title>Working With Greenbone Vulnerability Manager</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</link>
+      <title>Vulnerability Discovery Using Nmap</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</guid>
-      <description>Using Greenbone/OpenVAS for enterprise-grade vulnerability scanning.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</guid>
+      <description>Leveraging Nmap NSE scripts to uncover vulnerabilities.</description>
+    </item>
+    <item>
+      <title>Working With Bind and Reverse Shells</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</guid>
+      <description>Understanding bind and reverse shells and how attackers leverage them for access.</description>
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 1</title>
@@ -240,11 +240,11 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>A practical guide to use Snort.</description>
     </item>
     <item>
-      <title>Creating Custom Payloads With Shelter</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
+      <title>Anti-Malware Evasion Techniques</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
-      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
+      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
       <title>Exploiting RDP</title>
@@ -282,11 +282,11 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>How to configure and use Proxychains to route your hacking tools through intermediate servers.</description>
     </item>
     <item>
-      <title>Using Web Application Scanners</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</link>
+      <title>Working With Greenbone Vulnerability Manager</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
-      <description>Scanning web applications using tools like nmap, metaploit.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</guid>
+      <description>Using Greenbone/OpenVAS for enterprise-grade vulnerability scanning.</description>
     </item>
     <item>
       <title>Working With Starkiller</title>
@@ -346,6 +346,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Leveraging The Onion Router (TOR) service for anonymous communication and scanning.</description>
     </item>
     <item>
+      <title>Creating Custom Payloads With Shelter</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
+      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
+    </item>
+    <item>
       <title>Live Host Discovery</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -358,6 +365,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</guid>
       <description>Man-in-the-Middle attacks used for credential stealing, sniffing, and session hijacking.</description>
+    </item>
+    <item>
+      <title>Using Web Application Scanners</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
+      <description>Scanning web applications using tools like nmap, metaploit.</description>
     </item>
     <item>
       <title>DNS Tunneling</title>
@@ -500,25 +514,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Overview of the network penetration testing phase and workflow.</description>
     </item>
     <item>
-      <title>Introduction to Network Pentesting</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</guid>
-      <description>Overview of network penetration testing concepts, methodology, and scope.</description>
-    </item>
-    <item>
       <title>Introduction to Post Exploitation</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
       <description>Foundational concepts and objectives of the post exploitation phase.</description>
-    </item>
-    <item>
-      <title>Nessus</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</guid>
-      <description>Using Nessus for vulnerability scanning and report generation.</description>
     </item>
     <item>
       <title>Understanding Active Directory</title>
