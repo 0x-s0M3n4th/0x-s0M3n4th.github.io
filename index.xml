@@ -286,7 +286,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
-      <description>Scanning web applications using tools like OWASP ZAP and Burp Suite.</description>
+      <description>Scanning web applications using tools like nmap, metaploit.</description>
     </item>
     <item>
       <title>Working With Starkiller</title>
