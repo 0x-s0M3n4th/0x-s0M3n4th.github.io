@@ -103,7 +103,7 @@ dir /o:d
 ```
 ### ESE database view:
 
-``Install esedatabase view tool from internet -> then open the following dir inside the tool : C:\Windows\SoftwareDistribution\DataStore\DataStore.edb` 
+`Install esedatabase view tool from internet -> then open the following dir inside the tool : C:\Windows\SoftwareDistribution\DataStore\DataStore.edb` 
 
 ![wf_4](/images/UNI_PRACS/INT_250/prac_4/wf_4.png)
 
