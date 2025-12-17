@@ -13,6 +13,8 @@ toc: true
 
 ## Volatile data collection:
 ### system uptime and current time:
+_In command prompt:_
+
 ```cmd
 (date /t) & (time /t)
 systeminfo | find "Boot Time"
@@ -33,7 +35,7 @@ netstat -rn
 ipconfig /all
 ```
 
-_Promiscous mode detection on NICs:_ 
+_Promiscous mode detection on NICs through powershell:_ 
 ```powershell
 Get-NetAdapter | Format-List -Property ifAlias, PromiscuousMode
 ```
@@ -48,6 +50,8 @@ net user user_name
 ```
 ![wf_3](/images/UNI_PRACS/INT_250/prac_4/wf_3.png)
 ### Hash analysis:
+_Using powershell:_
+
 ```powershell
 Get-FileHash .\FTK_sample_00.E01 -Algorithm MD5 
 Get-FileHash .\FTK_sample_00.E01 -Algorithm SHA128
@@ -72,6 +76,7 @@ schtasks /query
 ```cmd
 doskey /history
 ```
+_In powershell:_
 
 ```powershell
 Get-History
