@@ -196,6 +196,13 @@
       <description></description>
     </item>
     <item>
+      <title>Internal Pentest</title>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-pentest/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentest/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Internal Recon</title>
       <link>https://0x-s0M3n4th.github.io/tags/internal-recon/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -567,17 +574,52 @@
       <description></description>
     </item>
     <item>
-      <title>MAC Address</title>
-      <link>https://0x-s0M3n4th.github.io/tags/mac-address/</link>
-      <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/mac-address/</guid>
+      <title>Basics</title>
+      <link>https://0x-s0M3n4th.github.io/tags/basics/</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forensics</title>
+      <link>https://0x-s0M3n4th.github.io/tags/forensics/</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/forensics/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
       <link>https://0x-s0M3n4th.github.io/tags/networking/</link>
-      <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packet Analysis</title>
+      <link>https://0x-s0M3n4th.github.io/tags/packet-analysis/</link>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/packet-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tcpdump</title>
+      <link>https://0x-s0M3n4th.github.io/tags/tcpdump/</link>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/tcpdump/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traffic Sniffing</title>
+      <link>https://0x-s0M3n4th.github.io/tags/traffic-sniffing/</link>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/traffic-sniffing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAC Address</title>
+      <link>https://0x-s0M3n4th.github.io/tags/mac-address/</link>
+      <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/mac-address/</guid>
       <description></description>
     </item>
     <item>
@@ -599,13 +641,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/disk-imaging/</link>
       <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/disk-imaging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Forensics</title>
-      <link>https://0x-s0M3n4th.github.io/tags/forensics/</link>
-      <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/forensics/</guid>
       <description></description>
     </item>
     <item>

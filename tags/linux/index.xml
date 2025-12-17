@@ -25,5 +25,12 @@
 &lt;em&gt;NDA:&lt;/em&gt; An NDA is a legal agreement that specifies that a penetration tester and their employer will not share or hold onto any sensitive or proprietary information that is encountered during the assessment.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;RoE:&lt;/em&gt; The scope of a penetration test, also known as the rules of engagement, defines the systems the penetration tester can and cannot hack. This ensures the penetration tester remains within legal boundaries.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Practical Demo: Basic Linux Forensic Checks</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
+      <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
+      <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
+    </item>
   </channel>
 </rss>

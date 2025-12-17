@@ -535,6 +535,27 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
     </item>
     <item>
+      <title>Practical Demo: Introduction to Windows Artifacts</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
+      <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
+    </item>
+    <item>
+      <title>Practical Demo: Basic Linux Forensic Checks</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
+      <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
+      <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
+    </item>
+    <item>
+      <title>Practical Demo: Network Packet Capture with tcpdump</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</link>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</guid>
+      <description>A step-by-step walkthrough of capturing and filtering network traffic using tcpdump, a fundamental command-line tool for packet analysis.</description>
+    </item>
+    <item>
       <title>Practical Guide: MAC Address Spoofing</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
