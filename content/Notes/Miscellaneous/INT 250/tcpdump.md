@@ -26,11 +26,11 @@ tcpdump -D
 sudo tcpdump -i ens33{mention_your_own_interface_name}
 ```
 _ICMP traffic(ping):_
-![tcp_1](/images/UNI_PRACS/INT_250/prac_3/tcp_1.png)
+![tcp_2](/images/UNI_PRACS/INT_250/prac_3/tcp_2.png)
 _format of the traffic:_ {timeframe`{hh:mm:ss}:microsecond`} {source_ip} > {Destination_ip} {request/reply}, {id}, {sequence number} {data length}
 
 _nmap SYN scan traffic:_ 
-![tcp_1](/images/UNI_PRACS/INT_250/prac_3/tcp_1.png)
+![tcp_3](/images/UNI_PRACS/INT_250/prac_3/tcp_3.png)
 _**Traffic format:**_ {timeframe`{hh:mm:ss}:microsecond`} {source_ip:source port} > {Destination_ip:destination_port} {Flags {SYN/S}} {packet sequence number} {window size} {maximum segment size/mss} {data length} 
 
 2. Other useful commands of tcpdump:
