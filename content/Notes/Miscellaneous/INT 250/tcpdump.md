@@ -1,6 +1,7 @@
 ---
 title: "Practical Demo: Network Packet Capture with tcpdump"
 date: 2025-11-05T20:15:00+05:30
+weight: 2
 draft: false
 description: "A step-by-step walkthrough of capturing and filtering network traffic using tcpdump, a fundamental command-line tool for packet analysis."
 tags:

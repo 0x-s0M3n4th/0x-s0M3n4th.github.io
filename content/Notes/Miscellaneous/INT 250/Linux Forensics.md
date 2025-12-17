@@ -1,6 +1,7 @@
 ---
 title: "Practical Demo: Basic Linux Forensic Checks"
 date: 2025-11-06T19:00:00+05:30
+weight: 3
 draft: false
 description: "A simple walkthrough of checking command history and system logs for suspicious activity."
 tags:
@@ -165,7 +166,7 @@ ls -ld Desktop
 > [!Important]
 > Before that add a virtual hard disk of 1gb for testing purpose on your vm through vmware -> vm settings -> add -> hard disk -> SCSI -> Create new virtual disk -> 1 gb -> Done.
 
- 
+
 
 Then use the following guide.
 ```bash

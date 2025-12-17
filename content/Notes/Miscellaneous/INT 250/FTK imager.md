@@ -1,6 +1,7 @@
 ---
 title: "Practical Demo: Creating a Forensic Image with FTK Imager"
 date: 2025-11-02T19:50:00+05:30  
+weight: 1
 draft: false                    
 description: "A step-by-step walkthrough of acquiring a disk image using Exterro's FTK Imager, a critical tool for digital forensics and incident response."
 tags:
