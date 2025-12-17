@@ -34,7 +34,7 @@ uptime
 
 ### Network information:
 ```bash
-ip a
+ip a # short form of ip addr show
 ifconfig 
 
 # promisc mode detection:
@@ -65,8 +65,8 @@ sudo lsof -u user_name
 
 ### mounted file system info:
 ```bash
-mount
-df
+mount # info about file systems
+df -h # file systems info but in human readable format
 ```
 ### kernel module info, sound driver info:
 ```bash
