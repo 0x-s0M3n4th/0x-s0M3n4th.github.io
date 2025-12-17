@@ -96,6 +96,13 @@
       <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
     <item>
+      <title>Practical Demo: Creating a Forensic Image with FTK Imager</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</link>
+      <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</guid>
+      <description>A step-by-step walkthrough of acquiring a disk image using Exterro&amp;#39;s FTK Imager, a critical tool for digital forensics and incident response.</description>
+    </item>
+    <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - INTRO</title>
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
@@ -185,6 +192,13 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</guid>
       <description>Understanding bind and reverse shells and how attackers leverage them for access.</description>
+    </item>
+    <item>
+      <title>Practical Demo: Network Packet Capture with tcpdump</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</link>
+      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</guid>
+      <description>A step-by-step walkthrough of capturing and filtering network traffic using tcpdump, a fundamental command-line tool for packet analysis.</description>
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 1</title>
@@ -296,6 +310,13 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Using Starkiller as a GUI for Covenant C2 to manage beacons and operations.</description>
     </item>
     <item>
+      <title>Practical Demo: Basic Linux Forensic Checks</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
+      <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
+      <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
+    </item>
+    <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 2</title>
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
@@ -372,6 +393,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
       <description>Scanning web applications using tools like nmap, metaploit.</description>
+    </item>
+    <item>
+      <title>Practical Demo: Introduction to Windows Artifacts</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
+      <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
     </item>
     <item>
       <title>DNS Tunneling</title>
@@ -535,39 +563,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
     </item>
     <item>
-      <title>Practical Demo: Introduction to Windows Artifacts</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
-      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
-      <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
-    </item>
-    <item>
-      <title>Practical Demo: Basic Linux Forensic Checks</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
-      <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
-      <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
-    </item>
-    <item>
-      <title>Practical Demo: Network Packet Capture with tcpdump</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</link>
-      <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</guid>
-      <description>A step-by-step walkthrough of capturing and filtering network traffic using tcpdump, a fundamental command-line tool for packet analysis.</description>
-    </item>
-    <item>
       <title>Practical Guide: MAC Address Spoofing</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</guid>
       <description>A quick, hands-on guide to understanding and performing MAC address spoofing for network testing.</description>
-    </item>
-    <item>
-      <title>Practical Demo: Creating a Forensic Image with FTK Imager</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</link>
-      <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</guid>
-      <description>A step-by-step walkthrough of acquiring a disk image using Exterro&amp;#39;s FTK Imager, a critical tool for digital forensics and incident response.</description>
     </item>
     <item>
       <title>Table of Contents</title>
