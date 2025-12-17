@@ -194,7 +194,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Understanding bind and reverse shells and how attackers leverage them for access.</description>
     </item>
     <item>
-      <title>Practical Demo: Network Packet Capture with tcpdump</title>
+      <title>Practical Demo: tcpdump</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</link>
       <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</guid>
@@ -310,7 +310,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Using Starkiller as a GUI for Covenant C2 to manage beacons and operations.</description>
     </item>
     <item>
-      <title>Practical Demo: Basic Linux Forensic Checks</title>
+      <title>Practical Demo: Linux Forensics</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
       <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
@@ -395,7 +395,7 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Scanning web applications using tools like nmap, metaploit.</description>
     </item>
     <item>
-      <title>Practical Demo: Introduction to Windows Artifacts</title>
+      <title>Practical Demo: Windows Forensics</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>

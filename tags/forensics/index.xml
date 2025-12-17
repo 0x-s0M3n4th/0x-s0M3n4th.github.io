@@ -21,14 +21,14 @@
       <description>A step-by-step walkthrough of acquiring a disk image using Exterro&amp;#39;s FTK Imager, a critical tool for digital forensics and incident response.</description>
     </item>
     <item>
-      <title>Practical Demo: Basic Linux Forensic Checks</title>
+      <title>Practical Demo: Linux Forensics</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
       <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
       <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
     </item>
     <item>
-      <title>Practical Demo: Introduction to Windows Artifacts</title>
+      <title>Practical Demo: Windows Forensics</title>
       <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
