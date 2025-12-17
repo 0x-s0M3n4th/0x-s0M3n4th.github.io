@@ -5,9 +5,9 @@
 </span></span></code></pre></div><p><img alt=tcp_1 loading=lazy src=/images/UNI_PRACS/INT_250/prac_3/tcp_1.png>
 2. Sniffing traffic from our interface:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo tcpdump -i ens33<span class=o>{</span>mention_your_own_interface_name<span class=o>}</span>
 </span></span></code></pre></div><p><em>ICMP traffic(ping):</em>
-<img alt=tcp_1 loading=lazy src=/images/UNI_PRACS/INT_250/prac_3/tcp_1.png>
+<img alt=tcp_2 loading=lazy src=/images/UNI_PRACS/INT_250/prac_3/tcp_2.png>
 <em>format of the traffic:</em> {timeframe<code>{hh:mm:ss}:microsecond</code>} {source_ip} > {Destination_ip} {request/reply}, {id}, {sequence number} {data length}</p><p><em>nmap SYN scan traffic:</em>
-<img alt=tcp_1 loading=lazy src=/images/UNI_PRACS/INT_250/prac_3/tcp_1.png>
+<img alt=tcp_3 loading=lazy src=/images/UNI_PRACS/INT_250/prac_3/tcp_3.png>
 <em><strong>Traffic format:</strong></em> {timeframe<code>{hh:mm:ss}:microsecond</code>} {source_ip:source port} > {Destination_ip:destination_port} {Flags {SYN/S}} {packet sequence number} {window size} {maximum segment size/mss} {data length}</p><ol start=2><li>Other useful commands of tcpdump:</li></ol><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>tcpdump -c N <span class=c1># capturing N number of packets where N &gt; 0</span>
 </span></span><span class=line><span class=cl>tcpdump -w captured_packet.pcap <span class=c1># capture the packets and write into a file</span>
 </span></span><span class=line><span class=cl>tcpdump -r captured_packet.pcap <span class=c1># reading from a pre-saved pcap file</span>
