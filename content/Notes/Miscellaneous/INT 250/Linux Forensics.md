@@ -96,30 +96,30 @@ dmesg
 ```
 
 
-# Non-volatile:
-## Collecting system info:
+## Non-volatile:
+### Collecting system info:
 ```bash
 cat /proc/cpuinfo
 cat /proc/self/mounts
 ```
 
-## kernel info:
+### kernel info:
 ```bash
 uname -r
 cat /proc/version
 hostnamectl | grep Kernel
 ```
-## local user account information:
+### local user account information:
 ```bash
 cat /etc/passwd 
 cat /etc/passwd | cut -d: -f1 # seperating users from the output
 ```
-## logged on user information:
+### logged on user information:
 ```bash
 w
 last # login history information
 ```
-## collecting system logs:
+### collecting system logs:
 ```bash
 cat /var/log/syslog
 cat /var/log/kern.log # linux kernel logs
@@ -132,22 +132,22 @@ cat /var/log/debug
 journalctl
 ```
 
-## history and hidden file information:
+### history and hidden file information:
 ```bash
 history
 ls -al # hidden files
 ```
-## suspicious info:
+### suspicious info:
 ```bash
 sudo rkhunter --check --rwo
 sudo chkrootkit # rootkit checker
 ```
 
-## file signature analysis:
+### file signature analysis:
 ```bash
 xxd file_name | head -n 10
 ```
-## basic file information:
+### basic file information:
 ```bash
 file file_name
 strings -t -d file_name 
@@ -155,14 +155,14 @@ strings -t -d file_name
 # finding writable files inside /var/log directory :
 find / -writeable -type f 2> /dev/null | grep "/var/log" 
 ```
-## Directory permission checking:
+### Directory permission checking:
 ```bash
 ls -ld Desktop
 ```
 
 
-# File system analysis using The Sleuth Kit:
-## Creating an file system image using dd:
+## File system analysis using The Sleuth Kit:
+### Creating an file system image using dd:
 > [!Important]
 > Before that add a virtual hard disk of 1gb for testing purpose on your vm through vmware -> vm settings -> add -> hard disk -> SCSI -> Create new virtual disk -> 1 gb -> Done.
 
