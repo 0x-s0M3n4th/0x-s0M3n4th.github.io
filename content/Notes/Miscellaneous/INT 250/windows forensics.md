@@ -1,5 +1,5 @@
 ---
-title: "Practical Demo: Introduction to Windows Artifacts"
+title: "Practical Demo: Windows Forensics"
 date: 2025-11-08T20:15:00+05:30
 weight: 4
 draft: false

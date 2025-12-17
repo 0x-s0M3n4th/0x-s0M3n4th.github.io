@@ -1,5 +1,5 @@
 ---
-title: "Practical Demo: Basic Linux Forensic Checks"
+title: "Practical Demo: Linux Forensics"
 date: 2025-11-06T19:00:00+05:30
 weight: 3
 draft: false
