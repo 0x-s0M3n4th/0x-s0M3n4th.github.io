@@ -11,13 +11,69 @@
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 23:14:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
       <link>https://0x-s0M3n4th.github.io/tags/active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/active-directory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C2</title>
+      <link>https://0x-s0M3n4th.github.io/tags/c2/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/c2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Pentest</title>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-pentest/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Pentesting</title>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-pentesting/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Pentesting</title>
+      <link>https://0x-s0M3n4th.github.io/tags/network-pentesting/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-pentesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post Exploitation</title>
+      <link>https://0x-s0M3n4th.github.io/tags/post-exploitation/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/post-exploitation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privilege Escalation</title>
+      <link>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Team</title>
+      <link>https://0x-s0M3n4th.github.io/tags/red-team/</link>
+      <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/red-team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kerberos</title>
+      <link>https://0x-s0M3n4th.github.io/tags/kerberos/</link>
+      <pubDate>Sat, 20 Dec 2025 11:14:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/kerberos/</guid>
       <description></description>
     </item>
     <item>
@@ -60,13 +116,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/bloodhound/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/bloodhound/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>C2</title>
-      <link>https://0x-s0M3n4th.github.io/tags/c2/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/c2/</guid>
       <description></description>
     </item>
     <item>
@@ -196,13 +245,6 @@
       <description></description>
     </item>
     <item>
-      <title>Internal Pentest</title>
-      <link>https://0x-s0M3n4th.github.io/tags/internal-pentest/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentest/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Internal Recon</title>
       <link>https://0x-s0M3n4th.github.io/tags/internal-recon/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -221,13 +263,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/introduction/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/introduction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kerberos</title>
-      <link>https://0x-s0M3n4th.github.io/tags/kerberos/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/kerberos/</guid>
       <description></description>
     </item>
     <item>
@@ -305,13 +340,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/network-attacks/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/network-attacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network Pentesting</title>
-      <link>https://0x-s0M3n4th.github.io/tags/network-pentesting/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/network-pentesting/</guid>
       <description></description>
     </item>
     <item>
@@ -406,24 +434,10 @@
       <description></description>
     </item>
     <item>
-      <title>Post Exploitation</title>
-      <link>https://0x-s0M3n4th.github.io/tags/post-exploitation/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/post-exploitation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Privacy</title>
       <link>https://0x-s0M3n4th.github.io/tags/privacy/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privilege Escalation</title>
-      <link>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</guid>
       <description></description>
     </item>
     <item>
@@ -445,13 +459,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/reconnaissance/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/reconnaissance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Red Team</title>
-      <link>https://0x-s0M3n4th.github.io/tags/red-team/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/red-team/</guid>
       <description></description>
     </item>
     <item>
