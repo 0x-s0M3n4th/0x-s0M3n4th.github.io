@@ -14,6 +14,20 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Understanding Active Directory</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
+      <description>A foundational overview of AD components, structure, and security concepts.</description>
+    </item>
+    <item>
+      <title>Understanding Kerberos</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</guid>
+      <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
+    </item>
+    <item>
       <title>Attacking Active Directory</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -47,20 +61,6 @@
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
       <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
-    </item>
-    <item>
-      <title>Understanding Active Directory</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
-      <description>A foundational overview of AD components, structure, and security concepts.</description>
-    </item>
-    <item>
-      <title>Understanding Kerberos</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</guid>
-      <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
     </item>
   </channel>
 </rss>

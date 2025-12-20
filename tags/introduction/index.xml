@@ -14,18 +14,18 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to Network Pentesting</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</guid>
-      <description>Overview of network penetration testing concepts, methodology, and scope.</description>
-    </item>
-    <item>
       <title>Introduction to Network Penetration Testing</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</guid>
       <description>Overview of the network penetration testing phase and workflow.</description>
+    </item>
+    <item>
+      <title>Introduction to Network Pentesting</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</guid>
+      <description>Overview of network penetration testing concepts, methodology, and scope.</description>
     </item>
   </channel>
 </rss>

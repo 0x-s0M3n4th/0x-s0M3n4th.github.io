@@ -14,18 +14,18 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setting Up C2 Operations</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
-      <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
-    </item>
-    <item>
       <title>Introduction to Command and Control</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
       <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
+    </item>
+    <item>
+      <title>Setting Up C2 Operations</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
+      <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
     </item>
   </channel>
 </rss>

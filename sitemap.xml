@@ -2,28 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/00-google-dorking--dns-enumeration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
@@ -35,7 +32,10 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/00-reconnaisance-basics/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</loc>
@@ -50,28 +50,28 @@
     <loc>https://0x-s0M3n4th.github.io/blogs/welcome/</loc>
     <lastmod>2025-07-08T04:14:54-08:00</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/01-deep-passive-recon/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/01-enumerating-subdomains/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</loc>
@@ -95,13 +95,16 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/02-profiling-websites-using-eyewitness/</loc>
@@ -113,10 +116,10 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</loc>
@@ -137,13 +140,19 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</loc>
@@ -152,10 +161,10 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/04-probing-open-services-ports-and-os/</loc>
@@ -164,10 +173,13 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/05-evasion-techniques/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/05-the-harvester/</loc>
@@ -176,7 +188,7 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/06-social-media-recon/</loc>
@@ -188,7 +200,7 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/</loc>
@@ -197,13 +209,13 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/07-enumerating-common-network-services/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/08-setting-up-modern-vulnerable-elastic-search/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/08-setting-up-modern-vulnerable-elastic-search/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/08-performing-user-enum-using-noise-authentication/</loc>
@@ -212,20 +224,23 @@
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/09-finding-data-leaks-on-the-cloud/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/10-snmp-misconguration/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/09-finding-data-leaks-on-the-cloud/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</loc>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/10-snmp-misconguration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/</loc>
     <lastmod>2025-12-20T11:14:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
@@ -342,15 +357,6 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/introduction/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/lateral-movement/</loc>
@@ -471,12 +477,6 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/trust-abuse/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/vulnerable-labs/</loc>

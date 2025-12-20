@@ -14,32 +14,11 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Attacking Active Directory</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</guid>
-      <description>Core techniques and attack paths leveraged to compromise Active Directory environments.</description>
-    </item>
-    <item>
       <title>Easy home lab setup guide</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</guid>
       <description>A quick guide to setting up a virtualized pentest environment using minimal resources.</description>
-    </item>
-    <item>
-      <title>Enumerating Active Directory</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</guid>
-      <description>Techniques for performing AD enumeration using built-in, manual, and automated methods.</description>
-    </item>
-    <item>
-      <title>Gaining a Shell Using pth-winexe, Impacket &amp; xfreerdp</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</guid>
-      <description>Using various tools to gain remote shells through pass-the-hash and RDP-based approaches.</description>
     </item>
     <item>
       <title>Google Dorking &amp; DNS Enumeration</title>
@@ -49,6 +28,20 @@
       <description>Using Google search operators and DNS enumeration techniques to gather actionable intelligence.</description>
     </item>
     <item>
+      <title>Introduction to Command and Control</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
+      <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
+    </item>
+    <item>
+      <title>Introduction to Network Penetration Testing</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</guid>
+      <description>Overview of the network penetration testing phase and workflow.</description>
+    </item>
+    <item>
       <title>Introduction to Network Pentesting</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -56,11 +49,11 @@
       <description>Overview of network penetration testing concepts, methodology, and scope.</description>
     </item>
     <item>
-      <title>Misconfiguring SSH on Windows Server</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</link>
+      <title>Introduction to Post Exploitation</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</guid>
-      <description>Understanding insecure SSH setups on Windows Server and their impact.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
+      <description>Foundational concepts and objectives of the post exploitation phase.</description>
     </item>
     <item>
       <title>Nessus</title>
@@ -89,11 +82,18 @@
       <description>Introduction to footprinting concepts and the critical difference between active and passive reconnaissance.</description>
     </item>
     <item>
-      <title>Use Cases of Command and Control</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
+      <title>Understanding Active Directory</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
-      <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
+      <description>A foundational overview of AD components, structure, and security concepts.</description>
+    </item>
+    <item>
+      <title>Understanding Kerberos</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</guid>
+      <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
     </item>
     <item>
       <title>Practical Demo: Creating a Forensic Image with FTK Imager</title>
@@ -131,11 +131,11 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
 &lt;p&gt;I share real-world notes and tactics I’ve picked up through learning, labs, and exercises. Think of it as my personal “Field Manual” — from privilege escalation to lateral movement and beyond.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BloodHound</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</link>
+      <title>Attacking Active Directory</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</guid>
-      <description>Using BloodHound to analyze AD relationships and discover privilege escalation paths.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</guid>
+      <description>Core techniques and attack paths leveraged to compromise Active Directory environments.</description>
     </item>
     <item>
       <title>Deep Passive Recon</title>
@@ -145,11 +145,11 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Techniques for gathering intelligence and mapping targets without ever directly touching their infrastructure.</description>
     </item>
     <item>
-      <title>Domain Dominance and Persistence</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</link>
+      <title>Enumerating Active Directory</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</guid>
-      <description>Achieving long-term persistence and complete domination of an AD domain.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</guid>
+      <description>Techniques for performing AD enumeration using built-in, manual, and automated methods.</description>
     </item>
     <item>
       <title>Enumerating Subdomains</title>
@@ -159,25 +159,25 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Techniques and tools to discover subdomains for expanding the attack surface.</description>
     </item>
     <item>
-      <title>Gaining Access by Exploiting SSH</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</link>
+      <title>Gaining a Shell Using pth-winexe, Impacket &amp; xfreerdp</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</guid>
-      <description>Techniques for compromising SSH services using weak configurations or credentials.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</guid>
+      <description>Using various tools to gain remote shells through pass-the-hash and RDP-based approaches.</description>
     </item>
     <item>
-      <title>Post Exploitation Using Meterpreter</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</link>
+      <title>Misconfiguring SSH on Windows Server</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</guid>
-      <description>Leveraging Meterpreter sessions for internal reconnaissance and privilege escalation.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</guid>
+      <description>Understanding insecure SSH setups on Windows Server and their impact.</description>
     </item>
     <item>
-      <title>Setting Up C2 Operations</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
+      <title>Use Cases of Command and Control</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
-      <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
+      <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
     <item>
       <title>Vulnerability Discovery Using Nmap</title>
@@ -261,25 +261,32 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
-      <title>Exploiting RDP</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</link>
+      <title>BloodHound</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</guid>
-      <description>Methods for exploiting Remote Desktop Protocol weaknesses to gain system access.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</guid>
+      <description>Using BloodHound to analyze AD relationships and discover privilege escalation paths.</description>
     </item>
     <item>
-      <title>Lateral Movement and Pivoting</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</link>
+      <title>Domain Dominance and Persistence</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</guid>
-      <description>Techniques to expand access by moving laterally and pivoting across segmented networks.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</guid>
+      <description>Achieving long-term persistence and complete domination of an AD domain.</description>
     </item>
     <item>
-      <title>Leveraging Network-Based Trust in AD</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</link>
+      <title>Gaining Access by Exploiting SSH</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
-      <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</guid>
+      <description>Techniques for compromising SSH services using weak configurations or credentials.</description>
+    </item>
+    <item>
+      <title>Post Exploitation Using Meterpreter</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</guid>
+      <description>Leveraging Meterpreter sessions for internal reconnaissance and privilege escalation.</description>
     </item>
     <item>
       <title>Profiling Websites Using EyeWitness</title>
@@ -296,18 +303,18 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <description>How to configure and use Proxychains to route your hacking tools through intermediate servers.</description>
     </item>
     <item>
+      <title>Setting Up C2 Operations</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
+      <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
+    </item>
+    <item>
       <title>Working With Greenbone Vulnerability Manager</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</guid>
       <description>Using Greenbone/OpenVAS for enterprise-grade vulnerability scanning.</description>
-    </item>
-    <item>
-      <title>Working With Starkiller</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</guid>
-      <description>Using Starkiller as a GUI for Covenant C2 to manage beacons and operations.</description>
     </item>
     <item>
       <title>Practical Demo: Linux Forensics</title>
@@ -374,6 +381,48 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
     </item>
     <item>
+      <title>Exploiting RDP</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</guid>
+      <description>Methods for exploiting Remote Desktop Protocol weaknesses to gain system access.</description>
+    </item>
+    <item>
+      <title>Lateral Movement and Pivoting</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</guid>
+      <description>Techniques to expand access by moving laterally and pivoting across segmented networks.</description>
+    </item>
+    <item>
+      <title>Leveraging Network-Based Trust in AD</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
+      <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
+    </item>
+    <item>
+      <title>Using Web Application Scanners</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
+      <description>Scanning web applications using tools like nmap, metaploit.</description>
+    </item>
+    <item>
+      <title>Working With Starkiller</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</guid>
+      <description>Using Starkiller as a GUI for Covenant C2 to manage beacons and operations.</description>
+    </item>
+    <item>
+      <title>Practical Demo: Windows Forensics</title>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
+      <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
+    </item>
+    <item>
       <title>Live Host Discovery</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -386,34 +435,6 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</guid>
       <description>Man-in-the-Middle attacks used for credential stealing, sniffing, and session hijacking.</description>
-    </item>
-    <item>
-      <title>Using Web Application Scanners</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</guid>
-      <description>Scanning web applications using tools like nmap, metaploit.</description>
-    </item>
-    <item>
-      <title>Practical Demo: Windows Forensics</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
-      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
-      <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
-    </item>
-    <item>
-      <title>DNS Tunneling</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</guid>
-      <description>Using DNS tunneling to bypass firewalls and exfiltrate data over DNS queries.</description>
-    </item>
-    <item>
-      <title>Identifying and Exploiting Vulnerable Services</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</guid>
-      <description>Techniques for discovering and attacking vulnerable network-exposed services.</description>
     </item>
     <item>
       <title>Probing Open Services, Ports &amp; OS</title>
@@ -430,11 +451,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Using Whois lookups for registration data and the Recon-ng framework for automated modular reconnaissance.</description>
     </item>
     <item>
-      <title>BGP Hijacking</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</link>
+      <title>DNS Tunneling</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</guid>
-      <description>Understanding how attackers manipulate BGP routes for interception and traffic redirection.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</guid>
+      <description>Using DNS tunneling to bypass firewalls and exfiltrate data over DNS queries.</description>
     </item>
     <item>
       <title>Evasion Techniques</title>
@@ -444,6 +465,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Methods for bypassing detection while performing scans and enumeration.</description>
     </item>
     <item>
+      <title>Identifying and Exploiting Vulnerable Services</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</guid>
+      <description>Techniques for discovering and attacking vulnerable network-exposed services.</description>
+    </item>
+    <item>
       <title>TheHarvester</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/05-the-harvester/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -451,11 +479,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Automating the collection of emails, subdomains, and employee names from public search engines.</description>
     </item>
     <item>
-      <title>WinRM Configuration on Windows Server 2019</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</link>
+      <title>BGP Hijacking</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</guid>
-      <description>Configuring Windows Remote Management (WinRM) securely and understanding its weaknesses.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</guid>
+      <description>Understanding how attackers manipulate BGP routes for interception and traffic redirection.</description>
     </item>
     <item>
       <title>Social Media Recon (SOCMINT)</title>
@@ -472,11 +500,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Techniques to spoof MAC and IP addresses for stealth in network engagements.</description>
     </item>
     <item>
-      <title>WinRM Exploitation</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</link>
+      <title>WinRM Configuration on Windows Server 2019</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</guid>
-      <description>Techniques for exploiting misconfigured WinRM services to obtain system access.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</guid>
+      <description>Configuring Windows Remote Management (WinRM) securely and understanding its weaknesses.</description>
     </item>
     <item>
       <title>Enumerating Common Network Services</title>
@@ -486,6 +514,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Gathering information from popular network services like SMB, FTP, SSH, etc.</description>
     </item>
     <item>
+      <title>WinRM Exploitation</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</guid>
+      <description>Techniques for exploiting misconfigured WinRM services to obtain system access.</description>
+    </item>
+    <item>
       <title>Setting Up Modern Vulnerable ElasticSearch</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/08-setting-up-modern-vulnerable-elastic-search/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -493,18 +528,18 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>Deploying intentionally vulnerable ElasticSearch instances for practice and testing.</description>
     </item>
     <item>
-      <title>Exploiting ElasticSearch Misconfigurations</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</guid>
-      <description>Identifying and exploiting common ElasticSearch misconfiguration vulnerabilities.</description>
-    </item>
-    <item>
       <title>User Enumeration Using Noise Authentication</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/08-performing-user-enum-using-noise-authentication/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/08-performing-user-enum-using-noise-authentication/</guid>
       <description>Performing user enumeration by exploiting authentication noise patterns.</description>
+    </item>
+    <item>
+      <title>Exploiting ElasticSearch Misconfigurations</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</guid>
+      <description>Identifying and exploiting common ElasticSearch misconfiguration vulnerabilities.</description>
     </item>
     <item>
       <title>Finding Data Leaks on the Cloud</title>
@@ -526,41 +561,6 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</guid>
       <description>Techniques for exploiting SNMP weaknesses to extract sensitive network information.</description>
-    </item>
-    <item>
-      <title>Introduction to Command and Control</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
-      <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
-    </item>
-    <item>
-      <title>Introduction to Network Penetration Testing</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</guid>
-      <description>Overview of the network penetration testing phase and workflow.</description>
-    </item>
-    <item>
-      <title>Introduction to Post Exploitation</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
-      <description>Foundational concepts and objectives of the post exploitation phase.</description>
-    </item>
-    <item>
-      <title>Understanding Active Directory</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
-      <description>A foundational overview of AD components, structure, and security concepts.</description>
-    </item>
-    <item>
-      <title>Understanding Kerberos</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</guid>
-      <description>A comprehensive explanation of the Kerberos authentication protocol used within AD.</description>
     </item>
     <item>
       <title>Practical Guide: MAC Address Spoofing</title>

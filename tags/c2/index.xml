@@ -14,18 +14,18 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/c2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Use Cases of Command and Control</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
-      <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
-    </item>
-    <item>
       <title>Introduction to Command and Control</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
       <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
+    </item>
+    <item>
+      <title>Use Cases of Command and Control</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
+      <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
   </channel>
 </rss>

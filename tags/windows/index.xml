@@ -14,6 +14,13 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Understanding Active Directory</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
+      <description>A foundational overview of AD components, structure, and security concepts.</description>
+    </item>
+    <item>
       <title>Exploiting RDP</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -26,13 +33,6 @@
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
       <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
-    </item>
-    <item>
-      <title>Understanding Active Directory</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</guid>
-      <description>A foundational overview of AD components, structure, and security concepts.</description>
     </item>
   </channel>
 </rss>

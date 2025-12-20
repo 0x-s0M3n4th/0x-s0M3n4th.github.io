@@ -14,6 +14,20 @@
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/red-team/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introduction to Command and Control</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
+      <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
+    </item>
+    <item>
+      <title>Introduction to Post Exploitation</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
+      <description>Foundational concepts and objectives of the post exploitation phase.</description>
+    </item>
+    <item>
       <title>Attacking Active Directory</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
@@ -26,6 +40,13 @@
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
       <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
+    </item>
+    <item>
+      <title>Anti-Malware Evasion Techniques</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
+      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
+      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
       <title>Gaining Access by Exploiting SSH</title>
@@ -42,11 +63,11 @@
       <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
     </item>
     <item>
-      <title>Anti-Malware Evasion Techniques</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
+      <title>Creating Custom Payloads With Shelter</title>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
-      <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
+      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
     </item>
     <item>
       <title>Leveraging Network-Based Trust in AD</title>
@@ -56,32 +77,11 @@
       <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
     </item>
     <item>
-      <title>Creating Custom Payloads With Shelter</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
-      <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
-    </item>
-    <item>
       <title>DNS Tunneling</title>
       <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</guid>
       <description>Using DNS tunneling to bypass firewalls and exfiltrate data over DNS queries.</description>
-    </item>
-    <item>
-      <title>Introduction to Command and Control</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
-      <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
-    </item>
-    <item>
-      <title>Introduction to Post Exploitation</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
-      <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
-      <description>Foundational concepts and objectives of the post exploitation phase.</description>
     </item>
     <item>
       <title>Practical Guide: MAC Address Spoofing</title>
