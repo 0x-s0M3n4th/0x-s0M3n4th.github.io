@@ -1,3 +1,14 @@
+---
+title: "Practical Suricata"
+date: 2025-10-12T12:48:03+05:30
+lastmod: 2025-10-12T12:42:03+05:30
+draft: false
+author: "0x-s0M3n4th"
+tags: ["Blue Team", "Network Security", "IDS", "SOC"]
+description: "A practical beginner-friendly guide to Suricata with custom detection rules including ARP spoofing and SSH brute-force logging."
+weight: 4
+---
+
 1. Follow these commands step by step ->
 ```bash
 sudo apt-get install software-properties-common
