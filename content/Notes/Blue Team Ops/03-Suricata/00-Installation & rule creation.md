@@ -38,27 +38,27 @@ alert arp any any -> any any (msg:"LOCAL Testnet ARP Scanning Detected"; thresho
 ```
 **Command debrief: _"If any device sends 15 or more ARP packets within 5 seconds, generate an alert with ID 1000002."_**
 
-![suricata_1](/static/images/Blue%20Team%20Ops/Suricata/suricata_1.png)
+![suricata_1](/images/Blue%20Team%20Ops/Suricata/suricata_1.png)
 
-3. Enable the ARP capturing:
-![suricata_2](/static/images/Blue%20Team%20Ops/Suricata/suricata_3.png)
+1. Enable the ARP capturing:
+![suricata_2](/images/Blue%20Team%20Ops/Suricata/suricata_3.png)
 
-4. Save and exit.
-5. Restart suricata using the following command:
+1. Save and exit.
+2. Restart suricata using the following command:
 ```bash
 sudo systemctl restart suricata
 ```
 
 _command screenshots:_
-![suricata_4](/static/images/Blue%20Team%20Ops/Suricata/suricata_4.png)
+![suricata_4](/images/Blue%20Team%20Ops/Suricata/suricata_4.png)
 
-6. Use the following command to generate traffic from anyother/same machine itself from terminal:
+1. Use the following command to generate traffic from anyother/same machine itself from terminal:
 ```bash
 sudo netdiscover -r 192.168.83.0/24
 ```
 
-7. We can see the logs comming in.
-![suricata_5](/static/images/Blue%20Team%20Ops/Suricata/suricata_5.png)
+1. We can see the logs comming in.
+![suricata_5](/images/Blue%20Team%20Ops/Suricata/suricata_5.png)
 
 
 ### SSH bruteforce rule:
@@ -71,9 +71,9 @@ alert tcp any any -> any 22 (msg:"LOCAL SSH Brute Force Detected"; flags:S; flow
 - We are checking for the initial handshake of **TCP** which is the _SYN_ flag.
 - count 5, seconds 30: Triggers if one IP tries to initiate 5 connections in 30 seconds.
 
-![suricata_2](/static/images/Blue%20Team%20Ops/Suricata/suricata_6.png)
+![suricata_2](/images/Blue%20Team%20Ops/Suricata/suricata_6.png)
 
-9. Again restart suricata after adding this rule.
+1. Again restart suricata after adding this rule.
 
 ---
 
