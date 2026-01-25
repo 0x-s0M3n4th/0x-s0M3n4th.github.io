@@ -2,6 +2,7 @@
 title: "Practical Wireshark"
 date: 2025-10-12T11:26:03+05:30
 lastmod: 2025-10-12T11:26:03+05:30
+comments: true
 draft: false
 author: "0x-s0M3n4th"
 tags: ["Blue Team", "Lab"]

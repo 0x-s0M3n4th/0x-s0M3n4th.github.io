@@ -2,6 +2,7 @@
 title: "Practical Snort"
 date: 2025-10-12T12:17:03+05:30
 lastmod: 2025-10-12T12:42:03+05:30
+comments: true
 draft: false
 author: "0x-s0M3n4th"
 tags: ["Blue Team", "Lab"]
