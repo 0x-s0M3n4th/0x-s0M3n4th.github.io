@@ -50,7 +50,20 @@ params:
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
-
+  comments:
+    host: "https://giscus.app"
+    repo: "0x-s0M3n4th/0x-s0M3n4th.github.io"
+    repoId: "R_kgDOPV2wYg"
+    category: "General"
+    categoryId: "DIC_kwDOPV2wYs4C1aSa"
+    mapping: "url"
+    strict: "0"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "en"
+    loading: "lazy"
   label:
     text: ""
     icon: /apple-touch-icon.png
