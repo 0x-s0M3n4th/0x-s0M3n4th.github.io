@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>System Administration Notes on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/notes/system_administration/</link>
+    <description>Recent content in System Administration Notes on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Nov 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/notes/system_administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - INTRO</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</link>
+      <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</guid>
+      <description>&lt;p&gt;Radhe Radhe!
+This is going to be a beginner to advance of &lt;em&gt;system administration&lt;/em&gt; tutorial. This whole section will contain my personal notes , those which i had learned during a bunch of sessions. If you feel any difficulty feel free to reach out through this mail &lt;code&gt;cyb3rinsi6hts@gmail.com&lt;/code&gt; .&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I hope you will enjoy this big tutorial. I am still learning , please pardon any mistakes. Thank you for your time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 1</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</link>
+      <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Commands are indicated like this:&lt;/strong&gt; &lt;code&gt;COMMANDS&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;purpose of &lt;code&gt;touch&lt;/code&gt; command →&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;creating a new file&lt;/li&gt;
+&lt;li&gt;changing / modifying the timestamp of a file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;stat&lt;/code&gt; command is used to show the timestamp of any file in directory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;touch {1..10}.txt&lt;/code&gt; → creating simultaneous file at sme time&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating recursive directories altogether → &lt;code&gt;mkdir LPU/CSE LPU/ECE LPU/ME&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;ls -R /LPU&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;tty&lt;/code&gt; → terminal interface
+&lt;img alt=&#34;SYSADMIN_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_1/Lec_1_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;user info enumueration → &lt;code&gt;id&lt;/code&gt;,&lt;code&gt;whoami&lt;/code&gt;,&lt;code&gt;who&lt;/code&gt;,&lt;code&gt;id&lt;/code&gt;,&lt;code&gt;w&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;logname&lt;/code&gt; → to see current login name&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 2</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</link>
+      <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;which&lt;/code&gt; → Exact location of the exeutable file&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;whereis&lt;/code&gt; → local documentation&lt;/li&gt;
+&lt;li&gt;Linux help commands :
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;man&lt;/code&gt; → manual pages , docs of the command → we must aware about
+the exact command name of the command
+&lt;ol&gt;
+&lt;li&gt;Total 9 categories of the man pages are available
+&lt;ol&gt;
+&lt;li&gt;exe , config , kernel files etc categories.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;If man doesnot work for newer systems we need to update the
+man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;man man&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;man -k ANY_COMMAND_YOU_KNOW_PARTIALLY&lt;/code&gt; like password&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt=&#34;SYSADMIN_9&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_2/Lec_2_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
