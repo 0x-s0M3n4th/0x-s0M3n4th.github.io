@@ -60,6 +60,8 @@ sudo netdiscover -r 192.168.83.0/24
 7. We can see the logs comming in.
 ![suricata_5](/static/images/Blue%20Team%20Ops/Suricata/suricata_5.png)
 
+
+### SSH bruteforce rule:
 8. Next add custom rule for logging **SSH brute force attempts** 
 
 ```bash
@@ -74,6 +76,8 @@ alert tcp any any -> any 22 (msg:"LOCAL SSH Brute Force Detected"; flags:S; flow
 9. Again restart suricata after adding this rule.
 
 ---
+
+## Integrating suricata with wazuh:
 
 **I have integrated suricata logs directly inside wazuh, i'll share now how i did that. It's much easier to see the logs in a GUI pane rather than in a cli view.(my preference)**
 
