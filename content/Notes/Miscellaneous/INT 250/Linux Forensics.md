@@ -2,6 +2,7 @@
 title: "Practical Demo: Linux Forensics"
 date: 2025-11-06T19:00:00+05:30
 weight: 3
+comments: true
 draft: false
 description: "A simple walkthrough of checking command history and system logs for suspicious activity."
 tags:

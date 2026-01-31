@@ -1,6 +1,7 @@
 ---
 title: "Practical Demo: Windows Forensics"
 date: 2025-11-08T20:15:00+05:30
+comments: true
 weight: 4
 draft: false
 description: "An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc."
