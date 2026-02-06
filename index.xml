@@ -241,8 +241,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
       <link>https://0x-s0M3n4th.github.io/blogs/blog_1/</link>
       <pubDate>Sun, 19 Oct 2025 18:45:11 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/blogs/blog_1/</guid>
-      <description>&lt;p&gt;Radhe Radhe!&lt;/p&gt;
-&lt;p&gt;This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.&lt;/p&gt;
+      <description>&lt;p&gt;This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.&lt;/p&gt;
 &lt;p&gt;So, &lt;em&gt;let&amp;rsquo;s start with what I was doing&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After completing &lt;code&gt;eJPT&lt;/code&gt; certification and learning the basics as well as core concepts of &lt;code&gt;system administration&lt;/code&gt;, I got my hands dirty on &lt;code&gt;CTF platforms&lt;/code&gt; like &lt;code&gt;HTB&lt;/code&gt;. I took a one-month subscription just to get the experience of it. But not gonna lie, it was not what I expected. First of all, playing &lt;code&gt;CTFs&lt;/code&gt; on these platforms are very good for many people, and the platforms do a great job. But I didn&amp;rsquo;t like the &lt;code&gt;CTFish&lt;/code&gt; or more like &lt;code&gt;obviously vulnerable&lt;/code&gt; experience. I thought the normal HTB boxes would replicate real-world scenarios—hardened systems where normal scans easily fail, and where initial access depends on phishing, social engineering, or hardcore OSINT rather than an obvious open port. That wasn&amp;rsquo;t what I found. But definately &lt;code&gt;HTB&lt;/code&gt; is a great platform for sharpening your skills under time pressure.&lt;/p&gt;</description>
     </item>
@@ -575,6 +574,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</guid>
       <description>A quick, hands-on guide to understanding and performing MAC address spoofing for network testing.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://0x-s0M3n4th.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/portfolio/</guid>
+      <description></description>
     </item>
     <item>
       <title>Table of Contents</title>
