@@ -64,6 +64,7 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 *Self-Employed / Academic | 2025 - Present*
 - Managing hybrid Linux/Windows environments to simulate enterprise networks.
 - Developing scripts in Python and Bash to automate administrative tasks and attack simulations.
+- Performed and documented multi network sytem's exploit chains as well as how to administer them properly.
 
 ---
 
