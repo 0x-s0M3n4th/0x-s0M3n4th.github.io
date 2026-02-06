@@ -5,10 +5,6 @@ url: "/portfolio/"
 summary: "System Administration, Blue Teaming, and Red Team Operations."
 ---
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="/images/pfp.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid var(--primary);">
-</div>
-
 ## About Me
 I am a **3rd-year student** and cybersecurity enthusiast with a focus on **Infrastructure Security** and **Adversary Emulation**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
 
