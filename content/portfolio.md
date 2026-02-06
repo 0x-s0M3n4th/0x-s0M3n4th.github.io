@@ -5,8 +5,12 @@ url: "/portfolio/"
 summary: "System Administration, Blue Teaming, and Red Team Operations."
 ---
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid var(--primary);">
+</div>
+
 ## About Me
-I am a **3rd-year student** and cybersecurity enthusiast with a focus on **Infrastructure Security** and **Adversary Emulation**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
+I am a **3rd-year student** and yes a normal guy just like you, My core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
 
 I prefer a hands-on, research-driven approach, utilizing extensive home labs to simulate **Phishing Campaigns**, set up basic **C2 Operations**, and practice **Blue Team** monitoring. Currently, I am also refining my low-level programming skills in **C** to better understand operating system internals.
 
@@ -51,11 +55,12 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 ---
 
 ## Certifications & Courses
-- **PNPT coursework** (Practical Network Penetration Tester) - *TCM Security*
 - **eJPT** (eLearnSecurity Junior Penetration Tester) - *INE Security*
-- **HTB CPTS(On going)** (Hack the Box Certified Penetration Testing Specialist) - *Hack The Box*
 - **RH-124, RH-134** - *Red Hat Inc*
+- **PNPT coursework** (Practical Network Penetration Tester) - *TCM Security*
 - **Practical Help Desk** - *TCM Security*
+- **HTB CPTS(On going)** (Hack the Box Certified Penetration Testing Specialist) - *Hack The Box*
+
 
 ---
 
@@ -77,6 +82,6 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 ## Contact
 
 - **Email:** [sebaitsom6297@gmail.com](mailto:sebaitsom6297@gmail.com)
-- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait-52575823b/) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) 
+- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) 
 
 [**Download My Resume (PDF)**](/my_cv.pdf)
