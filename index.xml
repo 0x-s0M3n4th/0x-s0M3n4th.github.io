@@ -422,6 +422,72 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
     </item>
     <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 3</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Terminal shortcuts :
+&lt;ol&gt;
+&lt;li&gt;CTRL + a → It is going to jump my cursor to the beginning of the
+command line&lt;/li&gt;
+&lt;li&gt;CTRL + e → End of command line&lt;/li&gt;
+&lt;li&gt;CTRL + k → Cut from the specific location&amp;rsquo;s words of the command
+using the cursor&lt;/li&gt;
+&lt;li&gt;CTRL + r → Search the command history in that terminal&lt;/li&gt;
+&lt;li&gt;executing command from history → [!COMMAND_NUMBER]&lt;/li&gt;
+&lt;li&gt;CTRL + arrow keys[left,right] → use to move my cursor word by
+word&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Deleting files and directories :
+&lt;ol&gt;
+&lt;li&gt;Deleting file → rm FILE_NAME&lt;/li&gt;
+&lt;li&gt;Deleting directories → rmdir DIRECTORY_NAME → This is used to
+delete empty directory&lt;/li&gt;
+&lt;li&gt;rm -r DIR_NAME → Delete Non-empty directories&lt;/li&gt;
+&lt;li&gt;rm -rf DIR_NAME → Forceful Deletion of all files inside
+directories&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Wildcards :
+&lt;ol&gt;
+&lt;li&gt;‘ * ’ → all matching&lt;/li&gt;
+&lt;li&gt;‘ ? ’ → Match one character , ‘??’ → match two chars → It is
+used for exact match&lt;/li&gt;
+&lt;li&gt;‘[ ]’ → for example we are having two files named a.txt and
+b.txt → ls [ab].txt → either starting from a.txt or b.txt&lt;/li&gt;
+&lt;li&gt;We can combine all three according to our convinience&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Copy command [cp] :
+&lt;ol&gt;
+&lt;li&gt;cp SOURCE_PATH DESTINATION_PATH → cp abc.txt /home/Downloads&lt;/li&gt;
+&lt;li&gt;cp -r → recursive copy → used for diretory copying&lt;/li&gt;
+&lt;li&gt;cp -i → ‘i’ interactive copy → for example if we are
+overwritting a file by copying it will give us a warning&lt;/li&gt;
+&lt;li&gt;cp -p → Preserve attributes like permission,timestamp,all other
+etc..&lt;/li&gt;
+&lt;li&gt;cp -v → more readability detailed output&lt;/li&gt;
+&lt;li&gt;cp -u *.txt DESTINATION_PATH → copying only unique files from
+the SOURCE dir&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Move command :
+&lt;ol&gt;
+&lt;li&gt;File is get deleted from Source while using the ‘mv’ command /
+moving from source to dest&lt;/li&gt;
+&lt;li&gt;-i → Prompt before overwrite&lt;/li&gt;
+&lt;li&gt;-v → verbose output&lt;/li&gt;
+&lt;li&gt;-f → forcefully moving&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Managing links :
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110059.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Practical Suricata</title>
       <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
@@ -576,11 +642,11 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
       <description>A quick, hands-on guide to understanding and performing MAC address spoofing for network testing.</description>
     </item>
     <item>
-      <title></title>
+      <title>Portfolio</title>
       <link>https://0x-s0M3n4th.github.io/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://0x-s0M3n4th.github.io/portfolio/</guid>
-      <description></description>
+      <description>System Administration, Blue Teaming, and Red Team Operations.</description>
     </item>
     <item>
       <title>Table of Contents</title>
