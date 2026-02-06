@@ -47,6 +47,7 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 
 ### **3. Remote Control (RC) Car**
 - Designed and assembled a custom RC car, handling component selection, circuit assembly, and motor control logic.
+- Key components used - Arduino Uno , L298N Motor Driver, DC Gear Motors, HC-05 Bluetooth Module, Li-ion Batteries.
 
 ### **4. [Cybersecurity Blog & Knowledge Base](https://0x-s0m3n4th.github.io)**
 - Built and maintained this site using **Hugo & PaperMod**.
