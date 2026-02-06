@@ -7,7 +7,6 @@ weight: 2
 params:
   author: 0x-s0M3n4th
 ---
-Radhe Radhe!
 
 This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.
 
