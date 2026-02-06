@@ -74,6 +74,8 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 ---
 
 ## Contact
-- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait-52575823b/) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) / [Email] (sebaitsom6297@gmail.com)
+
+- **Email:** [sebaitsom6297@gmail.com](mailto:sebaitsom6297@gmail.com)
+- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait-52575823b/) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) 
 
 [**Download My Resume (PDF)**](/my_cv.pdf)
