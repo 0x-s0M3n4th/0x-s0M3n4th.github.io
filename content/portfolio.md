@@ -52,8 +52,10 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 
 ## Certifications & Courses
 - **PNPT coursework** (Practical Network Penetration Tester) - *TCM Security*
-- **eJPT** (eLearnSecurity Junior Penetration Tester)
+- **eJPT** (eLearnSecurity Junior Penetration Tester) - *INE Security*
 - **HTB CPTS(On going)** (Hack the Box Certified Penetration Testing Specialist) - *Hack The Box*
+- **RH-124, RH-134** - *Red Hat Inc*
+- **Practical Help Desk** - *TCM Security*
 
 ---
 
@@ -71,13 +73,7 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 
 ---
 
-## Open-Source Contributions
-- **0x-s0m3n4th/portfolio**: Maintained and customized the Hugo PaperMod theme configuration.
-
----
-
 ## Contact
-- **Email:** [sebaitsom6297@gmail.com]
-- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait-52575823b/) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th)
+- **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait-52575823b/) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) / [Email] (sebaitsom6297@gmail.com)
 
 [**Download My Resume (PDF)**](/my_cv.pdf)
