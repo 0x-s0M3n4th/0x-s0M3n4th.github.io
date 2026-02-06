@@ -1,8 +1,8 @@
 ---
 title: "SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 3"
 date: 2025-11-02T18:45:11+05:30
-draft: true
-weight: 1
+draft: false
+weight: 4
 # tags: ["system administration", "Linux"]
 params:
   author: 0x-s0M3n4th
