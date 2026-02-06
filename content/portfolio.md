@@ -6,7 +6,7 @@ summary: "System Administration, Blue Teaming, and Red Team Operations."
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid var(--primary);">
+    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 2px solid var(--primary);">
 </div>
 
 ## About Me
