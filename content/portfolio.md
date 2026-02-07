@@ -5,6 +5,15 @@ url: "/portfolio/"
 summary: "System Administration, Blue Teaming, and Red Team Operations."
 ---
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 2px solid var(--primary);">
+</div>
+
+## About Me
+I am a **3rd-year student** in **Lovely Professional University** and yes a normal guy just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
+
+I prefer a hands-on, research-driven approach, utilizing extensive home labs to simulate **Phishing Campaigns**, set up basic **C2 Operations**, and practice **Blue Team** monitoring. Currently, I am also refining my low-level programming skills in **C** to better understand operating system internals.
+
 <div class="vertical-nav">
   <a href="#about-me" class="nav-dot" title="About Me"></a>
   <a href="#skills--technologies" class="nav-dot" title="Skills"></a>
@@ -116,15 +125,6 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 2px solid var(--primary);">
-</div>
-
-## About Me
-I am a **3rd-year student** in **Lovely Professional University** and yes a normal guy just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
-
-I prefer a hands-on, research-driven approach, utilizing extensive home labs to simulate **Phishing Campaigns**, set up basic **C2 Operations**, and practice **Blue Team** monitoring. Currently, I am also refining my low-level programming skills in **C** to better understand operating system internals.
 
 ---
 
