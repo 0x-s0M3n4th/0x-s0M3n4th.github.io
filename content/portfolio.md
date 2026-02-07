@@ -182,7 +182,7 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 **Cybersecurity Student / Researcher**
 *Self-Employed / Academic | 2025 - Present*
 - **Enterprise Infrastructure Design:** Architected a multi-segment home laboratory mimicking real-world corporate networks, implementing strict network isolation (VLANs), hybrid Linux/Windows administration, and Active Directory hardening via Group Policy (GPO).
-- **Adversary Emulation (Red Operations):** Executed full kill-chain operations including **Phishing Campaign** development inside azure cloud, **C2 Infrastructure** deployment, and advanced **Active Directory Exploitation** (Kerberoasting, DCSync, Lateral Movement) to test network resilience.
+- **Adversary Emulation (Red Operations):** Executed full kill-chain operations including **Phishing Campaign** development inside azure cloud, **C2 Infrastructure** deployment, and advanced **Active Directory Exploitation** (Kerberoasting, Lateral Movement) to test network resilience.
 - **Defensive Engineering (Blue Operations):** Engineered a complete SOC stack integrating **Wazuh (SIEM)**, **Zeek**, and **Suricata**. Developed custom Suricata rules and Wazuh decoders to detect specific C2 beacons and exploit signatures generated during simulated attacks.
 
 ---
