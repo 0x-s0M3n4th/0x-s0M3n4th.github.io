@@ -181,9 +181,9 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 ## Experience
 **Cybersecurity Student / Researcher**
 *Self-Employed / Academic | 2025 - Present*
-- **Enterprise Infrastructure Design:** Architected a multi-segment home laboratory mimicking real-world corporate networks, implementing strict network isolation (VLANs), hybrid Linux/Windows administration, and Active Directory hardening via Group Policy (GPO).
-- **Adversary Emulation (Red Operations):** Executed full kill-chain operations including **Phishing Campaign** development inside azure cloud, **C2 Infrastructure** deployment, and advanced **Active Directory Exploitation** (Kerberoasting, Lateral Movement) to test network resilience.
-- **Defensive Engineering (Blue Operations):** Engineered a complete SOC stack integrating **Wazuh (SIEM)**, **Zeek**, and **Suricata**. Developed custom Suricata rules and Wazuh decoders to detect specific C2 beacons and exploit signatures generated during simulated attacks.
+- **Enterprise System Administration:** Designed and administered a hybrid Linux/Windows environment mimicking corporate scale. Configured core services (AD DS, DNS, DHCP), enforced network isolation via **VLANs**, and utilized **Python & Bash** to automate configuration management and system hardening.
+- **Network Penetration Testing:** Conducted end-to-end assessments to validate security postures, utilizing simulated **phishing campaigns** via azure for initial access and deploying basic **C2 infrastructure** to test network persistence. Successfully executed complex exploit chains targeting **Active Directory misconfigurations** and lateral movement paths.
+- **Security Infrastructure Implementation:** Deployed and integrated a centralized security monitoring stack (**Wazuh, Suricata, Zeek**) to audit system logs and network traffic, ensuring comprehensive visibility and verifying the detection of specific attack signatures.
 
 ---
 
