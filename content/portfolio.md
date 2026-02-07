@@ -199,6 +199,6 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 - **Socials:** [LinkedIn](https://www.linkedin.com/in/somenath-sebait) / [Twitter](https://x.com/cyb3r_Insi6ht) / [GitHub](https://github.com/0x-s0M3n4th) 
 
 ## Resume
-[**Download My Resume (PDF)**](/my_cv.pdf)
+[**Download My Resume (PDF)**](/cv_s0m3n4th.pdf)
 
 ![meme_2](/images/meme_2.jpeg)
