@@ -117,7 +117,11 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
-<img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; object-position: center center; border: 2px solid var(--primary);">
+<!-- <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 20px;">
+    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; object-position: center; border: 2px solid var(--primary);">
+</div> -->
+
+![meme](/images/fun.jpeg)
 
 ## About Me
 I am a **3rd-year student** in **Lovely Professional University** and yes a normal guy just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
