@@ -2,582 +2,624 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/00-google-dorking--dns-enumeration/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/00-google-dorking--dns-enumeration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/00-nessus/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/00-penetration-testing-phases/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/00-intro-to-hacking/00-penetration-testing-phases/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/00-reconnaisance-basics/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/00-reconnaisance-basics/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/00-understanding-active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/00-understanding-kerberos/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/ftk-imager/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-250/ftk-imager/</loc>
     <lastmod>2025-11-02T19:50:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</loc>
+    <loc>http://localhost:1313/notes/system_administration/lec-11/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-12/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-13/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-14/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-15/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-5/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-6/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-7/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-8/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-9/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/lec-10/</loc>
+    <lastmod>2025-11-02T18:45:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/system_administration/intro/</loc>
     <lastmod>2025-11-01T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</loc>
+    <loc>http://localhost:1313/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</loc>
     <lastmod>2025-10-12T11:26:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/blogs/welcome/</loc>
+    <loc>http://localhost:1313/blogs/welcome/</loc>
     <lastmod>2025-07-08T04:14:54-08:00</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/01-deep-passive-recon/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/01-deep-passive-recon/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/01-enumerating-active-directory/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/01-enumerating-subdomains/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/01-enumerating-subdomains/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/01-gaining-a-shell-with-pth-winexe-impacketxfreerdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/01-lab-build/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/01-misconfiguring-ssh-on-windows-server/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/01-vulnerability-discovery-using-nmap/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/01-working-with-bind-and-reverse-shells/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/tcpdump/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-250/tcpdump/</loc>
     <lastmod>2025-11-05T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</loc>
+    <loc>http://localhost:1313/notes/system_administration/lec-2/</loc>
     <lastmod>2025-11-01T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/blogs/blog_1/</loc>
+    <loc>http://localhost:1313/blogs/blog_1/</loc>
     <lastmod>2025-10-19T18:45:11+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</loc>
+    <loc>http://localhost:1313/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/02-bloodhound/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/02-domain-dominance-and-persistence/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/02-post-exploitation-using-meterpreter/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/02-profiling-websites-using-eyewitness/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/02-profiling-websites-using-eyewitness/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/02-proxychains/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/02-proxychains/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/02-working-with-greenbone-vuln-manager/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-250/linux-forensics/</loc>
     <lastmod>2025-11-06T19:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</loc>
+    <loc>http://localhost:1313/notes/system_administration/lec-3/</loc>
     <lastmod>2025-11-01T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</loc>
+    <loc>http://localhost:1313/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/03-active-scanning-techniques/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/03-active-scanning-techniques/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/03-tor/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/03-adds-research/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/03-tor/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/03-adds-research/00-defining-adds/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/03-exploiting-rdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/03-lateral-movement-and-pivoting/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/03-adds-research/01-users-groups-and-computers/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/03-using-web-application-scanners/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/03-working-with-starkiller/</loc>
+    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/miscellaneous/int-250/windows-forensics/</loc>
     <lastmod>2025-11-08T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</loc>
+    <loc>http://localhost:1313/notes/system_administration/lec-4/</loc>
     <lastmod>2025-11-02T18:45:11+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</loc>
+    <loc>http://localhost:1313/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/04-live-host-discovery/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/04-mitm-attacks/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/04-probing-open-services-ports-and-os/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/04-probing-open-services-ports-and-os/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/05-evasion-techniques/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/05-evasion-techniques/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/05-identifying-and-exploiting-vulnerable-services/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/05-the-harvester/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/05-the-harvester/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/05-vulnerability-assessment/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/06-bgp-hijack/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/06-social-media-recon/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/06-social-media-recon/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/06-spoofind-mac-and-ip-address/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/06-spoofind-mac-and-ip-address/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/06-winrm-configuration-on-win-server-2019/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/07-enumerating-common-network-services/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/07-enumerating-common-network-services/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/07-winrm-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/08-setting-up-modern-vulnerable-elastic-search/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/08-setting-up-modern-vulnerable-elastic-search/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/08-performing-user-enum-using-noise-authentication/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/08-performing-user-enum-using-noise-authentication/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/09-exploiting-elastic-search-misconfigs/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/09-finding-data-leaks-on-the-cloud/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/04-active-information-gathering/09-finding-data-leaks-on-the-cloud/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/10-snmp-misconguration/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/10-snmp-misconguration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/</loc>
     <lastmod>2025-12-20T11:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/active-directory/</loc>
+    <loc>http://localhost:1313/tags/active-directory/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/c2/</loc>
+    <loc>http://localhost:1313/tags/c2/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/internal-pentest/</loc>
+    <loc>http://localhost:1313/tags/internal-pentest/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/internal-pentesting/</loc>
+    <loc>http://localhost:1313/tags/internal-pentesting/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-pentesting/</loc>
+    <loc>http://localhost:1313/tags/network-pentesting/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/post-exploitation/</loc>
+    <loc>http://localhost:1313/tags/post-exploitation/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</loc>
+    <loc>http://localhost:1313/tags/privilege-escalation/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/red-team/</loc>
+    <loc>http://localhost:1313/tags/red-team/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/kerberos/</loc>
+    <loc>http://localhost:1313/tags/kerberos/</loc>
     <lastmod>2025-12-20T11:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/anonymity/</loc>
+    <loc>http://localhost:1313/tags/anonymity/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/authentication/</loc>
+    <loc>http://localhost:1313/tags/authentication/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/automation/</loc>
+    <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/bgp-hijacking/</loc>
+    <loc>http://localhost:1313/tags/bgp-hijacking/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/bind-shells/</loc>
+    <loc>http://localhost:1313/tags/bind-shells/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/bloodhound/</loc>
+    <loc>http://localhost:1313/tags/bloodhound/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/c2-frameworks/</loc>
+    <loc>http://localhost:1313/tags/c2-frameworks/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/c2-setup/</loc>
+    <loc>http://localhost:1313/tags/c2-setup/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/covenant/</loc>
+    <loc>http://localhost:1313/tags/covenant/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/cybersecurity/</loc>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/data-exfiltration/</loc>
+    <loc>http://localhost:1313/tags/data-exfiltration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/data-exposure/</loc>
+    <loc>http://localhost:1313/tags/data-exposure/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/dns-tunneling/</loc>
+    <loc>http://localhost:1313/tags/dns-tunneling/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/domain-dominance/</loc>
+    <loc>http://localhost:1313/tags/domain-dominance/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/elasticsearch/</loc>
+    <loc>http://localhost:1313/tags/elasticsearch/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/emails/</loc>
+    <loc>http://localhost:1313/tags/emails/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/enumeration/</loc>
+    <loc>http://localhost:1313/tags/enumeration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/evasion/</loc>
+    <loc>http://localhost:1313/tags/evasion/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/exploitation/</loc>
+    <loc>http://localhost:1313/tags/exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/homelab/</loc>
+    <loc>http://localhost:1313/tags/homelab/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/host-discovery/</loc>
+    <loc>http://localhost:1313/tags/host-discovery/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/impacket/</loc>
+    <loc>http://localhost:1313/tags/impacket/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/infrastructure/</loc>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/internal-network/</loc>
+    <loc>http://localhost:1313/tags/internal-network/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/internal-recon/</loc>
+    <loc>http://localhost:1313/tags/internal-recon/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/intro/</loc>
+    <loc>http://localhost:1313/tags/intro/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/introduction/</loc>
+    <loc>http://localhost:1313/tags/introduction/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/lateral-movement/</loc>
+    <loc>http://localhost:1313/tags/lateral-movement/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/malware-evasion/</loc>
+    <loc>http://localhost:1313/tags/malware-evasion/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/metasploit/</loc>
+    <loc>http://localhost:1313/tags/metasploit/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/meterpreter/</loc>
+    <loc>http://localhost:1313/tags/meterpreter/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/misconfiguration/</loc>
+    <loc>http://localhost:1313/tags/misconfiguration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/misconfigurations/</loc>
+    <loc>http://localhost:1313/tags/misconfigurations/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/mitm/</loc>
+    <loc>http://localhost:1313/tags/mitm/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network/</loc>
+    <loc>http://localhost:1313/tags/network/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-access/</loc>
+    <loc>http://localhost:1313/tags/network-access/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-attacks/</loc>
+    <loc>http://localhost:1313/tags/network-attacks/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-scanning/</loc>
+    <loc>http://localhost:1313/tags/network-scanning/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-security/</loc>
+    <loc>http://localhost:1313/tags/network-security/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/network-services/</loc>
+    <loc>http://localhost:1313/tags/network-services/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/operations/</loc>
+    <loc>http://localhost:1313/tags/operations/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/osint/</loc>
+    <loc>http://localhost:1313/tags/osint/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</loc>
+    <loc>http://localhost:1313/tags/pass-the-hash/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/passive/</loc>
+    <loc>http://localhost:1313/tags/passive/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/payload-development/</loc>
+    <loc>http://localhost:1313/tags/payload-development/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/payload-evasion/</loc>
+    <loc>http://localhost:1313/tags/payload-evasion/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/penetration-testing/</loc>
+    <loc>http://localhost:1313/tags/penetration-testing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/people/</loc>
+    <loc>http://localhost:1313/tags/people/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/persistence/</loc>
+    <loc>http://localhost:1313/tags/persistence/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/pivoting/</loc>
+    <loc>http://localhost:1313/tags/pivoting/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/rdp/</loc>
+    <loc>http://localhost:1313/tags/rdp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/recon-ng/</loc>
+    <loc>http://localhost:1313/tags/recon-ng/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/reconnaissance/</loc>
+    <loc>http://localhost:1313/tags/reconnaissance/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/remote-access/</loc>
+    <loc>http://localhost:1313/tags/remote-access/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/reverse-shells/</loc>
+    <loc>http://localhost:1313/tags/reverse-shells/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/routing/</loc>
+    <loc>http://localhost:1313/tags/routing/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/scraping/</loc>
+    <loc>http://localhost:1313/tags/scraping/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/service-enumeration/</loc>
+    <loc>http://localhost:1313/tags/service-enumeration/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/snmp/</loc>
+    <loc>http://localhost:1313/tags/snmp/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/social-engineering/</loc>
+    <loc>http://localhost:1313/tags/social-engineering/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/ssh/</loc>
+    <loc>http://localhost:1313/tags/ssh/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/ssh-exploitation/</loc>
+    <loc>http://localhost:1313/tags/ssh-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/starkiller/</loc>
+    <loc>http://localhost:1313/tags/starkiller/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/tools/</loc>
+    <loc>http://localhost:1313/tags/tools/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/trust-abuse/</loc>
+    <loc>http://localhost:1313/tags/trust-abuse/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/vulnerable-labs/</loc>
+    <loc>http://localhost:1313/tags/vulnerable-labs/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/windows-exploitation/</loc>
+    <loc>http://localhost:1313/tags/windows-exploitation/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/windows-server/</loc>
+    <loc>http://localhost:1313/tags/windows-server/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/winrm/</loc>
+    <loc>http://localhost:1313/tags/winrm/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/</loc>
+    <loc>http://localhost:1313/notes/pen-testing-notes/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/basics/</loc>
+    <loc>http://localhost:1313/tags/basics/</loc>
     <lastmod>2025-11-08T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/forensics/</loc>
+    <loc>http://localhost:1313/tags/forensics/</loc>
     <lastmod>2025-11-08T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-250/</loc>
     <lastmod>2025-11-08T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/</loc>
     <lastmod>2025-11-08T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/networking/</loc>
+    <loc>http://localhost:1313/tags/networking/</loc>
     <lastmod>2025-11-05T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/packet-analysis/</loc>
+    <loc>http://localhost:1313/tags/packet-analysis/</loc>
     <lastmod>2025-11-05T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/tcpdump/</loc>
+    <loc>http://localhost:1313/tags/tcpdump/</loc>
     <lastmod>2025-11-05T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/traffic-sniffing/</loc>
+    <loc>http://localhost:1313/tags/traffic-sniffing/</loc>
     <lastmod>2025-11-05T20:15:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-244/</loc>
     <lastmod>2025-11-02T20:24:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/mac-address/</loc>
+    <loc>http://localhost:1313/tags/mac-address/</loc>
     <lastmod>2025-11-02T20:24:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/practical/</loc>
+    <loc>http://localhost:1313/tags/practical/</loc>
     <lastmod>2025-11-02T20:24:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</loc>
+    <loc>http://localhost:1313/notes/miscellaneous/int-244/mac-address-spoofing/</loc>
     <lastmod>2025-11-02T20:24:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/spoofing/</loc>
+    <loc>http://localhost:1313/tags/spoofing/</loc>
     <lastmod>2025-11-02T20:24:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/disk-imaging/</loc>
+    <loc>http://localhost:1313/tags/disk-imaging/</loc>
     <lastmod>2025-11-02T19:50:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/ftk-imager/</loc>
+    <loc>http://localhost:1313/tags/ftk-imager/</loc>
     <lastmod>2025-11-02T19:50:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/incident-response/</loc>
+    <loc>http://localhost:1313/tags/incident-response/</loc>
     <lastmod>2025-11-02T19:50:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/</loc>
+    <loc>http://localhost:1313/notes/system_administration/</loc>
     <lastmod>2025-11-02T18:45:11+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2025-10-19T18:45:11+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/blue-team/</loc>
+    <loc>http://localhost:1313/tags/blue-team/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/blue-team-ops/</loc>
+    <loc>http://localhost:1313/notes/blue-team-ops/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/ids/</loc>
+    <loc>http://localhost:1313/tags/ids/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/lab/</loc>
+    <loc>http://localhost:1313/tags/lab/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/soc/</loc>
+    <loc>http://localhost:1313/tags/soc/</loc>
     <lastmod>2025-10-12T12:42:03+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/table-of-contents/</loc>
+    <loc>http://localhost:1313/table-of-contents/</loc>
   </url>
 </urlset>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recon-Ng on 0x-s0M3n4th&#39;s Blog</title>
-    <link>https://0x-s0M3n4th.github.io/tags/recon-ng/</link>
+    <link>http://localhost:1313/tags/recon-ng/</link>
     <description>Recent content in Recon-Ng on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
-    <atom:link href="https://0x-s0M3n4th.github.io/tags/recon-ng/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/recon-ng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whois &amp; Recon-ng Framework</title>
-      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</link>
+      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</guid>
+      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/02-reconnaissance/04-information-gathering-techniques-using-whois-recon-ng/</guid>
       <description>Using Whois lookups for registration data and the Recon-ng framework for automated modular reconnaissance.</description>
     </item>
   </channel>

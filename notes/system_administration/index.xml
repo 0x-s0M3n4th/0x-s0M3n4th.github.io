@@ -2,22 +2,558 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>System Administration Notes on 0x-s0M3n4th&#39;s Blog</title>
-    <link>https://0x-s0M3n4th.github.io/notes/system_administration/</link>
+    <link>http://localhost:1313/notes/system_administration/</link>
     <description>Recent content in System Administration Notes on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Nov 2025 18:45:11 +0530</lastBuildDate>
-    <atom:link href="https://0x-s0M3n4th.github.io/notes/system_administration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/system_administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 10</title>
+      <link>http://localhost:1313/notes/system_administration/lec-11/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-11/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;File archiving:
+&lt;ol&gt;
+&lt;li&gt;It means group of files or directories etc&amp;hellip;..&lt;/li&gt;
+&lt;li&gt;‘tar’ command:
+&lt;ol&gt;
+&lt;li&gt;SYNTAX: tar option arguments
+&lt;ol&gt;
+&lt;li&gt;‘-c’ → create&lt;/li&gt;
+&lt;li&gt;‘-f’ → Files&lt;/li&gt;
+&lt;li&gt;‘-j’ → compression[bzip]&lt;/li&gt;
+&lt;li&gt;‘-r’ → appending a files&lt;/li&gt;
+&lt;li&gt;‘-t’ → list the content of tarwall&lt;/li&gt;
+&lt;li&gt;‘-x’ → extracting a file&lt;/li&gt;
+&lt;li&gt;‘-z’ → compression[gzip]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;practical:
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102003659.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102003706.png]]-&amp;gt; seeing the content of the .tar file&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Appending and deleting files from the .tar archive:
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102003715.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 11</title>
+      <link>http://localhost:1313/notes/system_administration/lec-12/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-12/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Monitoring and managing Linux processes:
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102003949.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ps :
+&lt;ol&gt;
+&lt;li&gt;ps aux →
+&lt;ol&gt;
+&lt;li&gt;‘-a’ : all&lt;/li&gt;
+&lt;li&gt;‘-u’ : users&lt;/li&gt;
+&lt;li&gt;‘x’ : list the process which are running in all the sessions
+, including all the users .&lt;/li&gt;
+&lt;li&gt;ps aux | grep “root”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;ps -au :
+&lt;ol&gt;
+&lt;li&gt;it will only show the process of specific user who is
+executing the command&lt;/li&gt;
+&lt;li&gt;systemd is the process whose PID is always 1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;top command:
+&lt;ol&gt;
+&lt;li&gt;Interactive process shower , live processes&lt;/li&gt;
+&lt;li&gt;‘-20’ is the highest priority and ‘19’ is the lowest
+priority value. range [-20 to 19]
+&lt;ol&gt;
+&lt;li&gt;with the help of ‘nice’ command we can assign priority
+values to processes
+&lt;ol&gt;
+&lt;li&gt;sudo nice -n -19 top&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102003957.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 12</title>
+      <link>http://localhost:1313/notes/system_administration/lec-13/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-13/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Nework management:
+&lt;ol&gt;
+&lt;li&gt;TOOLS:
+&lt;ol&gt;
+&lt;li&gt;ip command
+&lt;ol&gt;
+&lt;li&gt;ip link show → list all interfaces&lt;/li&gt;
+&lt;li&gt;ip link set name_of_NIC up → to get up the network&lt;/li&gt;
+&lt;li&gt;ip link set name_of_NIC down → taking down the network&lt;/li&gt;
+&lt;li&gt;ip link set name_of_NIC promisc on → enabling the
+promiscious mode&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102004026.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ip addr show / ip a show → seeing ip address&lt;/li&gt;
+&lt;li&gt;adding an address → ip addr add 192.168.1.10/24&lt;/li&gt;
+&lt;li&gt;deleting and address → ip addr delete 192.168.1.10/24&lt;/li&gt;
+&lt;li&gt;ip neighbour show&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ifconfig&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 13</title>
+      <link>http://localhost:1313/notes/system_administration/lec-14/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-14/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;IPV4:
+&lt;ol&gt;
+&lt;li&gt;32 bit address → divided into 4 octets each of 8 bit&lt;/li&gt;
+&lt;li&gt;octet[1] : octet[1] : octet[3] : octet[4]&lt;/li&gt;
+&lt;li&gt;0-255 0-255 0-255 0-255&lt;/li&gt;
+&lt;li&gt;Class-A → [0-127] → Unicast → 255.0.0.0 → /8 → ‘0.0.0.0&amp;rsquo; is
+reserved for DHCP client&lt;/li&gt;
+&lt;li&gt;Class-B → [128-191] → Unicast → 255.255.0.0 → /16&lt;/li&gt;
+&lt;li&gt;Class-C → [192-223] → Unicast → 255.255.255.0 → /24&lt;/li&gt;
+&lt;li&gt;Class-D → [224-239] → used in Multicasting&lt;/li&gt;
+&lt;li&gt;Class-E → [239-255] → Reserved&lt;/li&gt;
+&lt;li&gt;Network id bits are by default represented by → 1&lt;/li&gt;
+&lt;li&gt;Host id bits are by default represented by → 0&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;IPV6:
+&lt;ol&gt;
+&lt;li&gt;types:
+&lt;ol&gt;
+&lt;li&gt;Global unicast → public ip&lt;/li&gt;
+&lt;li&gt;unique local [Fe00/7] → communication between 2 subnets&lt;/li&gt;
+&lt;li&gt;Link local [Fe80/10] → communication within subnet&lt;/li&gt;
+&lt;li&gt;Localhost → ::1 → scope resolution[we can use it only once
+on thr longest sequence]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 14</title>
+      <link>http://localhost:1313/notes/system_administration/lec-15/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-15/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;nmcli → Network manager command Line interface
+&lt;ol&gt;
+&lt;li&gt;nmcli general status&lt;/li&gt;
+&lt;li&gt;nmcli device → all NICs →&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102004114.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;nmcli device show INTERFACE_NAME →&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102004120.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;nmcli device wifi list&lt;/li&gt;
+&lt;li&gt;nmcli device wifi connect “SSID” [wifiname = SSID]
+“password_of_your_system”&lt;/li&gt;
+&lt;li&gt;nmcli device disconnect INTERFACE_NAME[ens33] → disabling to an
+interface[NIC]&lt;/li&gt;
+&lt;li&gt;nmcli device connect INTER_FACE_NAME → enabling to an
+interface[NIC]&lt;/li&gt;
+&lt;li&gt;nmclie connection show →&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20251102004129.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ADD STATIC IP ETHERNET[wired] CONNECTION:
+&lt;ol&gt;
+&lt;li&gt;nmcli connection add type ethernet con-name RH_01 ifname ens33
+ipV4 192.168.83.129/24 gw4 192.168.83.2 [for ipv4 -&amp;gt; gw4,
+ipv6 -&amp;gt; gw6]&lt;/li&gt;
+&lt;li&gt;nmcli connection delete con-name RH_01&lt;/li&gt;
+&lt;li&gt;nmcli networking off&lt;/li&gt;
+&lt;li&gt;nmcli networking on / systemctl restart networkmanager → used to
+restart network manager [alternative to the nmcli command]&lt;/li&gt;
+&lt;li&gt;nmcli connection monitor ens33 → monitoring the connection&lt;/li&gt;
+&lt;li&gt;systemctl restart NetworkManager&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Major directories available for netrowrking:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 4</title>
+      <link>http://localhost:1313/notes/system_administration/lec-5/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-5/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Soft links:
+&lt;ol&gt;
+&lt;li&gt;ln -s&lt;/li&gt;
+&lt;li&gt;It is also called symbolic links&lt;/li&gt;
+&lt;li&gt;With the help of soft links , we can link two files on different
+file systems&lt;/li&gt;
+&lt;li&gt;Soft link can point out the directory/special files&lt;/li&gt;
+&lt;li&gt;In the case if soft links both the files and softlinks have
+different inode numbers&lt;/li&gt;
+&lt;li&gt;syntax: ls -s file_dir softlink_file&lt;/li&gt;
+&lt;li&gt;If we delete the softlink main file , we can&amp;rsquo;t access the data
+of the file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Redirection operator: [Give us the capability to manipulate i/o]
+&lt;ol&gt;
+&lt;li&gt;‘0’ → used for stdin&lt;/li&gt;
+&lt;li&gt;‘1’ → stdout&lt;/li&gt;
+&lt;li&gt;‘2’ → stderr&lt;/li&gt;
+&lt;li&gt;‘&amp;gt;’ → overwrite&lt;/li&gt;
+&lt;li&gt;‘&amp;raquo;’ → append&lt;/li&gt;
+&lt;li&gt;‘2&amp;gt;’ → Error redirection → only error message will get
+redirected&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;pipping → ‘|’ → cat /etc/shadow | head -15 | tail -1&lt;/li&gt;
+&lt;li&gt;Text editors:
+&lt;ol&gt;
+&lt;li&gt;nano&lt;/li&gt;
+&lt;li&gt;vi → most used [CTRL + o, ctrl + x, ctrl + w]
+&lt;ol&gt;
+&lt;li&gt;By default command mode&lt;/li&gt;
+&lt;li&gt;insert mode[i]&lt;/li&gt;
+&lt;li&gt;CLI mode [exc:] → operations [search. search and
+replace]&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Gedit&lt;/li&gt;
+&lt;li&gt;emacs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Vim tips:
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Line based visual mode&lt;/code&gt; -&amp;gt; press &lt;code&gt;shift + v&lt;/code&gt; , navigate using arrow keys. After selecting press &lt;code&gt;x&lt;/code&gt; to delete the lines.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;single line based editing&lt;/code&gt; -&amp;gt; press &lt;code&gt;v&lt;/code&gt; select line ,and remember to place the cursor on a certain place from where you want to delete and then press &lt;code&gt;v&lt;/code&gt; . After selecting press &lt;code&gt;x&lt;/code&gt; to delete.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Multi line based editing&lt;/code&gt; -&amp;gt; press &lt;code&gt;ctrl + v&lt;/code&gt; to enter visual block mode and select then delete using &lt;code&gt;x&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Command line tip to add date inside a filename -&amp;gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cp editing_final_lab.txt editing_final_lab_&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;date +%s&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 5</title>
+      <link>http://localhost:1313/notes/system_administration/lec-6/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-6/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Users:
+&lt;ol&gt;
+&lt;li&gt;with the help of users we are able to provide role based access
+control&lt;/li&gt;
+&lt;li&gt;Strict security boundaries&lt;/li&gt;
+&lt;li&gt;TYPES OF USERS :
+&lt;ol&gt;
+&lt;li&gt;Admin/root/super user [UID = 0, when uid is 0 that means
+it&amp;rsquo;s the most privileged user of the system.]&lt;/li&gt;
+&lt;li&gt;System user → Related to services like FTP,SSH,web services
+[UID = 1 to 999]&lt;/li&gt;
+&lt;li&gt;Regular user account → Usernames [Uid will varry from
+&lt;blockquote&gt;
+&lt;p&gt;=1000]&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;With the help of id command we can get the details about the
+UID&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Modification of file and directories:
+&lt;ol&gt;
+&lt;li&gt;/etc/passwd → List of all users
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110114.png]] -&amp;gt; User name | Password shadow | UID | GID[groupid] | Comment | Path of home directory | Type of shell &amp;gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 6</title>
+      <link>http://localhost:1313/notes/system_administration/lec-7/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-7/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Disabling shadow configs for /etc/passwd:
+&lt;ol&gt;
+&lt;li&gt;set password for the user first → &lt;code&gt;passwd lpu101 student_5455@#%&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pwunconv&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;cat /etc/passwd → it will show user passwords and disable shadow
+folder&lt;/li&gt;
+&lt;li&gt;for enabling shadow configs → &lt;code&gt;pwconv&lt;/code&gt; → This is going to again
+enable&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110225.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110231.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Password management:
+&lt;ol&gt;
+&lt;li&gt;passwd → changing password , manage age attributes → [Regular
+user can create password for own account, but Root user can do
+for all account]
+&lt;ol&gt;
+&lt;li&gt;Root user:
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;passwd USER_NAME&lt;/code&gt; → e.g &lt;code&gt;passwd lpu&lt;/code&gt; [This will never ask
+for old pass as it&amp;rsquo;s executed via root user]&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passwd -e lpu&lt;/code&gt; [for expiration as soon as the user
+login]&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passwd -n User_name {minimum validity of pass}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passwd -x User_name {maximum validity of passwords}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passwd -i User_name [inactive days]&lt;/code&gt;  ##refer to Lec -
+6 for more revision&lt;/li&gt;
+&lt;li&gt;passwd -L USER_NAME [locking the account]&lt;/li&gt;
+&lt;li&gt;passwd -U user_name [unlocking account]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;chage → control age info of password[validity,expiration
+details]
+&lt;ol&gt;
+&lt;li&gt;chage -l USER_NAME&lt;/li&gt;
+&lt;li&gt;chage -m 2 [It means nobody is allowed to change the
+password btw 48 hrs]&lt;/li&gt;
+&lt;li&gt;chage -M 100 USER_NAME[max age/validity of the password is
+100 days]&lt;/li&gt;
+&lt;li&gt;chage -W 5 USER_NAME [warning day]&lt;/li&gt;
+&lt;li&gt;chage -I 10 USER_NAME [inactive day] → in 110th day my
+account will get blocked if i don&amp;rsquo;t change password till
+109th day&lt;/li&gt;
+&lt;li&gt;chage -E 2026-01-31 USER_NAME → expiry date of the account&lt;/li&gt;
+&lt;li&gt;In the scenario of account expiry, we need to calculate the future dates to set the expiration date. For example to expire the account after 90 days , now to calculate this we can use this command -&amp;gt; &lt;code&gt;date -d &amp;quot;+90 days&amp;quot; +%F&lt;/code&gt; then use this -&amp;gt; &lt;code&gt;sudo chage -E the_date account_name&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Default location from where default configs are added into new
+users by default → cat /etc/login.defs&lt;/li&gt;
+&lt;li&gt;We can directly set the maximum password inside the&lt;code&gt;/etc/login.defs&lt;/code&gt; file -&amp;gt; &lt;code&gt;sudo vim /etc/login.defs&lt;/code&gt; -&amp;gt;change the &lt;code&gt;PASS_MAX_DAYS&lt;/code&gt; option to your need.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- --&gt;
+&lt;ol&gt;
+&lt;li&gt;Switching users :
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;SU - Username&lt;/code&gt; → SU - lpu101 → it will switch along with the env
+variable of the target user&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SU Username&lt;/code&gt; → The env variable will remain same as the current
+user not the target user.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo -i&lt;/code&gt; -&amp;gt; This will switch to the &lt;code&gt;root&lt;/code&gt; account and run that user&amp;rsquo;s default shell (usually &lt;strong&gt;bash&lt;/strong&gt;) and associated shell login scripts.&lt;/li&gt;
+&lt;li&gt;The command &lt;strong&gt;su&lt;/strong&gt; starts a &lt;em&gt;non-login shell&lt;/em&gt;, while the command &lt;strong&gt;su -&lt;/strong&gt; (with the dash option) starts a &lt;em&gt;login shell&lt;/em&gt;. The main distinction between the two commands is that &lt;strong&gt;su -&lt;/strong&gt; sets up the shell environment as if it were a new login as that user, while &lt;strong&gt;su&lt;/strong&gt; just starts a shell as that user, but uses the original user&amp;rsquo;s environment settings.&lt;/li&gt;
+&lt;li&gt;Sudoers file → specifically configure any user&amp;rsquo;s permission over
+to the commands:
+&lt;ol&gt;
+&lt;li&gt;location → /etc/sudoer&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110241.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 7</title>
+      <link>http://localhost:1313/notes/system_administration/lec-8/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-8/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Group management:
+&lt;ol&gt;
+&lt;li&gt;groupadd → for creating a new group
+&lt;ol&gt;
+&lt;li&gt;groupadd GRP_NAME → groupadd SALES
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110517.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;cat /etc/group | tail -2
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110522.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;groupadd -g 1111 TECH → ‘-g’ means giving custom gid
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110531.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110542.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;groupmod → modifying the groups
+&lt;ol&gt;
+&lt;li&gt;groupmod -n NEW_NAME OLD_GRP_NAME → modifying group name
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110548.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110553.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;groupmod -g NEW_GID OLD_GID → modifying group id
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110606.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 8</title>
+      <link>http://localhost:1313/notes/system_administration/lec-9/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-9/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;file basics :
+&lt;ol&gt;
+&lt;li&gt;stat file_name&lt;/li&gt;
+&lt;li&gt;Access time -&amp;gt; file reading time&lt;/li&gt;
+&lt;li&gt;modify time -&amp;gt; writing to the file time[when we changed the
+file that time is called modify time]&lt;/li&gt;
+&lt;li&gt;change time → when we change the meta data of the file like
+changing name etc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110708.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;if we use touch to the same file again over to the same file → touch
+will modify every time except the birth time → attacker mostly use
+this technique.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Special permissions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 9</title>
+      <link>http://localhost:1313/notes/system_administration/lec-10/</link>
+      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
+      <guid>http://localhost:1313/notes/system_administration/lec-10/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Access Control List(ACL): → used to give seperate diff permissions
+to diff individual users
+&lt;ol&gt;
+&lt;li&gt;getfacl → get file access control lists
+&lt;ol&gt;
+&lt;li&gt;getfacl FILE_NAME.txt&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110722.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;setfacl → setting file access control lists
+&lt;ol&gt;
+&lt;li&gt;setfacl -m u:USER_NAME:PERMISSION[rwx] FILE_NAME
+&lt;ol&gt;
+&lt;li&gt;-m = modify ACL&lt;/li&gt;
+&lt;li&gt;-x = Remove ACL&lt;/li&gt;
+&lt;li&gt;-K = Remove default ACL&lt;/li&gt;
+&lt;li&gt;-g = group permission&lt;/li&gt;
+&lt;li&gt;-o = ohter permission&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;PRACTICAL:
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110729.png]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[Searching in linux]
+&lt;ol&gt;
+&lt;li&gt;Locate → it uses mlocate database index , It is able to search
+files which are indexed by mlocate db
+&lt;ol&gt;
+&lt;li&gt;updatedb → for updating the database.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Find → it searches over full disk
+&lt;ol&gt;
+&lt;li&gt;‘-name’&lt;/li&gt;
+&lt;li&gt;‘-iname’&lt;/li&gt;
+&lt;li&gt;‘-type’&lt;/li&gt;
+&lt;li&gt;‘-size’&lt;/li&gt;
+&lt;li&gt;‘-atime’&lt;/li&gt;
+&lt;li&gt;‘-mtime’&lt;/li&gt;
+&lt;li&gt;‘ctime’&lt;/li&gt;
+&lt;li&gt;‘-user’&lt;/li&gt;
+&lt;li&gt;‘-group’&lt;/li&gt;
+&lt;li&gt;‘-perm’&lt;/li&gt;
+&lt;li&gt;‘-exec’
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20250724110740.png]]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - INTRO</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</link>
+      <link>http://localhost:1313/notes/system_administration/intro/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/intro/</guid>
+      <guid>http://localhost:1313/notes/system_administration/intro/</guid>
       <description>&lt;p&gt;Radhe Radhe!
 This is going to be a beginner to advance of &lt;em&gt;system administration&lt;/em&gt; tutorial. This whole section will contain my personal notes , those which i had learned during a bunch of sessions. If you feel any difficulty feel free to reach out through this mail &lt;code&gt;cyb3rinsi6hts@gmail.com&lt;/code&gt; .&lt;/p&gt;
 &lt;hr&gt;
@@ -25,9 +561,9 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 1</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</link>
+      <link>http://localhost:1313/notes/system_administration/lec-2/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</guid>
+      <guid>http://localhost:1313/notes/system_administration/lec-2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Commands are indicated like this:&lt;/strong&gt; &lt;code&gt;COMMANDS&lt;/code&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -51,7 +587,7 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;tty&lt;/code&gt; → terminal interface
-&lt;img alt=&#34;SYSADMIN_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_1/Lec_1_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;SYSADMIN_1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/System_administration/Lec_1/Lec_1_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;user info enumueration → &lt;code&gt;id&lt;/code&gt;,&lt;code&gt;whoami&lt;/code&gt;,&lt;code&gt;who&lt;/code&gt;,&lt;code&gt;id&lt;/code&gt;,&lt;code&gt;w&lt;/code&gt;&lt;/p&gt;
@@ -61,9 +597,9 @@ This is going to be a beginner to advance of &lt;em&gt;system administration&lt;
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 2</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</link>
+      <link>http://localhost:1313/notes/system_administration/lec-3/</link>
       <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</guid>
+      <guid>http://localhost:1313/notes/system_administration/lec-3/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;code&gt;which&lt;/code&gt; → Exact location of the exeutable file&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;whereis&lt;/code&gt; → local documentation&lt;/li&gt;
@@ -86,13 +622,13 @@ man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;SYSADMIN_9&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_2/Lec_2_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;SYSADMIN_9&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/System_administration/Lec_2/Lec_2_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 3</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</link>
+      <link>http://localhost:1313/notes/system_administration/lec-4/</link>
       <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</guid>
+      <guid>http://localhost:1313/notes/system_administration/lec-4/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Terminal shortcuts :
 &lt;ol&gt;

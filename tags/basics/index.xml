@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Basics on 0x-s0M3n4th&#39;s Blog</title>
-    <link>https://0x-s0M3n4th.github.io/tags/basics/</link>
+    <link>http://localhost:1313/tags/basics/</link>
     <description>Recent content in Basics on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Nov 2025 20:15:00 +0530</lastBuildDate>
-    <atom:link href="https://0x-s0M3n4th.github.io/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practical Demo: Linux Forensics</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</link>
+      <link>http://localhost:1313/notes/miscellaneous/int-250/linux-forensics/</link>
       <pubDate>Thu, 06 Nov 2025 19:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/linux-forensics/</guid>
+      <guid>http://localhost:1313/notes/miscellaneous/int-250/linux-forensics/</guid>
       <description>A simple walkthrough of checking command history and system logs for suspicious activity.</description>
     </item>
     <item>
       <title>Practical Demo: Windows Forensics</title>
-      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</link>
+      <link>http://localhost:1313/notes/miscellaneous/int-250/windows-forensics/</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-250/windows-forensics/</guid>
+      <guid>http://localhost:1313/notes/miscellaneous/int-250/windows-forensics/</guid>
       <description>An introduction to viewing basic Windows artifacts like Recent files and Registry entries, Network informations etc.</description>
     </item>
   </channel>
