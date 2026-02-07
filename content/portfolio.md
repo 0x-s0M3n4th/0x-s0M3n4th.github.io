@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 ## About Me
-I am a **3rd-year student** in **Lovely Professional University** and yes a normal guy just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
+I am a **3rd-year student** in **Lovely Professional University** and yes a normal person just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
 
 I prefer a hands-on, research-driven approach, utilizing extensive home labs to simulate **Phishing Campaigns**, set up basic **C2 Operations**, and practice **Blue Team** monitoring. Currently, I am also refining my low-level programming skills in **C** to better understand operating system internals.
 
