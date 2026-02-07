@@ -5,109 +5,121 @@ url: "/portfolio/"
 summary: "System Administration, Blue Teaming, and Red Team Operations."
 ---
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 2px solid var(--primary);">
-</div>
-<div class="nav-wrapper">
-  <nav class="sticky-nav" id="stickyNav">
-    <a href="#about-me" class="nav-item">About Me</a>
-    <a href="#skills--technologies" class="nav-item">Skills</a>
-    <a href="#projects" class="nav-item">Projects</a>
-    <a href="#certifications--courses" class="nav-item">Certifications</a>
-    <a href="#experience" class="nav-item">Experience</a>
-    <a href="#ctfs" class="nav-item">CTFs</a>
-    <a href="#contact" class="nav-item">Contact</a>
-  </nav>
+<div class="vertical-nav">
+  <a href="#about-me" class="nav-dot" title="About Me"></a>
+  <a href="#skills--technologies" class="nav-dot" title="Skills"></a>
+  <a href="#projects" class="nav-dot" title="Projects"></a>
+  <a href="#certifications--courses" class="nav-dot" title="Certifications"></a>
+  <a href="#experience" class="nav-dot" title="Experience"></a>
+  <a href="#ctfs" class="nav-dot" title="CTFs"></a>
+  <a href="#contact" class="nav-dot" title="Contact"></a>
 </div>
 
 <style>
-/* 1. Container - Sticks to Top */
-.nav-wrapper {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  background: var(--theme); /* Blends with your background */
-  padding: 10px 0;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 30px;
-}
-
-/* 2. Slider Track */
-.sticky-nav {
+/* 1. Container - Fixed to Right Side */
+.vertical-nav {
+  position: fixed;
+  right: 20px;       /* Distance from right edge */
+  top: 50%;          /* Vertically centered */
+  transform: translateY(-50%);
   display: flex;
-  overflow-x: auto;
-  gap: 10px;
-  padding: 0 15px;
-  scrollbar-width: none; /* Firefox hide scrollbar */
+  flex-direction: column;
+  gap: 15px;         /* Space between dots */
+  z-index: 1000;
+  /* Optional: Add a subtle line connecting them if you want a "string" look */
+  /* border-right: 1px solid var(--border); */
 }
-.sticky-nav::-webkit-scrollbar { display: none; } /* Chrome hide scrollbar */
 
-/* 3. Buttons */
-.nav-item {
-  color: var(--primary);
-  background: var(--entry);
-  padding: 8px 16px;
-  border-radius: 20px;
-  white-space: nowrap;
-  font-size: 0.9rem;
-  font-weight: 500;
-  text-decoration: none !important;
-  border: 1px solid var(--border);
+/* 2. The Dots (Inactive State) */
+.nav-dot {
+  width: 10px;
+  height: 10px;
+  background-color: var(--secondary); /* Grey/Dimmed color */
+  border-radius: 50%;
+  display: block;
   transition: all 0.3s ease;
+  position: relative;
+  opacity: 0.5;
 }
 
-/* 4. Active State (When you scroll to it) */
-.nav-item.active {
-  background: var(--primary);
-  color: var(--theme) !important;
+/* 3. Hover Effect (Show Tooltip) */
+.nav-dot:hover {
+  transform: scale(1.5);
+  opacity: 1;
+  background-color: var(--primary);
+}
+
+/* 4. Active State (Current Section) */
+.nav-dot.active {
+  background-color: var(--primary); /* Bright accent color */
+  transform: scale(1.3);
+  opacity: 1;
+  box-shadow: 0 0 8px var(--primary); /* Glowing effect */
+}
+
+/* 5. Tooltips (Labels on Hover) - Floating to the Left of the dot */
+.nav-dot::before {
+  content: attr(title);
+  position: absolute;
+  right: 20px; /* Text sits to the left of the dot */
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--entry);
+  color: var(--primary);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
   font-weight: bold;
-  transform: scale(1.05);
+  border: 1px solid var(--border);
+}
+
+/* Show tooltip on hover OR when active */
+.nav-dot:hover::before {
+  opacity: 1;
 }
 </style>
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const navLinks = document.querySelectorAll('.nav-item');
-  const navContainer = document.getElementById('stickyNav');
+  const dots = document.querySelectorAll('.nav-dot');
 
-  // Watch for sections entering the screen
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
-      // If a section is in the middle of the screen
       if (entry.isIntersecting) {
-        // 1. Reset all buttons
-        navLinks.forEach(link => link.classList.remove('active'));
+        // Remove active class from all dots
+        dots.forEach(dot => dot.classList.remove('active'));
         
-        // 2. Highlight the matching button
+        // Find the dot that matches this section ID
+        // Note: Hugo replaces & with -- in IDs usually
         const id = entry.target.getAttribute('id');
-        const activeLink = document.querySelector(`.nav-item[href="#${id}"]`);
+        const activeDot = document.querySelector(`.nav-dot[href="#${id}"]`);
         
-        if (activeLink) {
-          activeLink.classList.add('active');
-          
-          // 3. Auto-scroll the nav bar to keep the button visible
-          const scrollLeft = activeLink.offsetLeft - (navContainer.offsetWidth / 2) + (activeLink.offsetWidth / 2);
-          navContainer.scrollTo({ left: scrollLeft, behavior: 'smooth' });
+        if (activeDot) {
+          activeDot.classList.add('active');
         }
       }
     });
   }, {
-    rootMargin: "-20% 0px -60% 0px" // Trigger when section is near top of screen
+    // "Center" of the screen triggers the change
+    rootMargin: "-45% 0px -45% 0px" 
   });
 
-  // Attach observer to the actual H2 headers
-  navLinks.forEach(link => {
-    const id = link.getAttribute('href').substring(1); // remove '#'
+  // Attach observer to the headers
+  dots.forEach(dot => {
+    const id = dot.getAttribute('href').substring(1);
     const section = document.getElementById(id);
-    if (section) {
-      observer.observe(section);
-    } else {
-      console.warn(`Header ID not found: #${id}. Check your spelling!`);
-    }
+    if (section) observer.observe(section);
   });
 });
 </script>
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="/images/fun.jpeg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 2px solid var(--primary);">
+</div>
 
 ## About Me
 I am a **3rd-year student** in **Lovely Professional University** and yes a normal guy just like you, my core focus is on **Infrastructure Security**, **Adversary Emulation**, **Administering different tasks**, **Blue team operations**. Unlike typical red teamers, I believe in mastering the defensive side first—diving deep into **Linux & Windows System Administration** to understand exactly what I am attacking or protecting.
