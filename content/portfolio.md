@@ -201,4 +201,4 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 ## Resume
 [**Download My Resume (PDF)**](/my_cv.pdf)
 
-![meme](/images/meme_2.jpeg)
+![meme_2](/images/meme_2.jpeg)
