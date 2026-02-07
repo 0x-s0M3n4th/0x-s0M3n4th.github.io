@@ -170,8 +170,8 @@ I prefer a hands-on, research-driven approach, utilizing extensive home labs to 
 
 ## Certifications & Courses
 - [**eJPT** (eLearnSecurity Junior Penetration Tester)](https://certs.ine.com/0d862f1a-8c55-4d71-868a-eb5f8fe8608c#acc.P4jQhweH) - *INE Security*
-- [**RH-124**](https://www.credly.com/badges/7ff7cb65-6058-48ab-b9e6-f47e0b7700a4) - *Red Hat Inc*
-- [**RH-134**](https://www.credly.com/badges/82e726af-4cd3-484e-9114-89ec3c5b8bcc) - *Red Hat Inc*
+- [**RH-124**](https://www.credly.com/badges/7ff7cb65-6058-48ab-b9e6-f47e0b7700a4) - *Red Hat Academy*
+- [**RH-134**](https://www.credly.com/badges/82e726af-4cd3-484e-9114-89ec3c5b8bcc) - *Red Hat Academy*
 - **PNPT coursework** (Practical Network Penetration Tester) - *TCM Security*
 - [**Practical Help Desk**](https://academy.tcm-sec.com/courses/2537874/certificate) - *TCM Security*
 
