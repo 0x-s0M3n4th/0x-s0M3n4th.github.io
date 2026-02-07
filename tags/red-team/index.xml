@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Red Team on 0x-s0M3n4th&#39;s Blog</title>
-    <link>http://localhost:1313/tags/red-team/</link>
+    <link>https://0x-s0M3n4th.github.io/tags/red-team/</link>
     <description>Recent content in Red Team on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Nov 2025 13:25:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/red-team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x-s0M3n4th.github.io/tags/red-team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Command and Control</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/00-intro/</guid>
       <description>Overview of Command and Control concepts, communication models, and operational roles.</description>
     </item>
     <item>
       <title>Introduction to Post Exploitation</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/00-intro/</guid>
       <description>Foundational concepts and objectives of the post exploitation phase.</description>
     </item>
     <item>
       <title>Attacking Active Directory</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/11-advanced-ad-attacks/01-attacking-active-directory/</guid>
       <description>Core techniques and attack paths leveraged to compromise Active Directory environments.</description>
     </item>
     <item>
       <title>Use Cases of Command and Control</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/01-usecases-of-c2/</guid>
       <description>Real-world applications and scenarios where C2 frameworks are leveraged.</description>
     </item>
     <item>
       <title>Anti-Malware Evasion Techniques</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/02-anti-mlaware-evasion-techniques/</guid>
       <description>Techniques for bypassing anti-malware detection during payload deployment.</description>
     </item>
     <item>
       <title>Gaining Access by Exploiting SSH</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/02-gaining-access-by-exploiting-ssh/</guid>
       <description>Techniques for compromising SSH services using weak configurations or credentials.</description>
     </item>
     <item>
       <title>Setting Up C2 Operations</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/09-command-and-control-tactics/02-c2-operation-setup/</guid>
       <description>Steps to build, configure, and secure C2 infrastructure for Red Team operations.</description>
     </item>
     <item>
       <title>Creating Custom Payloads With Shelter</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/06-understading-network-pentesing/03-creating-custom-payloads-with-shelter/</guid>
       <description>Using Shelter to generate custom payloads capable of bypassing defenses.</description>
     </item>
     <item>
       <title>Leveraging Network-Based Trust in AD</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/10-active-directory-attacks/03-leveraging-network-based-trust/</guid>
       <description>Abusing inter-domain and network-based trust relationships for privilege escalation.</description>
     </item>
     <item>
       <title>DNS Tunneling</title>
-      <link>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/08-post-exploitation-techniques/05-dns-tunneling/</guid>
       <description>Using DNS tunneling to bypass firewalls and exfiltrate data over DNS queries.</description>
     </item>
     <item>
       <title>Practical Guide: MAC Address Spoofing</title>
-      <link>http://localhost:1313/notes/miscellaneous/int-244/mac-address-spoofing/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/miscellaneous/int-244/mac-address-spoofing/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/miscellaneous/int-244/mac-address-spoofing/</guid>
       <description>A quick, hands-on guide to understanding and performing MAC address spoofing for network testing.</description>
     </item>
   </channel>

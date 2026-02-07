@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blue Team Ops Notes on 0x-s0M3n4th&#39;s Blog</title>
-    <link>http://localhost:1313/notes/blue-team-ops/</link>
+    <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/</link>
     <description>Recent content in Blue Team Ops Notes on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Oct 2025 12:42:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/blue-team-ops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x-s0M3n4th.github.io/notes/blue-team-ops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practical Wireshark</title>
-      <link>http://localhost:1313/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</link>
       <pubDate>Sun, 12 Oct 2025 11:26:03 +0530</pubDate>
-      <guid>http://localhost:1313/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/00-wireshark/intro-to-wireshark/</guid>
       <description>A practical guide to using Wireshark for network analysis.</description>
     </item>
     <item>
       <title>Practical Snort</title>
-      <link>http://localhost:1313/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</link>
       <pubDate>Sun, 12 Oct 2025 12:17:03 +0530</pubDate>
-      <guid>http://localhost:1313/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/01-snort/intrusion-detection-with-snort/</guid>
       <description>A practical guide to use Snort.</description>
     </item>
     <item>
       <title>Practical Wazuh</title>
-      <link>http://localhost:1313/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/02-wazuh/00-introduction-&#43;-installation/</guid>
       <description>A practical guide to use Wazuh.</description>
     </item>
     <item>
       <title>Practical Suricata</title>
-      <link>http://localhost:1313/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</link>
+      <link>https://0x-s0M3n4th.github.io/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/notes/blue-team-ops/03-suricata/00-installation--rule-creation/</guid>
       <description>A practical beginner-friendly guide to Suricata with custom detection rules including ARP spoofing and SSH brute-force logging.</description>
     </item>
   </channel>

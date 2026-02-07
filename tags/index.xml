@@ -2,694 +2,694 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 0x-s0M3n4th&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://0x-s0M3n4th.github.io/tags/</link>
     <description>Recent content in Tags on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Dec 2025 23:14:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x-s0M3n4th.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
-      <link>http://localhost:1313/tags/active-directory/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/active-directory/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/active-directory/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/active-directory/</guid>
       <description></description>
     </item>
     <item>
       <title>C2</title>
-      <link>http://localhost:1313/tags/c2/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/c2/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/c2/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/c2/</guid>
       <description></description>
     </item>
     <item>
       <title>Internal Pentest</title>
-      <link>http://localhost:1313/tags/internal-pentest/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-pentest/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/internal-pentest/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentest/</guid>
       <description></description>
     </item>
     <item>
       <title>Internal Pentesting</title>
-      <link>http://localhost:1313/tags/internal-pentesting/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-pentesting/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/internal-pentesting/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-pentesting/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Pentesting</title>
-      <link>http://localhost:1313/tags/network-pentesting/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-pentesting/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-pentesting/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-pentesting/</guid>
       <description></description>
     </item>
     <item>
       <title>Post Exploitation</title>
-      <link>http://localhost:1313/tags/post-exploitation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/post-exploitation/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/post-exploitation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/post-exploitation/</guid>
       <description></description>
     </item>
     <item>
       <title>Privilege Escalation</title>
-      <link>http://localhost:1313/tags/privilege-escalation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/privilege-escalation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/privilege-escalation/</guid>
       <description></description>
     </item>
     <item>
       <title>Red Team</title>
-      <link>http://localhost:1313/tags/red-team/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/red-team/</link>
       <pubDate>Sat, 20 Dec 2025 23:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/red-team/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/red-team/</guid>
       <description></description>
     </item>
     <item>
       <title>Kerberos</title>
-      <link>http://localhost:1313/tags/kerberos/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/kerberos/</link>
       <pubDate>Sat, 20 Dec 2025 11:14:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/kerberos/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/kerberos/</guid>
       <description></description>
     </item>
     <item>
       <title>Anonymity</title>
-      <link>http://localhost:1313/tags/anonymity/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/anonymity/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/anonymity/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/anonymity/</guid>
       <description></description>
     </item>
     <item>
       <title>Authentication</title>
-      <link>http://localhost:1313/tags/authentication/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/authentication/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/authentication/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/authentication/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/automation/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>BGP Hijacking</title>
-      <link>http://localhost:1313/tags/bgp-hijacking/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/bgp-hijacking/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bgp-hijacking/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/bgp-hijacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Bind Shells</title>
-      <link>http://localhost:1313/tags/bind-shells/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/bind-shells/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bind-shells/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/bind-shells/</guid>
       <description></description>
     </item>
     <item>
       <title>BloodHound</title>
-      <link>http://localhost:1313/tags/bloodhound/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/bloodhound/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bloodhound/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/bloodhound/</guid>
       <description></description>
     </item>
     <item>
       <title>C2 Frameworks</title>
-      <link>http://localhost:1313/tags/c2-frameworks/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/c2-frameworks/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/c2-frameworks/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/c2-frameworks/</guid>
       <description></description>
     </item>
     <item>
       <title>C2 Setup</title>
-      <link>http://localhost:1313/tags/c2-setup/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/c2-setup/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/c2-setup/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/c2-setup/</guid>
       <description></description>
     </item>
     <item>
       <title>Covenant</title>
-      <link>http://localhost:1313/tags/covenant/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/covenant/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/covenant/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/covenant/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/cybersecurity/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Exfiltration</title>
-      <link>http://localhost:1313/tags/data-exfiltration/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/data-exfiltration/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/data-exfiltration/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/data-exfiltration/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Exposure</title>
-      <link>http://localhost:1313/tags/data-exposure/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/data-exposure/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/data-exposure/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/data-exposure/</guid>
       <description></description>
     </item>
     <item>
       <title>DNS Tunneling</title>
-      <link>http://localhost:1313/tags/dns-tunneling/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/dns-tunneling/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/dns-tunneling/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/dns-tunneling/</guid>
       <description></description>
     </item>
     <item>
       <title>Domain Dominance</title>
-      <link>http://localhost:1313/tags/domain-dominance/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/domain-dominance/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/domain-dominance/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/domain-dominance/</guid>
       <description></description>
     </item>
     <item>
       <title>ElasticSearch</title>
-      <link>http://localhost:1313/tags/elasticsearch/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/elasticsearch/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/elasticsearch/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/elasticsearch/</guid>
       <description></description>
     </item>
     <item>
       <title>Emails</title>
-      <link>http://localhost:1313/tags/emails/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/emails/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/emails/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/emails/</guid>
       <description></description>
     </item>
     <item>
       <title>Enumeration</title>
-      <link>http://localhost:1313/tags/enumeration/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/enumeration/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/enumeration/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/enumeration/</guid>
       <description></description>
     </item>
     <item>
       <title>Evasion</title>
-      <link>http://localhost:1313/tags/evasion/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/evasion/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/evasion/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/evasion/</guid>
       <description></description>
     </item>
     <item>
       <title>Exploitation</title>
-      <link>http://localhost:1313/tags/exploitation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/exploitation/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/exploitation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/exploitation/</guid>
       <description></description>
     </item>
     <item>
       <title>HomeLab</title>
-      <link>http://localhost:1313/tags/homelab/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/homelab/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/homelab/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Host Discovery</title>
-      <link>http://localhost:1313/tags/host-discovery/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/host-discovery/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/host-discovery/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/host-discovery/</guid>
       <description></description>
     </item>
     <item>
       <title>Impacket</title>
-      <link>http://localhost:1313/tags/impacket/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/impacket/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/impacket/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/impacket/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
-      <link>http://localhost:1313/tags/infrastructure/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/infrastructure/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Internal Network</title>
-      <link>http://localhost:1313/tags/internal-network/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-network/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/internal-network/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-network/</guid>
       <description></description>
     </item>
     <item>
       <title>Internal Recon</title>
-      <link>http://localhost:1313/tags/internal-recon/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/internal-recon/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/internal-recon/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/internal-recon/</guid>
       <description></description>
     </item>
     <item>
       <title>Intro</title>
-      <link>http://localhost:1313/tags/intro/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/intro/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/intro/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/intro/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/tags/introduction/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/introduction/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/introduction/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/introduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Lateral Movement</title>
-      <link>http://localhost:1313/tags/lateral-movement/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/lateral-movement/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/lateral-movement/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/lateral-movement/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/linux/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Malware Evasion</title>
-      <link>http://localhost:1313/tags/malware-evasion/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/malware-evasion/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/malware-evasion/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/malware-evasion/</guid>
       <description></description>
     </item>
     <item>
       <title>Metasploit</title>
-      <link>http://localhost:1313/tags/metasploit/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/metasploit/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/metasploit/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/metasploit/</guid>
       <description></description>
     </item>
     <item>
       <title>Meterpreter</title>
-      <link>http://localhost:1313/tags/meterpreter/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/meterpreter/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/meterpreter/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/meterpreter/</guid>
       <description></description>
     </item>
     <item>
       <title>Misconfiguration</title>
-      <link>http://localhost:1313/tags/misconfiguration/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/misconfiguration/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/misconfiguration/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/misconfiguration/</guid>
       <description></description>
     </item>
     <item>
       <title>Misconfigurations</title>
-      <link>http://localhost:1313/tags/misconfigurations/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/misconfigurations/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/misconfigurations/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/misconfigurations/</guid>
       <description></description>
     </item>
     <item>
       <title>MITM</title>
-      <link>http://localhost:1313/tags/mitm/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/mitm/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mitm/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/mitm/</guid>
       <description></description>
     </item>
     <item>
       <title>Network</title>
-      <link>http://localhost:1313/tags/network/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Access</title>
-      <link>http://localhost:1313/tags/network-access/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-access/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-access/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-access/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Attacks</title>
-      <link>http://localhost:1313/tags/network-attacks/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-attacks/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-attacks/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-attacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Scanning</title>
-      <link>http://localhost:1313/tags/network-scanning/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-scanning/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-scanning/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-scanning/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Security</title>
-      <link>http://localhost:1313/tags/network-security/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-security/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-security/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Services</title>
-      <link>http://localhost:1313/tags/network-services/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/network-services/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/network-services/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/network-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Operations</title>
-      <link>http://localhost:1313/tags/operations/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/operations/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/operations/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/operations/</guid>
       <description></description>
     </item>
     <item>
       <title>OSINT</title>
-      <link>http://localhost:1313/tags/osint/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/osint/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/osint/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/osint/</guid>
       <description></description>
     </item>
     <item>
       <title>Pass-the-Hash</title>
-      <link>http://localhost:1313/tags/pass-the-hash/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/pass-the-hash/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/pass-the-hash/</guid>
       <description></description>
     </item>
     <item>
       <title>Passive</title>
-      <link>http://localhost:1313/tags/passive/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/passive/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/passive/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/passive/</guid>
       <description></description>
     </item>
     <item>
       <title>Payload Development</title>
-      <link>http://localhost:1313/tags/payload-development/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/payload-development/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/payload-development/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/payload-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Payload Evasion</title>
-      <link>http://localhost:1313/tags/payload-evasion/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/payload-evasion/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/payload-evasion/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/payload-evasion/</guid>
       <description></description>
     </item>
     <item>
       <title>Penetration Testing</title>
-      <link>http://localhost:1313/tags/penetration-testing/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/penetration-testing/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/penetration-testing/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/penetration-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>People</title>
-      <link>http://localhost:1313/tags/people/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/people/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/people/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/people/</guid>
       <description></description>
     </item>
     <item>
       <title>Persistence</title>
-      <link>http://localhost:1313/tags/persistence/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/persistence/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/persistence/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/persistence/</guid>
       <description></description>
     </item>
     <item>
       <title>Pivoting</title>
-      <link>http://localhost:1313/tags/pivoting/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/pivoting/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/pivoting/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/pivoting/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/privacy/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>RDP</title>
-      <link>http://localhost:1313/tags/rdp/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/rdp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/rdp/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/rdp/</guid>
       <description></description>
     </item>
     <item>
       <title>Recon-Ng</title>
-      <link>http://localhost:1313/tags/recon-ng/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/recon-ng/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/recon-ng/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/recon-ng/</guid>
       <description></description>
     </item>
     <item>
       <title>Reconnaissance</title>
-      <link>http://localhost:1313/tags/reconnaissance/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/reconnaissance/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/reconnaissance/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/reconnaissance/</guid>
       <description></description>
     </item>
     <item>
       <title>Remote Access</title>
-      <link>http://localhost:1313/tags/remote-access/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/remote-access/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/remote-access/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/remote-access/</guid>
       <description></description>
     </item>
     <item>
       <title>Reverse Shells</title>
-      <link>http://localhost:1313/tags/reverse-shells/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/reverse-shells/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/reverse-shells/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/reverse-shells/</guid>
       <description></description>
     </item>
     <item>
       <title>Routing</title>
-      <link>http://localhost:1313/tags/routing/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/routing/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/routing/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/routing/</guid>
       <description></description>
     </item>
     <item>
       <title>Scraping</title>
-      <link>http://localhost:1313/tags/scraping/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/scraping/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/scraping/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/scraping/</guid>
       <description></description>
     </item>
     <item>
       <title>Service Enumeration</title>
-      <link>http://localhost:1313/tags/service-enumeration/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/service-enumeration/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/service-enumeration/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/service-enumeration/</guid>
       <description></description>
     </item>
     <item>
       <title>SNMP</title>
-      <link>http://localhost:1313/tags/snmp/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/snmp/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/snmp/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/snmp/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Engineering</title>
-      <link>http://localhost:1313/tags/social-engineering/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/social-engineering/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/social-engineering/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/social-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>SSH</title>
-      <link>http://localhost:1313/tags/ssh/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/ssh/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ssh/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
       <title>SSH Exploitation</title>
-      <link>http://localhost:1313/tags/ssh-exploitation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/ssh-exploitation/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ssh-exploitation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/ssh-exploitation/</guid>
       <description></description>
     </item>
     <item>
       <title>Starkiller</title>
-      <link>http://localhost:1313/tags/starkiller/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/starkiller/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/starkiller/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/starkiller/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://localhost:1313/tags/tools/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/tools/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tools/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Trust Abuse</title>
-      <link>http://localhost:1313/tags/trust-abuse/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/trust-abuse/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/trust-abuse/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/trust-abuse/</guid>
       <description></description>
     </item>
     <item>
       <title>Vulnerable Labs</title>
-      <link>http://localhost:1313/tags/vulnerable-labs/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/vulnerable-labs/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/vulnerable-labs/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/vulnerable-labs/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/windows/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows Exploitation</title>
-      <link>http://localhost:1313/tags/windows-exploitation/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/windows-exploitation/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/windows-exploitation/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/windows-exploitation/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows Server</title>
-      <link>http://localhost:1313/tags/windows-server/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/windows-server/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/windows-server/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/windows-server/</guid>
       <description></description>
     </item>
     <item>
       <title>WinRM</title>
-      <link>http://localhost:1313/tags/winrm/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/winrm/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/winrm/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/winrm/</guid>
       <description></description>
     </item>
     <item>
       <title>Basics</title>
-      <link>http://localhost:1313/tags/basics/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/basics/</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/basics/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/basics/</guid>
       <description></description>
     </item>
     <item>
       <title>Forensics</title>
-      <link>http://localhost:1313/tags/forensics/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/forensics/</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/forensics/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/forensics/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>http://localhost:1313/tags/networking/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/networking/</link>
       <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/networking/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Packet Analysis</title>
-      <link>http://localhost:1313/tags/packet-analysis/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/packet-analysis/</link>
       <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/packet-analysis/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/packet-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Tcpdump</title>
-      <link>http://localhost:1313/tags/tcpdump/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/tcpdump/</link>
       <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tcpdump/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/tcpdump/</guid>
       <description></description>
     </item>
     <item>
       <title>Traffic Sniffing</title>
-      <link>http://localhost:1313/tags/traffic-sniffing/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/traffic-sniffing/</link>
       <pubDate>Wed, 05 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/traffic-sniffing/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/traffic-sniffing/</guid>
       <description></description>
     </item>
     <item>
       <title>MAC Address</title>
-      <link>http://localhost:1313/tags/mac-address/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/mac-address/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mac-address/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/mac-address/</guid>
       <description></description>
     </item>
     <item>
       <title>Practical</title>
-      <link>http://localhost:1313/tags/practical/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/practical/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/practical/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/practical/</guid>
       <description></description>
     </item>
     <item>
       <title>Spoofing</title>
-      <link>http://localhost:1313/tags/spoofing/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/spoofing/</link>
       <pubDate>Sun, 02 Nov 2025 20:24:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/spoofing/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/spoofing/</guid>
       <description></description>
     </item>
     <item>
       <title>Disk Imaging</title>
-      <link>http://localhost:1313/tags/disk-imaging/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/disk-imaging/</link>
       <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/disk-imaging/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/disk-imaging/</guid>
       <description></description>
     </item>
     <item>
       <title>FTK Imager</title>
-      <link>http://localhost:1313/tags/ftk-imager/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/ftk-imager/</link>
       <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ftk-imager/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/ftk-imager/</guid>
       <description></description>
     </item>
     <item>
       <title>Incident Response</title>
-      <link>http://localhost:1313/tags/incident-response/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/incident-response/</link>
       <pubDate>Sun, 02 Nov 2025 19:50:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/incident-response/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/incident-response/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue Team</title>
-      <link>http://localhost:1313/tags/blue-team/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/blue-team/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/blue-team/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/blue-team/</guid>
       <description></description>
     </item>
     <item>
       <title>IDS</title>
-      <link>http://localhost:1313/tags/ids/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/ids/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ids/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/ids/</guid>
       <description></description>
     </item>
     <item>
       <title>Lab</title>
-      <link>http://localhost:1313/tags/lab/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/lab/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/lab/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/lab/</guid>
       <description></description>
     </item>
     <item>
       <title>SOC</title>
-      <link>http://localhost:1313/tags/soc/</link>
+      <link>https://0x-s0M3n4th.github.io/tags/soc/</link>
       <pubDate>Sun, 12 Oct 2025 12:48:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/soc/</guid>
+      <guid>https://0x-s0M3n4th.github.io/tags/soc/</guid>
       <description></description>
     </item>
   </channel>

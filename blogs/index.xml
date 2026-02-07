@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on 0x-s0M3n4th&#39;s Blog</title>
-    <link>http://localhost:1313/blogs/</link>
+    <link>https://0x-s0M3n4th.github.io/blogs/</link>
     <description>Recent content in Blogs on 0x-s0M3n4th&#39;s Blog</description>
     <image>
       <title>0x-s0M3n4th&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Oct 2025 18:45:11 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x-s0M3n4th.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recon on myself</title>
-      <link>http://localhost:1313/blogs/welcome/</link>
+      <link>https://0x-s0M3n4th.github.io/blogs/welcome/</link>
       <pubDate>Tue, 08 Jul 2025 04:14:54 -0800</pubDate>
-      <guid>http://localhost:1313/blogs/welcome/</guid>
+      <guid>https://0x-s0M3n4th.github.io/blogs/welcome/</guid>
       <description>&lt;p&gt;Welcome. If you&amp;rsquo;re here, you&amp;rsquo;re likely passionate about red teaming and the art of the technical write-up. This blog is my contribution to that community. I appreciate you taking the time to be here.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;What You’ll Find Here&lt;/strong&gt;&lt;/p&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Why i chose books over certs!</title>
-      <link>http://localhost:1313/blogs/blog_1/</link>
+      <link>https://0x-s0M3n4th.github.io/blogs/blog_1/</link>
       <pubDate>Sun, 19 Oct 2025 18:45:11 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/blog_1/</guid>
+      <guid>https://0x-s0M3n4th.github.io/blogs/blog_1/</guid>
       <description>&lt;p&gt;This is going to be a very raw blog, mostly about what I am going to post in the next few months, and what I have been doing for the past few weeks.&lt;/p&gt;
 &lt;p&gt;So, &lt;em&gt;let&amp;rsquo;s start with what I was doing&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After completing &lt;code&gt;eJPT&lt;/code&gt; certification and learning the basics as well as core concepts of &lt;code&gt;system administration&lt;/code&gt;, I got my hands dirty on &lt;code&gt;CTF platforms&lt;/code&gt; like &lt;code&gt;HTB&lt;/code&gt;. I took a one-month subscription just to get the experience of it. But not gonna lie, it was not what I expected. First of all, playing &lt;code&gt;CTFs&lt;/code&gt; on these platforms are very good for many people, and the platforms do a great job. But I didn&amp;rsquo;t like the &lt;code&gt;CTFish&lt;/code&gt; or more like &lt;code&gt;obviously vulnerable&lt;/code&gt; experience. I thought the normal HTB boxes would replicate real-world scenarios—hardened systems where normal scans easily fail, and where initial access depends on phishing, social engineering, or hardcore OSINT rather than an obvious open port. That wasn&amp;rsquo;t what I found. But definately &lt;code&gt;HTB&lt;/code&gt; is a great platform for sharpening your skills under time pressure.&lt;/p&gt;</description>
