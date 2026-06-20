@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/00-chapter-1/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
     <loc>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/01-lab-build/01-easy-to-setup-lab/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
@@ -237,7 +240,22 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/</loc>
-    <lastmod>2025-12-20T23:14:00+05:30</lastmod>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/history/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/linux/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/notes/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
+  </url><url>
+    <loc>https://0x-s0M3n4th.github.io/tags/</loc>
+    <lastmod>2026-06-20T05:30:20+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/active-directory/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
@@ -254,9 +272,6 @@
     <loc>https://0x-s0M3n4th.github.io/tags/network-pentesting/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/</loc>
-    <lastmod>2025-12-20T23:14:00+05:30</lastmod>
-  </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/post-exploitation/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
@@ -264,9 +279,6 @@
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/red-team/</loc>
-    <lastmod>2025-12-20T23:14:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/</loc>
     <lastmod>2025-12-20T23:14:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/kerberos/</loc>
@@ -354,9 +366,6 @@
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/lateral-movement/</loc>
-    <lastmod>2025-11-24T13:25:00+05:30</lastmod>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/tags/linux/</loc>
     <lastmod>2025-11-24T13:25:00+05:30</lastmod>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/tags/malware-evasion/</loc>
@@ -560,8 +569,6 @@
     <loc>https://0x-s0M3n4th.github.io/notes/system_administration/00-chapter-1/00-history-of-linux/</loc>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/archive/</loc>
-  </url><url>
-    <loc>https://0x-s0M3n4th.github.io/notes/system_administration/</loc>
   </url><url>
     <loc>https://0x-s0M3n4th.github.io/portfolio/</loc>
   </url><url>
