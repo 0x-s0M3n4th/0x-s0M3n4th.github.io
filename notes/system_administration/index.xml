@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Nov 2025 18:45:11 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 10:00:00 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/notes/system_administration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - INTRO</title>
@@ -22,137 +22,6 @@
 This is going to be a beginner to advance of &lt;em&gt;system administration&lt;/em&gt; tutorial. This whole section will contain my personal notes , those which i had learned during a bunch of sessions. If you feel any difficulty feel free to reach out through this mail &lt;code&gt;cyb3rinsi6hts@gmail.com&lt;/code&gt; .&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;I hope you will enjoy this big tutorial. I am still learning , please pardon any mistakes. Thank you for your time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 1</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</link>
-      <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Commands are indicated like this:&lt;/strong&gt; &lt;code&gt;COMMANDS&lt;/code&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;purpose of &lt;code&gt;touch&lt;/code&gt; command →&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;creating a new file&lt;/li&gt;
-&lt;li&gt;changing / modifying the timestamp of a file&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;stat&lt;/code&gt; command is used to show the timestamp of any file in directory.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;touch {1..10}.txt&lt;/code&gt; → creating simultaneous file at sme time&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Creating recursive directories altogether → &lt;code&gt;mkdir LPU/CSE LPU/ECE LPU/ME&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;ls -R /LPU&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;tty&lt;/code&gt; → terminal interface
-&lt;img alt=&#34;SYSADMIN_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_1/Lec_1_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;user info enumueration → &lt;code&gt;id&lt;/code&gt;,&lt;code&gt;whoami&lt;/code&gt;,&lt;code&gt;who&lt;/code&gt;,&lt;code&gt;id&lt;/code&gt;,&lt;code&gt;w&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;logname&lt;/code&gt; → to see current login name&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 2</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</link>
-      <pubDate>Sat, 01 Nov 2025 10:00:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-3/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;which&lt;/code&gt; → Exact location of the exeutable file&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;whereis&lt;/code&gt; → local documentation&lt;/li&gt;
-&lt;li&gt;Linux help commands :
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;man&lt;/code&gt; → manual pages , docs of the command → we must aware about
-the exact command name of the command
-&lt;ol&gt;
-&lt;li&gt;Total 9 categories of the man pages are available
-&lt;ol&gt;
-&lt;li&gt;exe , config , kernel files etc categories.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;If man doesnot work for newer systems we need to update the
-man databse → &lt;code&gt;sudo mandb&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;man man&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;man -k ANY_COMMAND_YOU_KNOW_PARTIALLY&lt;/code&gt; like password&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;SYSADMIN_9&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Lec_2/Lec_2_ss_1_sysadmin.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SYSTEM ADMINISTRATION TUTORIAL SERIES - Part 3</title>
-      <link>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</link>
-      <pubDate>Sun, 02 Nov 2025 18:45:11 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/lec-4/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;Terminal shortcuts :
-&lt;ol&gt;
-&lt;li&gt;CTRL + a → It is going to jump my cursor to the beginning of the
-command line&lt;/li&gt;
-&lt;li&gt;CTRL + e → End of command line&lt;/li&gt;
-&lt;li&gt;CTRL + k → Cut from the specific location&amp;rsquo;s words of the command
-using the cursor&lt;/li&gt;
-&lt;li&gt;CTRL + r → Search the command history in that terminal&lt;/li&gt;
-&lt;li&gt;executing command from history → [!COMMAND_NUMBER]&lt;/li&gt;
-&lt;li&gt;CTRL + arrow keys[left,right] → use to move my cursor word by
-word&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Deleting files and directories :
-&lt;ol&gt;
-&lt;li&gt;Deleting file → rm FILE_NAME&lt;/li&gt;
-&lt;li&gt;Deleting directories → rmdir DIRECTORY_NAME → This is used to
-delete empty directory&lt;/li&gt;
-&lt;li&gt;rm -r DIR_NAME → Delete Non-empty directories&lt;/li&gt;
-&lt;li&gt;rm -rf DIR_NAME → Forceful Deletion of all files inside
-directories&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Wildcards :
-&lt;ol&gt;
-&lt;li&gt;‘ * ’ → all matching&lt;/li&gt;
-&lt;li&gt;‘ ? ’ → Match one character , ‘??’ → match two chars → It is
-used for exact match&lt;/li&gt;
-&lt;li&gt;‘[ ]’ → for example we are having two files named a.txt and
-b.txt → ls [ab].txt → either starting from a.txt or b.txt&lt;/li&gt;
-&lt;li&gt;We can combine all three according to our convinience&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Copy command [cp] :
-&lt;ol&gt;
-&lt;li&gt;cp SOURCE_PATH DESTINATION_PATH → cp abc.txt /home/Downloads&lt;/li&gt;
-&lt;li&gt;cp -r → recursive copy → used for diretory copying&lt;/li&gt;
-&lt;li&gt;cp -i → ‘i’ interactive copy → for example if we are
-overwritting a file by copying it will give us a warning&lt;/li&gt;
-&lt;li&gt;cp -p → Preserve attributes like permission,timestamp,all other
-etc..&lt;/li&gt;
-&lt;li&gt;cp -v → more readability detailed output&lt;/li&gt;
-&lt;li&gt;cp -u *.txt DESTINATION_PATH → copying only unique files from
-the SOURCE dir&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Move command :
-&lt;ol&gt;
-&lt;li&gt;File is get deleted from Source while using the ‘mv’ command /
-moving from source to dest&lt;/li&gt;
-&lt;li&gt;-i → Prompt before overwrite&lt;/li&gt;
-&lt;li&gt;-v → verbose output&lt;/li&gt;
-&lt;li&gt;-f → forcefully moving&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Managing links :
-1.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;![[Pasted image 20250724110059.png]]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
