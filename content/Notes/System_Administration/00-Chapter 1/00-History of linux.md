@@ -15,6 +15,7 @@ tags: ["Linux", "History"]
 - Basically `Linux` is not an OS, it's a open-source kernel.
 - Here's a basic diagram that will give a brief idea about the evolution of `linux`:
 
+```mermaid
 timeline
     title History of Linux: Major Milestones
     1991 : Linus Torvalds announces personal project on Usenet : First Linux Kernel release (0.01)
@@ -30,6 +31,7 @@ timeline
     2015 : Linux Kernel 4.0 released
     2019 : Linux Kernel 5.0 released
     2022 : Linux Kernel 6.0 released
+```
 
 - There are several distros available which uses the linux kernel as their base and it's a picture i found on the web that demonstrates the evolution of distros pretty well[_CURRENTLY THE PROJECT IS NOT MAINTAINED ANYMORE_] -> [DISTRO-EVOLUTION](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg) 
 
