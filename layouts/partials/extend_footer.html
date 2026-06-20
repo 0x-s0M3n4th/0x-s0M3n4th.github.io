@@ -1,45 +1,49 @@
-{{ if .Page.Store.Get "hasMermaid" }}
-  <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    
-    const initMermaid = () => {
-      const isDark = document.body.classList.contains("dark");
-      mermaid.initialize({ 
-        startOnLoad: false, // Control rendering manually
-        theme: isDark ? "dark" : "default" 
-      });
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+
+  // 1. One-time Setup: Convert Hugo code blocks to persistent Mermaid containers
+  const setupMermaidContainers = () => {
+    document.querySelectorAll("code.language-mermaid").forEach((codeBlock) => {
+      const preElement = codeBlock.parentElement;
+      if (!preElement) return;
+
+      const mermaidDiv = document.createElement("div");
+      mermaidDiv.className = "mermaid-container";
+      mermaidDiv.setAttribute("data-raw", codeBlock.textContent.trim()); 
       
-      // Select all unrendered diagrams
-      document.querySelectorAll(".mermaid:not([data-processed='true'])").forEach((el, index) => {
-        // Save raw markdown content if not already cached
-        if (!el.getAttribute('data-raw')) {
-          el.setAttribute('data-raw', el.textContent);
-        }
-        
-        const rawContent = el.getAttribute('data-raw');
-        const id = `mermaid-diag-${index}`;
-        
-        mermaid.render(id, rawContent).then(({ svg }) => {
-          el.innerHTML = svg;
-          el.setAttribute('data-processed', 'true');
-        });
-      });
-    };
-
-    // Run on initial page load
-    window.addEventListener('DOMContentLoaded', initMermaid);
-
-    // Listen for PaperMod's theme toggle click without breaking user flow
-    document.getElementById("theme-toggle")?.addEventListener("click", () => {
-      setTimeout(() => {
-        // Clear Mermaid's processed states to allow a redraw
-        document.querySelectorAll(".mermaid").forEach(el => {
-          el.removeAttribute('data-processed');
-          el.innerHTML = el.getAttribute('data-raw') || el.innerHTML;
-        });
-        initMermaid();
-      }, 50); 
+      preElement.replaceWith(mermaidDiv);
     });
-  </script>
-{{ end }}
+  };
+
+  // 2. Render/Re-render Engine: Can be called infinitely safely
+  const renderDiagrams = () => {
+    const isDark = document.body.classList.contains("dark");
+    mermaid.initialize({ 
+      startOnLoad: false, 
+      theme: isDark ? "dark" : "default" 
+    });
+
+    document.querySelectorAll(".mermaid-container").forEach((el, index) => {
+      const rawContent = el.getAttribute("data-raw");
+      if (!rawContent) return;
+
+      const id = `mermaid-diag-${Date.now()}-${index}`;
+      
+      mermaid.render(id, rawContent).then(({ svg }) => {
+        el.innerHTML = svg;
+      }).catch(err => console.error("Mermaid rendering failed:", err));
+    });
+  };
+
+  // Run everything sequentially on page load
+  window.addEventListener('DOMContentLoaded', () => {
+    setupMermaidContainers(); // Converts standard code blocks once
+    renderDiagrams();         // Renders them the first time
+  });
+
+  // Run ONLY the renderer on theme toggle (using the saved data-raw attributes)
+  document.getElementById("theme-toggle")?.addEventListener("click", () => {
+    setTimeout(renderDiagrams, 50); 
+  });
+</script>
 
