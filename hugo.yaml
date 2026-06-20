@@ -73,7 +73,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 0x-s0M3n4th
-    subtitle: "Penetration Testing | System Administration | Blue Team Operations. Exploring the depths of Active Directory and low-level coding."
+    subtitle: "Your friendly helping hand :)"
     imageUrl: "images/pfp.jpg"
     imageWidth: 200
     imageHeight: 200
