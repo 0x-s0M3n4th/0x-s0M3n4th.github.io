@@ -11,20 +11,41 @@
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 05:54:30 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:21:10 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>History</title>
-      <link>https://0x-s0M3n4th.github.io/tags/history/</link>
-      <pubDate>Sat, 20 Jun 2026 05:54:30 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/history/</guid>
+      <title>Basics</title>
+      <link>https://0x-s0M3n4th.github.io/tags/basics/</link>
+      <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheatsheet</title>
+      <link>https://0x-s0M3n4th.github.io/tags/cheatsheet/</link>
+      <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/cheatsheet/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://0x-s0M3n4th.github.io/tags/linux/</link>
-      <pubDate>Sat, 20 Jun 2026 05:54:30 +0530</pubDate>
+      <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practice Lab</title>
+      <link>https://0x-s0M3n4th.github.io/tags/practice-lab/</link>
+      <pubDate>Mon, 06 Jul 2026 12:20:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/practice-lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://0x-s0M3n4th.github.io/tags/history/</link>
+      <pubDate>Sat, 20 Jun 2026 05:54:30 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/tags/history/</guid>
       <description></description>
     </item>
     <item>
@@ -585,13 +606,6 @@
       <link>https://0x-s0M3n4th.github.io/tags/winrm/</link>
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/tags/winrm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basics</title>
-      <link>https://0x-s0M3n4th.github.io/tags/basics/</link>
-      <pubDate>Sat, 08 Nov 2025 20:15:00 +0530</pubDate>
-      <guid>https://0x-s0M3n4th.github.io/tags/basics/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cheatsheet on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/tags/cheatsheet/</link>
+    <description>Recent content in Cheatsheet on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2026 12:21:10 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1 cheatsheet</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</link>
+      <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</guid>
+      <description>&lt;h1 id=&#34;main-commands&#34;&gt;Main commands:&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Commands&lt;/th&gt;
+          &lt;th&gt;Short description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -l&lt;/td&gt;
+          &lt;td&gt;Lists files in a long format showing permissions, owner, and size.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -a&lt;/td&gt;
+          &lt;td&gt;Lists all files, including hidden ones (those starting with a dot).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -ld&lt;/td&gt;
+          &lt;td&gt;Lists details of the directory itself rather than its contents.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -lh&lt;/td&gt;
+          &lt;td&gt;Lists files in long format with file sizes in human-readable format (KB, MB).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -lt&lt;/td&gt;
+          &lt;td&gt;Lists files sorted by modification time, newest first.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -ltr&lt;/td&gt;
+          &lt;td&gt;Lists files sorted by modification time in reverse order (oldest first).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -R&lt;/td&gt;
+          &lt;td&gt;Lists all files in the current directory and all subdirectories recursively.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;pwd&lt;/td&gt;
+          &lt;td&gt;Prints the full path of the current working directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd ..&lt;/td&gt;
+          &lt;td&gt;Moves one level up into the parent directory&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd &lt;code&gt;dir_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Changes the current directory to the specified folder&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd ~&lt;/td&gt;
+          &lt;td&gt;Moves directly to the current user&amp;rsquo;s home directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd -&lt;/td&gt;
+          &lt;td&gt;Switches back to the previous directory you were in.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd&lt;/td&gt;
+          &lt;td&gt;Shortcut to return to the home directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -a&lt;/td&gt;
+          &lt;td&gt;Displays all files and directories in a tree structure, including hidden ones.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -d&lt;/td&gt;
+          &lt;td&gt;Displays only directories in the tree structure.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -h&lt;/td&gt;
+          &lt;td&gt;Displays the tree structure along with human-readable file sizes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -f&lt;/td&gt;
+          &lt;td&gt;Displays the full path prefix for each file in the tree.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -p&lt;/td&gt;
+          &lt;td&gt;Displays the tree structure along with file permissions.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tty&lt;/td&gt;
+          &lt;td&gt;Prints the file name of the terminal connected to standard input.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uptime&lt;/td&gt;
+          &lt;td&gt;Shows how long the system has been running and the current load.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;clear&lt;/td&gt;
+          &lt;td&gt;Clears the terminal screen for a fresh workspace.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;which &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Shows the full path of the executable for a command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;whereis &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Locates the binary, source, and manual page files for a command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;type &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Explains how a command name would be interpreted (alias, builtin, or file).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname&lt;/td&gt;
+          &lt;td&gt;Prints the name of the operating system kernel.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -a&lt;/td&gt;
+          &lt;td&gt;Prints all available system information in one line.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -s&lt;/td&gt;
+          &lt;td&gt;Displays the kernel name.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -n&lt;/td&gt;
+          &lt;td&gt;Displays the network node hostname.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -r&lt;/td&gt;
+          &lt;td&gt;Displays the kernel release version.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -v&lt;/td&gt;
+          &lt;td&gt;Displays the kernel version date and build info.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -m&lt;/td&gt;
+          &lt;td&gt;Displays the machine hardware architecture (e.g., x86_64).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -p&lt;/td&gt;
+          &lt;td&gt;Displays the processor type or &amp;ldquo;unknown&amp;rdquo;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -i&lt;/td&gt;
+          &lt;td&gt;Displays the hardware platform or &amp;ldquo;unknown&amp;rdquo;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -o&lt;/td&gt;
+          &lt;td&gt;Displays the operating system name (e.g., GNU/Linux).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;lscpu&lt;/td&gt;
+          &lt;td&gt;Displays detailed information about the CPU architecture.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;man &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Opens the official manual page for a specific command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;man -k &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Searches the manual descriptions for a specific keyword.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;appropos &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Searches the manual pages for a keyword (same as man -k).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cmd_name --help&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Displays a brief summary of a command&amp;rsquo;s options and usage.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cmd_name&lt;/code&gt; -?&lt;/td&gt;
+          &lt;td&gt;An alternative flag used by some programs to show help.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -l /usr/share/doc/&lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Checks for additional offline documentation files for a program.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chapter - 1: Basics of linux on 0x-s0M3n4th&#39;s Blog</title>
+    <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/</link>
+    <description>Recent content in Chapter - 1: Basics of linux on 0x-s0M3n4th&#39;s Blog</description>
+    <image>
+      <title>0x-s0M3n4th&#39;s Blog</title>
+      <url>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://0x-s0M3n4th.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2026 12:21:10 +0530</lastBuildDate>
+    <atom:link href="https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Directories</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/01-basics/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/01-basics/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;The default display manager in &lt;code&gt;RHEL 9 &lt;/code&gt; is called &lt;code&gt;GDM(GNOME Display Manager)&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;linux-directory-structure&#34;&gt;Linux Directory Structure:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux files are organized logically in a hierarchy for ease of administration and recognition. This organization is maintained in hundreds of directories located in larger containers called file systems. Red Hat Enterprise Linux follows the &lt;strong&gt;Filesystem Hierarchy Standard (FHS)&lt;/strong&gt; for file organization, which describes names, locations, and permissions for many file types and directories.&lt;/li&gt;
+&lt;li&gt;The Linux directory structure is analogous to an inverted tree, where the top of the tree is the root of the directory, tree branches are subdirectories, and leaves are files.&lt;/li&gt;
+&lt;li&gt;Path example: &lt;code&gt;/etc/rc.d/init.d/README&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;etc&lt;/code&gt; directory is located under &lt;code&gt;/&lt;/code&gt; -&amp;gt; here &lt;code&gt;/&lt;/code&gt; is the parent and &lt;code&gt;etc&lt;/code&gt; is the child.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rc.d(child)&lt;/code&gt; is located under &lt;code&gt;etc(parent)&lt;/code&gt; .&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;init.d(child)&lt;/code&gt; is located under &lt;code&gt;rc.d(parent)&lt;/code&gt; .&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;README(leaf)&lt;/code&gt; is located under &lt;code&gt;init.d(parent)&lt;/code&gt; .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;==SUB-DIRECTORY:==&lt;/em&gt; A directory that has a parent directory.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class=&#34;admonition note&#34;&gt;
+      &lt;div class=&#34;admonition-header&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path d=&#34;M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 125.7-86.8 86.8c-10.3 10.3-17.5 23.1-21 37.2l-18.7 74.9c-2.3 9.2-1.8 18.8 1.3 27.5L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128zM549.8 235.7l14.4 14.4c15.6 15.6 15.6 40.9 0 56.6l-29.4 29.4-71-71 29.4-29.4c15.6-15.6 40.9-15.6 56.6 0zM311.9 417L441.1 287.8l71 71L382.9 487.9c-4.1 4.1-9.2 7-14.9 8.4l-60.1 15c-5.5 1.4-11.2-.2-15.2-4.2s-5.6-9.7-4.2-15.2l15-60.1c1.4-5.6 4.3-10.8 8.4-14.9z&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Note&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;admonition-content&#34;&gt;
+        &lt;p&gt;The root directory has no parent, and the lowest level subdirectory has no child.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Listing files and directories</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/02-listing-files-and-directories/</link>
+      <pubDate>Mon, 06 Jul 2026 12:11:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/02-listing-files-and-directories/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;One of the most rudimentary command in linux is &lt;code&gt;ls&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;some-options-of-ls&#34;&gt;Some options of ls:&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Options&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-a&lt;/td&gt;
+          &lt;td&gt;Shows hidden files and directories. A file or directory name that begins with the period character.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-l&lt;/td&gt;
+          &lt;td&gt;Displays long listing with detailed file information like file type, permissions, link count, owner etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-ld&lt;/td&gt;
+          &lt;td&gt;Displays long listing of the specified directory but hides its contents.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-lh&lt;/td&gt;
+          &lt;td&gt;Displays long listing with file sizes shown in human-friendly format.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-lt&lt;/td&gt;
+          &lt;td&gt;Lists all files sorted by date and time with the newest file first.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-ltr&lt;/td&gt;
+          &lt;td&gt;Lists all files sorted by date and time with the oldest file first (reverse).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;-R&lt;/td&gt;
+          &lt;td&gt;Lists contents of the specified directory and all its subdirectories (recursive listing).&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;ls--l&#34;&gt;ls -l:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Long listing of the files.
+![[Pasted image 20260214135045.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--al&#34;&gt;ls -al:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List all the hidden files in the current working directory.
+![[Pasted image 20260214135145.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;debriefing-the-columns&#34;&gt;Debriefing the columns:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Columns 1:&lt;/code&gt; The first character &lt;strong&gt;(hyphen or d)&lt;/strong&gt; divulges the file type, and the next nine characters &lt;strong&gt;(rw-rw-r&amp;ndash;)&lt;/strong&gt; indicate permissions.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 2:&lt;/code&gt; Displays the number of link.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 3:&lt;/code&gt; Shows the owner name.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 4:&lt;/code&gt; Exhibits the owning group name.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 5:&lt;/code&gt; Identifies the file size in bytes. For directories, this number reflects the number of blocks being used by the directory to hold information about its contents.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 6,7,8:&lt;/code&gt; Displays the month, day, and time of creation or last modification.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Column 9:&lt;/code&gt; Indicates the name of the file or directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--ll&#34;&gt;ls -ll:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alternative of &lt;code&gt;ls -l&lt;/code&gt; , does the same thing.
+![[Pasted image 20260214135737.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--ld-directory_name&#34;&gt;ls -ld {directory_name}:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shows long listing of the specified directory.
+&lt;ul&gt;
+&lt;li&gt;For example: &lt;code&gt;ls -ld /usr&lt;/code&gt;
+![[Pasted image 20260214140323.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--alh&#34;&gt;ls -alh:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To show all the files in the current directory with their sizes in human readable format.
+![[Pasted image 20260214140457.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--lt&#34;&gt;ls -lt:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shows the output in a sorted order by date and time with the newest file first.
+![[Pasted image 20260214140908.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ls--r-directory_nameby-default-the-cwd-is-selected&#34;&gt;ls -R directory_name/by default the cwd is selected:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shows content of any specified directory recursively, if directory is not specified it will take the current working directory as a default argument.
+![[Pasted image 20260214141142.png]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;![[Pasted image 20260214141310.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Directory Basics</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/03-directory-basics/</link>
+      <pubDate>Mon, 06 Jul 2026 12:12:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/03-directory-basics/</guid>
+      <description>&lt;h1 id=&#34;pwdpresent-working-directory&#34;&gt;pwd(Present working Directory):&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;It shows the a user’s current working directory.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pwd&lt;/code&gt; always returns the absolute path.
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;navigating-directories&#34;&gt;Navigating directories:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Absolute path:&lt;/code&gt; It is the full path starting from the top level path which is &lt;code&gt;/&lt;/code&gt; to my current working directory. The &lt;code&gt;absolute path&lt;/code&gt; will always start with &lt;code&gt;/&lt;/code&gt; at the beginning.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Relative path:&lt;/code&gt; It is not a full path but rather a path which depicts the location relative to our own current working directory.&lt;/li&gt;
+&lt;li&gt;For example: we are in &lt;code&gt;/home/user1&lt;/code&gt; directory. To move upwards either we can write using the &lt;code&gt;relative path&lt;/code&gt; like this → &lt;code&gt;cd Desktop/&lt;/code&gt; , or we can write using &lt;code&gt;absolute path&lt;/code&gt; like this → &lt;code&gt;cd /home/user1/Desktop/&lt;/code&gt;
+&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_3.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Identifying terminal devices</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/04-identifying-terminal-device/</link>
+      <pubDate>Mon, 06 Jul 2026 12:13:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/04-identifying-terminal-device/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Linux allocates unique pseudo (or virtual) numbered device files to represent terminal sessions opened by users on the system. It uses these files to communicate with individual sessions. By default, these files are stored in the &lt;strong&gt;/dev/pts&lt;/strong&gt; (&lt;mark style=&#34;background:#ff4d4f&#34;&gt;pseudo terminal session&lt;/mark&gt;) directory. These files are created by the system when a user opens a new terminal session and they are removed on its closure.&lt;/li&gt;
+&lt;li&gt;We can see it via the command &lt;code&gt;tty(teletype)&lt;/code&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/04_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>System uptime</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/05-system-uptime/</link>
+      <pubDate>Mon, 06 Jul 2026 12:14:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/05-system-uptime/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;uptime&lt;/code&gt; command is used to display the &lt;strong&gt;system’s current time&lt;/strong&gt;, length of time it has been up for, &lt;strong&gt;number of users currently logged in&lt;/strong&gt;, and &lt;strong&gt;the average CPU (processing) load over the past 1, 5, and 15 minutes&lt;/strong&gt;.
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/05_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;The output shows the current system time (18:28:09), up duration (49 minutes), number of logged-in users (2), and the CPU load averages over the past 1, 5, and 15 minutes (0.00, 0.00, and 0.00), respectively.&lt;/li&gt;
+&lt;li&gt;The load average numbers correspond to the percentage of CPU load with 0.00 and 1.00 represent no load and full load, and &lt;strong&gt;a number greater than 1.00 signifies excess load (over 100%).&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>You know this alrady ;)</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/06-clearing-the-screen/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/06-clearing-the-screen/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;You can clear the terminal screen using the command &lt;code&gt;clear&lt;/code&gt; .&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Determining path of commands</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/07-determining-command-path/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/07-determining-command-path/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RHEL&lt;/code&gt; provides a set of tools that can be used to identify the &lt;code&gt;absolute path&lt;/code&gt; of the command that will be executed when you run it without specifying its full path. These tools are the &lt;code&gt;which, whereis, and type&lt;/code&gt; commands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;which&#34;&gt;which:&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_1.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;whereis&#34;&gt;whereis:&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_2.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;type&#34;&gt;type:&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_3.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viewing system information</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/08-viewing-system-information/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/08-viewing-system-information/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;uname&lt;/code&gt; command identifies elementary information about the system including its hostname.
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;uname&lt;/code&gt; → shows only the kernel name.&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;uname -a&lt;/code&gt; → showing all information&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_2.png&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Kernel name(1), hostname(2), kernel release(3), date and time of the kernel built(4), machine and hardware name(5), processor type(6), hardware platform(7), operating system name(8).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;More separate commands to try on &lt;code&gt;uname&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_3.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Viewing CPU information</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/09-viewing-cpu-info/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/09-viewing-cpu-info/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We can see all &lt;code&gt;cpu&lt;/code&gt; info using the command &lt;code&gt;lscpu&lt;/code&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/09_img_1.png&#34;&gt;
+&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/09_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How to get help when you are stuck in any command?</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/10-getting-help/</link>
+      <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/10-getting-help/</guid>
+      <description>&lt;h1 id=&#34;man-pages&#34;&gt;man pages:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Press h&lt;/code&gt; to get help on navigation, &lt;code&gt;press q&lt;/code&gt; to quit and return to the command prompt, use the &lt;code&gt;Up and Down arrow keys&lt;/code&gt; to scroll up and down, and the &lt;code&gt;PgUp&lt;/code&gt; and &lt;code&gt;PgDn&lt;/code&gt; keys to scroll one page at a time.&lt;/li&gt;
+&lt;li&gt;KEYS WHICH  CAN HELP IN NAVIGATION:
+&lt;ul&gt;
+&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_3.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;apropos-command&#34;&gt;apropos command:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;It is alias of the command &lt;code&gt;man -k {half_remembered_cmd_name}&lt;/code&gt; → This command allows us to perform keyword search on manual pages incase we have forgot what the command name is.&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;link rel=&#34;stylesheet&#34; href=&#34;https://0x-s0M3n4th.github.io/css/vendors/admonitions.4fd9a0b8ec8899f2ca952048d255a569f433f77dfb3f52f5bc87e7d65cdce449.css&#34; integrity=&#34;sha256-T9mguOyImfLKlSBI0lWlafQz9337P1L1vIfn1lzc5Ek=&#34; crossorigin=&#34;anonymous&#34;&gt;
+    &lt;div class=&#34;admonition note&#34;&gt;
+      &lt;div class=&#34;admonition-header&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path d=&#34;M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 125.7-86.8 86.8c-10.3 10.3-17.5 23.1-21 37.2l-18.7 74.9c-2.3 9.2-1.8 18.8 1.3 27.5L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128zM549.8 235.7l14.4 14.4c15.6 15.6 15.6 40.9 0 56.6l-29.4 29.4-71-71 29.4-29.4c15.6-15.6 40.9-15.6 56.6 0zM311.9 417L441.1 287.8l71 71L382.9 487.9c-4.1 4.1-9.2 7-14.9 8.4l-60.1 15c-5.5 1.4-11.2-.2-15.2-4.2s-5.6-9.7-4.2-15.2l15-60.1c1.4-5.6 4.3-10.8 8.4-14.9z&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Note&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;admonition-content&#34;&gt;
+        &lt;p&gt;Before we run the keyword search we need to run the command &lt;code&gt;mandb&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practice lab scenarios</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/11-practice-lab---1/</link>
+      <pubDate>Mon, 06 Jul 2026 12:20:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/11-practice-lab---1/</guid>
+      <description>&lt;h1 id=&#34;navigate-linux-directory-tree---practice-questions&#34;&gt;Navigate Linux Directory Tree - Practice questions:&lt;/h1&gt;
+
+            &lt;link rel=&#34;stylesheet&#34; href=&#34;https://0x-s0M3n4th.github.io/css/vendors/admonitions.4fd9a0b8ec8899f2ca952048d255a569f433f77dfb3f52f5bc87e7d65cdce449.css&#34; integrity=&#34;sha256-T9mguOyImfLKlSBI0lWlafQz9337P1L1vIfn1lzc5Ek=&#34; crossorigin=&#34;anonymous&#34;&gt;
+    &lt;div class=&#34;admonition note&#34;&gt;
+      &lt;div class=&#34;admonition-header&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path d=&#34;M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 125.7-86.8 86.8c-10.3 10.3-17.5 23.1-21 37.2l-18.7 74.9c-2.3 9.2-1.8 18.8 1.3 27.5L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128zM549.8 235.7l14.4 14.4c15.6 15.6 15.6 40.9 0 56.6l-29.4 29.4-71-71 29.4-29.4c15.6-15.6 40.9-15.6 56.6 0zM311.9 417L441.1 287.8l71 71L382.9 487.9c-4.1 4.1-9.2 7-14.9 8.4l-60.1 15c-5.5 1.4-11.2-.2-15.2-4.2s-5.6-9.7-4.2-15.2l15-60.1c1.4-5.6 4.3-10.8 8.4-14.9z&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Note&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;admonition-content&#34;&gt;
+        &lt;p&gt;Do it yourself, try to use the existing knowledeg you had learned from the chapter 1. If you get stuck , you can look into AI tools but don&amp;rsquo;t overuse them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter 1 cheatsheet</title>
+      <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</link>
+      <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</guid>
+      <description>&lt;h1 id=&#34;main-commands&#34;&gt;Main commands:&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Commands&lt;/th&gt;
+          &lt;th&gt;Short description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -l&lt;/td&gt;
+          &lt;td&gt;Lists files in a long format showing permissions, owner, and size.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -a&lt;/td&gt;
+          &lt;td&gt;Lists all files, including hidden ones (those starting with a dot).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -ld&lt;/td&gt;
+          &lt;td&gt;Lists details of the directory itself rather than its contents.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -lh&lt;/td&gt;
+          &lt;td&gt;Lists files in long format with file sizes in human-readable format (KB, MB).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -lt&lt;/td&gt;
+          &lt;td&gt;Lists files sorted by modification time, newest first.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -ltr&lt;/td&gt;
+          &lt;td&gt;Lists files sorted by modification time in reverse order (oldest first).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -R&lt;/td&gt;
+          &lt;td&gt;Lists all files in the current directory and all subdirectories recursively.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;pwd&lt;/td&gt;
+          &lt;td&gt;Prints the full path of the current working directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd ..&lt;/td&gt;
+          &lt;td&gt;Moves one level up into the parent directory&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd &lt;code&gt;dir_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Changes the current directory to the specified folder&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd ~&lt;/td&gt;
+          &lt;td&gt;Moves directly to the current user&amp;rsquo;s home directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd -&lt;/td&gt;
+          &lt;td&gt;Switches back to the previous directory you were in.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cd&lt;/td&gt;
+          &lt;td&gt;Shortcut to return to the home directory.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -a&lt;/td&gt;
+          &lt;td&gt;Displays all files and directories in a tree structure, including hidden ones.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -d&lt;/td&gt;
+          &lt;td&gt;Displays only directories in the tree structure.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -h&lt;/td&gt;
+          &lt;td&gt;Displays the tree structure along with human-readable file sizes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -f&lt;/td&gt;
+          &lt;td&gt;Displays the full path prefix for each file in the tree.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tree -p&lt;/td&gt;
+          &lt;td&gt;Displays the tree structure along with file permissions.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tty&lt;/td&gt;
+          &lt;td&gt;Prints the file name of the terminal connected to standard input.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uptime&lt;/td&gt;
+          &lt;td&gt;Shows how long the system has been running and the current load.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;clear&lt;/td&gt;
+          &lt;td&gt;Clears the terminal screen for a fresh workspace.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;which &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Shows the full path of the executable for a command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;whereis &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Locates the binary, source, and manual page files for a command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;type &lt;code&gt;command_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Explains how a command name would be interpreted (alias, builtin, or file).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname&lt;/td&gt;
+          &lt;td&gt;Prints the name of the operating system kernel.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -a&lt;/td&gt;
+          &lt;td&gt;Prints all available system information in one line.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -s&lt;/td&gt;
+          &lt;td&gt;Displays the kernel name.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -n&lt;/td&gt;
+          &lt;td&gt;Displays the network node hostname.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -r&lt;/td&gt;
+          &lt;td&gt;Displays the kernel release version.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -v&lt;/td&gt;
+          &lt;td&gt;Displays the kernel version date and build info.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -m&lt;/td&gt;
+          &lt;td&gt;Displays the machine hardware architecture (e.g., x86_64).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -p&lt;/td&gt;
+          &lt;td&gt;Displays the processor type or &amp;ldquo;unknown&amp;rdquo;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -i&lt;/td&gt;
+          &lt;td&gt;Displays the hardware platform or &amp;ldquo;unknown&amp;rdquo;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;uname -o&lt;/td&gt;
+          &lt;td&gt;Displays the operating system name (e.g., GNU/Linux).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;lscpu&lt;/td&gt;
+          &lt;td&gt;Displays detailed information about the CPU architecture.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;man &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Opens the official manual page for a specific command.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;man -k &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Searches the manual descriptions for a specific keyword.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;appropos &lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Searches the manual pages for a keyword (same as man -k).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cmd_name --help&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Displays a brief summary of a command&amp;rsquo;s options and usage.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cmd_name&lt;/code&gt; -?&lt;/td&gt;
+          &lt;td&gt;An alternative flag used by some programs to show help.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls -l /usr/share/doc/&lt;code&gt;cmd_name&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Checks for additional offline documentation files for a program.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
