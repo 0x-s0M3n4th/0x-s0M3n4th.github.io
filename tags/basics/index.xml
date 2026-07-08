@@ -21,7 +21,7 @@
       <description>&lt;ol&gt;
 &lt;li&gt;The default display manager in &lt;code&gt;RHEL 9 &lt;/code&gt; is called &lt;code&gt;GDM(GNOME Display Manager)&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;linux-directory-structure&#34;&gt;Linux Directory Structure:&lt;/h1&gt;
+&lt;h2 id=&#34;linux-directory-structure&#34;&gt;Linux Directory Structure:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Linux files are organized logically in a hierarchy for ease of administration and recognition. This organization is maintained in hundreds of directories located in larger containers called file systems. Red Hat Enterprise Linux follows the &lt;strong&gt;Filesystem Hierarchy Standard (FHS)&lt;/strong&gt; for file organization, which describes names, locations, and permissions for many file types and directories.&lt;/li&gt;
 &lt;li&gt;The Linux directory structure is analogous to an inverted tree, where the top of the tree is the root of the directory, tree branches are subdirectories, and leaves are files.&lt;/li&gt;
@@ -91,12 +91,12 @@
 &lt;h3 id=&#34;ls--l&#34;&gt;ls -l:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Long listing of the files.
-![[Pasted image 20260214135045.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ls--al&#34;&gt;ls -al:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;List all the hidden files in the current working directory.
-![[Pasted image 20260214135145.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_2.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;debriefing-the-columns&#34;&gt;Debriefing the columns:&lt;/h4&gt;
 &lt;ul&gt;
@@ -111,54 +111,54 @@
 &lt;h3 id=&#34;ls--ll&#34;&gt;ls -ll:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Alternative of &lt;code&gt;ls -l&lt;/code&gt; , does the same thing.
-![[Pasted image 20260214135737.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_3.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ls--ld-directory_name&#34;&gt;ls -ld {directory_name}:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Shows long listing of the specified directory.
 &lt;ul&gt;
 &lt;li&gt;For example: &lt;code&gt;ls -ld /usr&lt;/code&gt;
-![[Pasted image 20260214140323.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_4&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_4.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ls--alh&#34;&gt;ls -alh:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;To show all the files in the current directory with their sizes in human readable format.
-![[Pasted image 20260214140457.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_5&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_5.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ls--lt&#34;&gt;ls -lt:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Shows the output in a sorted order by date and time with the newest file first.
-![[Pasted image 20260214140908.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_6&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_6.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ls--r-directory_nameby-default-the-cwd-is-selected&#34;&gt;ls -R directory_name/by default the cwd is selected:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Shows content of any specified directory recursively, if directory is not specified it will take the current working directory as a default argument.
-![[Pasted image 20260214141142.png]]&lt;/li&gt;
+&lt;img alt=&#34;img_7&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_7.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;![[Pasted image 20260214141310.png]]&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;img_8&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/02_img_8.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Directory Basics</title>
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/03-directory-basics/</link>
       <pubDate>Mon, 06 Jul 2026 12:12:10 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/03-directory-basics/</guid>
-      <description>&lt;h1 id=&#34;pwdpresent-working-directory&#34;&gt;pwd(Present working Directory):&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;pwdpresent-working-directory&#34;&gt;pwd(Present working Directory):&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It shows the a user’s current working directory.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;pwd&lt;/code&gt; always returns the absolute path.
 &lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;navigating-directories&#34;&gt;Navigating directories:&lt;/h1&gt;
+&lt;h2 id=&#34;navigating-directories&#34;&gt;Navigating directories:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Absolute path:&lt;/code&gt; It is the full path starting from the top level path which is &lt;code&gt;/&lt;/code&gt; to my current working directory. The &lt;code&gt;absolute path&lt;/code&gt; will always start with &lt;code&gt;/&lt;/code&gt; at the beginning.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Relative path:&lt;/code&gt; It is not a full path but rather a path which depicts the location relative to our own current working directory.&lt;/li&gt;
 &lt;li&gt;For example: we are in &lt;code&gt;/home/user1&lt;/code&gt; directory. To move upwards either we can write using the &lt;code&gt;relative path&lt;/code&gt; like this → &lt;code&gt;cd Desktop/&lt;/code&gt; , or we can write using &lt;code&gt;absolute path&lt;/code&gt; like this → &lt;code&gt;cd /home/user1/Desktop/&lt;/code&gt;
-&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/03_img_2.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_3.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/03_img_3.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Practical Demo: Linux Forensics</title>
@@ -175,7 +175,7 @@
       <description>&lt;ul&gt;
 &lt;li&gt;Linux allocates unique pseudo (or virtual) numbered device files to represent terminal sessions opened by users on the system. It uses these files to communicate with individual sessions. By default, these files are stored in the &lt;strong&gt;/dev/pts&lt;/strong&gt; (&lt;mark style=&#34;background:#ff4d4f&#34;&gt;pseudo terminal session&lt;/mark&gt;) directory. These files are created by the system when a user opens a new terminal session and they are removed on its closure.&lt;/li&gt;
 &lt;li&gt;We can see it via the command &lt;code&gt;tty(teletype)&lt;/code&gt;
-&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/04_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/04_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -192,7 +192,7 @@
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/05-system-uptime/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;The &lt;code&gt;uptime&lt;/code&gt; command is used to display the &lt;strong&gt;system’s current time&lt;/strong&gt;, length of time it has been up for, &lt;strong&gt;number of users currently logged in&lt;/strong&gt;, and &lt;strong&gt;the average CPU (processing) load over the past 1, 5, and 15 minutes&lt;/strong&gt;.
-&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/05_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/05_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;The output shows the current system time (18:28:09), up duration (49 minutes), number of logged-in users (2), and the CPU load averages over the past 1, 5, and 15 minutes (0.00, 0.00, and 0.00), respectively.&lt;/li&gt;
 &lt;li&gt;The load average numbers correspond to the percentage of CPU load with 0.00 and 1.00 represent no load and full load, and &lt;strong&gt;a number greater than 1.00 signifies excess load (over 100%).&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -215,11 +215,11 @@
 &lt;li&gt;&lt;code&gt;RHEL&lt;/code&gt; provides a set of tools that can be used to identify the &lt;code&gt;absolute path&lt;/code&gt; of the command that will be executed when you run it without specifying its full path. These tools are the &lt;code&gt;which, whereis, and type&lt;/code&gt; commands.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;which&#34;&gt;which:&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/07_img_1.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;whereis&#34;&gt;whereis:&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/07_img_2.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;type&#34;&gt;type:&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/07_img_3.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/07_img_3.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Viewing system information</title>
@@ -230,15 +230,15 @@
 &lt;li&gt;The &lt;code&gt;uname&lt;/code&gt; command identifies elementary information about the system including its hostname.
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;uname&lt;/code&gt; → shows only the kernel name.&lt;/li&gt;
-&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/08_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;uname -a&lt;/code&gt; → showing all information&lt;/li&gt;
-&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_2.png&#34;&gt;
+&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/08_img_2.png&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;Kernel name(1), hostname(2), kernel release(3), date and time of the kernel built(4), machine and hardware name(5), processor type(6), hardware platform(7), operating system name(8).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;More separate commands to try on &lt;code&gt;uname&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/08_img_3.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/08_img_3.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -250,8 +250,8 @@
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/09-viewing-cpu-info/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;We can see all &lt;code&gt;cpu&lt;/code&gt; info using the command &lt;code&gt;lscpu&lt;/code&gt;
-&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/09_img_1.png&#34;&gt;
-&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/09_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/09_img_1.png&#34;&gt;
+&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/09_img_2.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -261,12 +261,12 @@
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/10-getting-help/</guid>
       <description>&lt;h1 id=&#34;man-pages&#34;&gt;man pages:&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_1.png&#34;&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_2.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/10_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/10_img_2.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Press h&lt;/code&gt; to get help on navigation, &lt;code&gt;press q&lt;/code&gt; to quit and return to the command prompt, use the &lt;code&gt;Up and Down arrow keys&lt;/code&gt; to scroll up and down, and the &lt;code&gt;PgUp&lt;/code&gt; and &lt;code&gt;PgDn&lt;/code&gt; keys to scroll one page at a time.&lt;/li&gt;
 &lt;li&gt;KEYS WHICH  CAN HELP IN NAVIGATION:
 &lt;ul&gt;
-&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/10_img_3.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&#34;img_3&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/10_img_3.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
