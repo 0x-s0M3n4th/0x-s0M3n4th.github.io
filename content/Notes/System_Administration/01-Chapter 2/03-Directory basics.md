@@ -11,7 +11,7 @@ tags: ["Linux", "Basics"]
 ## pwd(Present working Directory):
 - It shows the a user’s current working directory.
 - `pwd` always returns the absolute path. 
-![img_1](images/System_administration/Chap-1/03_img_1.png)
+![img_1](/images/System_administration/Chap-1/03_img_1.png)
 
 - - -
 ## Navigating directories:

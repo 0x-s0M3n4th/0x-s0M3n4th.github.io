@@ -9,7 +9,7 @@ tags: ["Linux", "Basics", "cheatsheet"]
 ---
 
 
-# Main commands:
+## Main commands:
 
 | Commands | Short description |
 | -------- | ----------------- |
