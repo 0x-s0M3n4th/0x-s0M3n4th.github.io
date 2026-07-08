@@ -148,7 +148,7 @@
 &lt;ul&gt;
 &lt;li&gt;It shows the a user’s current working directory.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;pwd&lt;/code&gt; always returns the absolute path.
-&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;images/System_administration/Chap-1/03_img_1.png&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/03_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;navigating-directories&#34;&gt;Navigating directories:&lt;/h2&gt;
@@ -245,7 +245,7 @@
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/10-getting-help/</link>
       <pubDate>Mon, 06 Jul 2026 12:10:10 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/10-getting-help/</guid>
-      <description>&lt;h1 id=&#34;man-pages&#34;&gt;man pages:&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;man-pages&#34;&gt;man pages:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img alt=&#34;img_1&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/10_img_1.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img alt=&#34;img_2&#34; loading=&#34;lazy&#34; src=&#34;https://0x-s0M3n4th.github.io/images/System_administration/Chap-1/10_img_2.png&#34;&gt;&lt;/li&gt;
@@ -256,7 +256,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;apropos-command&#34;&gt;apropos command:&lt;/h1&gt;
+&lt;h2 id=&#34;apropos-command&#34;&gt;apropos command:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It is alias of the command &lt;code&gt;man -k {half_remembered_cmd_name}&lt;/code&gt; → This command allows us to perform keyword search on manual pages incase we have forgot what the command name is.&lt;/li&gt;
 &lt;/ul&gt;
@@ -274,7 +274,7 @@
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/11-practice-lab---1/</link>
       <pubDate>Mon, 06 Jul 2026 12:20:10 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/11-practice-lab---1/</guid>
-      <description>&lt;h1 id=&#34;navigate-linux-directory-tree---practice-questions&#34;&gt;Navigate Linux Directory Tree - Practice questions:&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;navigate-linux-directory-tree---practice-questions&#34;&gt;Navigate Linux Directory Tree - Practice questions:&lt;/h2&gt;
 
             &lt;link rel=&#34;stylesheet&#34; href=&#34;https://0x-s0M3n4th.github.io/css/vendors/admonitions.4fd9a0b8ec8899f2ca952048d255a569f433f77dfb3f52f5bc87e7d65cdce449.css&#34; integrity=&#34;sha256-T9mguOyImfLKlSBI0lWlafQz9337P1L1vIfn1lzc5Ek=&#34; crossorigin=&#34;anonymous&#34;&gt;
     &lt;div class=&#34;admonition note&#34;&gt;
@@ -289,7 +289,7 @@
       <link>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</link>
       <pubDate>Mon, 06 Jul 2026 12:21:10 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/system_administration/01-chapter-2/12--cheat-sheet---chapter-2/</guid>
-      <description>&lt;h1 id=&#34;main-commands&#34;&gt;Main commands:&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;main-commands&#34;&gt;Main commands:&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
