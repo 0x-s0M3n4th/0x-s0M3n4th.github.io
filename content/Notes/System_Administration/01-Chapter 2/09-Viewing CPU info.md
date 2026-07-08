@@ -9,5 +9,5 @@ tags: ["Linux", "Basics"]
 ---
 
 - We can see all `cpu` info using the command `lscpu` 
-![img_1](images/System_administration/Chap-1/09_img_1.png)
-![img_2](images/System_administration/Chap-1/09_img_2.png)
+![img_1](/images/System_administration/Chap-1/09_img_1.png)
+![img_2](/images/System_administration/Chap-1/09_img_2.png)

@@ -10,8 +10,8 @@ tags: ["Linux", "Basics"]
 
 - `RHEL` provides a set of tools that can be used to identify the `absolute path` of the command that will be executed when you run it without specifying its full path. These tools are the `which, whereis, and type` commands.
 ## which:
-![img_1](images/System_administration/Chap-1/07_img_1.png)
+![img_1](/images/System_administration/Chap-1/07_img_1.png)
 ## whereis:
-![img_2](images/System_administration/Chap-1/07_img_2.png)
+![img_2](/images/System_administration/Chap-1/07_img_2.png)
 ## type:
-![img_3](images/System_administration/Chap-1/07_img_3.png)
+![img_3](/images/System_administration/Chap-1/07_img_3.png)

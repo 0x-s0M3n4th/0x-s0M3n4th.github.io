@@ -24,11 +24,11 @@ tags: ["Linux", "Basics"]
 
 ### ls -l:
 - Long listing of the files.
-![[Pasted image 20260214135045.png]]
+![img_1](/images/System_administration/Chap-1/02_img_1.png)
 
 ### ls -al:
 - List all the hidden files in the current working directory.
-![[Pasted image 20260214135145.png]]
+![img_2](/images/System_administration/Chap-1/02_img_2.png)
 #### Debriefing the columns:
 - `Columns 1:` The first character **(hyphen or d)** divulges the file type, and the next nine characters **(rw-rw-r--)** indicate permissions.
 - `Column 2:` Displays the number of link.
@@ -40,27 +40,27 @@ tags: ["Linux", "Basics"]
 
 ### ls -ll:
 - Alternative of `ls -l` , does the same thing.
-![[Pasted image 20260214135737.png]]
+![img_3](/images/System_administration/Chap-1/02_img_3.png)
 
 ### ls -ld {directory_name}:
 - Shows long listing of the specified directory.
 	- For example: `ls -ld /usr` 
-![[Pasted image 20260214140323.png]]
+![img_4](/images/System_administration/Chap-1/02_img_4.png)
 
 ### ls -alh:
 - To show all the files in the current directory with their sizes in human readable format.
-![[Pasted image 20260214140457.png]]
+![img_5](/images/System_administration/Chap-1/02_img_5.png)
 
 ### ls -lt:
 - Shows the output in a sorted order by date and time with the newest file first.
-![[Pasted image 20260214140908.png]]
+![img_6](/images/System_administration/Chap-1/02_img_6.png)
 
 ### ls -R directory_name/by default the cwd is selected:
 - Shows content of any specified directory recursively, if directory is not specified it will take the current working directory as a default argument.
-![[Pasted image 20260214141142.png]]
+![img_7](/images/System_administration/Chap-1/02_img_7.png)
 
-![[Pasted image 20260214141310.png]]
+![img_8](/images/System_administration/Chap-1/02_img_8.png)
 
 ### man ls:
 - Manual page for ls → Help page.
-![[Pasted image 20260214141507.png]]
+![img_9](/images/System_administration/Chap-1/02_img_9.png)
