@@ -16,7 +16,7 @@ Plus we will be utilizing RedHat Linux which is also the industry standards for 
 
 
 > [!IMPORTANT]
-> **There's no prerequisites to start learning from this series. I will be guiding you from installtion of RedHat Linux to performing crucial admin related tasks. Evert chapter is going to contain an overview section, where i have told about the subtopics those are being covered on that particular chapter. The reason behind this is that if you already know those things, you can skip that chapter.**
+> **there's no prerequisites to start learning from this series. i will be guiding you from installtion of redhat linux to performing crucial admin related tasks. evert chapter is going to contain an overview section, where i have told about the subtopics those are being covered on that particular chapter. the reason behind this is that if you already know those things, you can skip that chapter.**
 
 > [!Info]
 > If you need any help regarding any chapter or section , feel free to reach out to me in this email -> `sebaitsom6297@gmail.com`
