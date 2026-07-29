@@ -17,9 +17,10 @@ author: "0x-s0M3n4th"
 > [!Disclaimer]
 > This a short version inspired from the course offered by `Boot.dev`. If you want a more interactive , hand holding pathway towards git i would 100% recommend their coursework named as `Learn Git`. Do check that our if you have never heard about them, they really good. I can tell because i have tried their many courses personally. Not a paid promotion btw.
 
-# Basics:
+## Basics:
 _We will be covering some basic things about git first then deep dive into git internals(Internals part is not covered in boot.dev’s curriculum in a depply manner)._ That i will share separately as a single blog in my website. Now we will only learn the basics here.
-## Porcelain and plumbing:
+
+### Porcelain and plumbing:
 - In git, commands are divided into high level commands → aka **porcleain**, and low level commands → aka **plumbing**.
 - We will mostly use **porcleain** commands to interact with either any of our codebases.
 - Some of the **porcleain** commands are:
@@ -34,7 +35,8 @@ _We will be covering some basic things about git first then deep dive into git i
 	- `git apply`
 	- `git commit-tree`
 	- `git hash-object`
-## Git config:
+
+### Git config:
 
 > [!Important]
 > Make sure you have `git` installed, there are numerous tutorials available plus you can simply refer to the official docs for the installation part as per your OS. Then open terminal and run `git version` , you should have a version that is `>2.46.0` , if not please upgrade before proceeding.
@@ -89,16 +91,18 @@ _We will be covering some basic things about git first then deep dive into git i
 	  ```bash
 	  git config remove-section <SECTION>
 	  ```
-### Git configuration locations:
+#### Git configuration locations:
 - **System**: `/etc/gitconfig` →  a file that configures Git for all users on the system.
 - **Global**: `~/.gitconfig`, a file that configures Git for all projects of a user.
 - **Local**: `.git/config`, a file that configures Git for a specific project.
 - **worktree**: `.git/config.worktree`, a file that configures Git for part of a project.
-### Git configuration overriding:
+
+#### Git configuration overriding:
 - If you set a configuration in a more specific location, it will override the same configuration in a more general location. For example, if you set `user.name` in the local configuration, it will override the `user.name` set in the global configuration.
   ![git_2](/images/Git_basics/git_2.png)
 <center>CREDIT: Boot.dev</center>
-## Setting up repo:
+
+#### Setting up repo:
 - The very first step of any project is to create a repository. A Git "repository" (or "repo") represents a single project.
 - A repo is just a directory that holds all of the files and folders of our project. It contains a hidden `.git` directory which holds internal tracking and versioning information of our project.
 - So to setup the repo , first create a directory/folder in your favourable location:
@@ -112,10 +116,11 @@ _We will be covering some basic things about git first then deep dive into git i
   ```
 - After the initialization, you will have a hidden `.git` directory. That you can check using the following command:
   ```bash
-  ls -a # <-a> flag shows all the hidden files on our current directory
+  ls -a # ->  - a flag shows all the hidden files on our current directory
   ```
   ![git_3](/images/Git_basics/git_3.png)
-## Status:
+
+### Status:
 - A file can be in many different states inside a git repository. The most important states are:
 	- `Untracked`: Not being tracked by git.
 	- `staged`: Marked for inclusion in the next commit.
@@ -134,6 +139,7 @@ _We will be covering some basic things about git first then deep dive into git i
   git status
   ```
   - This time it should show an untracked file named as `README.md` inside the state of your git repo.
+
 ### Staging:
 - To add the `untracked` file into our repo `index` , we can use the following command:
   ```bash
@@ -142,6 +148,7 @@ _We will be covering some basic things about git first then deep dive into git i
   git add git-test/i-use-arch-btw/README.md
   ```
   - Without staging, no files are included in the commit – only the files you explicitly git add will be committed.
+
 ### Commit:
 - A `commit` is a snapshot of the repository at a given point in time. It's a way to save the state of the repository, and it's how Git keeps track of changes to the project. A commit comes with a message that describes the changes made in the commit.
 - Here’s how we can made a `commit`:
@@ -150,7 +157,8 @@ _We will be covering some basic things about git first then deep dive into git i
   ```
 
 > [!Info]
-> We can change our last commit(if we screwed up of course) using the following command : `git commit --amend -m "YOUR_NEW_UNSCREWED_MESSAGE"` 
+> We can change our last commit(if we screwed up of course) using the following command : `git commit --amend -m "YOUR_NEW_UNSCREWED_MESSAGE"`
+
 ### Git log:
 - A Git repo is a (potentially very long) list of commits, where each commit represents the _full state of the repository_ at a given point in time.
 - The `git log` command shows the history of the commits done by you in a repo. Via the logs we can see that → who made the commit, when the commit was made, what was changed.
@@ -184,15 +192,17 @@ _We will be covering some basic things about git first then deep dive into git i
   xxd .git/objects/a8/7a5e851ac246528fa29156528afa4838e7bcec
   ```
   ![git_6](/images/Git_basics/git_6.png)
-# Git internals(It won’t be that deep):
-## Commit-hash:
+
+## Git internals(It won’t be that deep):
+### Commit-hash:
 - My latest commit hash is this `a87a5e851ac246528fa29156528afa4838e7bcec`. You may notice even though we put same content inside the same named file, the commit hash will be different for both of us. The reason behind this is that even though the `commit hashes` are being derived from the content changes of the file , there’s some additional stuff that affects the end hash like:
 	-  The commit message
 	- The author’s name and email
 	- The date and time
 	- Parent(previous) commit hashes
 - Git uses a cryptographic hash function called `SHA-1` to generate the commit hashes.
-## cat-file:
+
+### cat-file:
 - Git has a buil-in `plumbing` command called as `cat-file` , that allows us to see the contents of a commit hash without needing to LARP around with the object files directly:
   ```bash
   git cat-file -p <COMMIT-HASH>
@@ -200,7 +210,8 @@ _We will be covering some basic things about git first then deep dive into git i
   ```
   ![git_7](/images/Git_basics/git_7.png)
   - `-p` : It pretty prints the output.
-## Trees and Blobs:
+
+### Trees and Blobs:
 `Tree`: The way git uses to store directory.
 `Blobs`: The way git uses to store files.
 - If we see our `git cat-file` output on the previous section:
@@ -222,12 +233,14 @@ _We will be covering some basic things about git first then deep dive into git i
 	  git cat-file <BLOB-HASH>
 	  ```
 	  ![git_10](/images/Git_basics/git_10.png)
-## Data storage:
+
+### Data storage:
 - Git stores an entire _snapshot_ of files on a _per-commit_ level.
 - **OPTIMIZATION**:
 	- To optimize the storing of data , git compresses and packs files.
 	- Git deduplicates files that are the same across different commits. If a file doesn't change between commits, Git will only store it once.
-# Git branching:
+
+## Git branching:
 - `Git branch` allows us to keep track of different changes separately.
 - Let’s say we have a big project where we are making a game and we need to add a new feature like `shooting the enemy`. So instead of changing the whole project entirely, we can create a new branch out of the `main` branch/ `master` branch called as `shooting_mechanism` . Then when we are done making the feature we can simply merge that branch into the `main` branch to keep the changes. In case if you don’t like the changes , you can simply remove the `shooting_mechanism` branch and go back to the `main` branch.
 - **BRANCH UNDER THE HOOD:**
@@ -241,13 +254,14 @@ _We will be covering some basic things about git first then deep dive into git i
   git branch
   ```
   ![git_12](/images/Git_basics/git_12.png)
-## Renaming a branch:
+
+### Renaming a branch:
 ```bash
 git branch -m <old-name> <new-name>
 git branch -m master main
 ```
 
-## Creating a branch:
+### Creating a branch:
 - There are 2 ways to create a branch:
 	- First:
 	  ```bash
@@ -271,7 +285,8 @@ git branch -m master main
 
 - When we will make a commits over to our `new_branch`, let’s say we did one commit `D` . Then the branch will look something like this:
   ![git_14](/images/Git_basics/git_14.png)
-# Git files:
+
+## Git files:
 - As we know git stores all of the information in files inside `.git` subdirectory at the root of our project, even information about branches.
 - The "heads" (or "tips") of branches are stored in the `.git/refs/heads` directory. It contains one file for each branch and the branch files are containing their respective `commit hash` that the branch points to.  
 - Seeing the `commit hash` of the branch tips, let’ see our `main` branch:
@@ -287,12 +302,14 @@ git branch -m master main
   ```
   ![git_16](/images/Git_basics/git_16.png)
   ![git_17](/images/Git_basics/git_17.png)
-# Git merge:
+
+## Git merge:
 - Let’s say we are in this stage where we are having 2 branches → `main` with 3 commits and `new_branch` with 2 commits:
   ![git_18](/images/Git_basics/git_18.png)
 - Now if i merge `new_branch` into `main` git combines both the branches by creating a new commit that has both histories as parents:
   ![git_19](/images/Git_basics/git_19.png)
 <center>Merging to main  </center>
+
 - Here `F` is a merge commit that has both `C` and `E` as parents. `F` brings all the changes from `D` and `E` back into the `main` branch. Command used to merge onto main:
   ```bash
   git switch main # switching to main
@@ -306,6 +323,7 @@ git branch -m master main
 	5. `F` is special because it has _two parents_, `C` and `E`. Means it points towards both of those commits.
 ![git_20](/images/Git_basics/git_20.png)
 <center>Merging to new_branch</center>
+
 - When we will be merging the branch we can merge from the `main`  or vise-versa using the following command:
   ```bash
   git switch main
@@ -314,6 +332,7 @@ git branch -m master main
 - Let’s see a bit complex setup:
 ![git_21](/images/Git_basics/git_21.png)
 <center>Multiple merges</center>
+
 - In the above diagram we can see we have already merged once from `new_branch` , after that `main` branch created 2 more new commits. Then i decided that i want to merge my `new_branch` onto the `main` branch. It resulted 2 new commit objects with their respective `COMMIT_MSG` . We merged using the following command from main:
   ```bash
   # previously we were on new_branch
@@ -321,7 +340,7 @@ git branch -m master main
   # made 2 new commits
   git merge new_branch # merged new_branch from main
   ```
-## Tips: if you mess up the commit message and want to change it:
+### Tips: if you mess up the commit message and want to change it:
 - We can change the `commit message` if we have messed it up using the `--amend` option:
   ```bash
   git commit --amend -m "F: Merge branch 'new_branch'"
@@ -331,7 +350,8 @@ git branch -m master main
 > If you don’t prefer vim as your default editor for writing messages, you can do that using the following commands:
 > **If you want to set VS code as the default editor:** `git config --global core.editor "code --wait`
 > **If you want to set zed as your default editor:** `git config --global core.editor "zed --wait"`
-## Fast-forward merge:
+
+### Fast-forward merge:
 - This is the simplest type of merge.
 - Let’ say we are having this:
   ![git_22](/images/Git_basics/git_22.png)
@@ -358,13 +378,14 @@ git branch -m master main
 > [!info] 
 > Always keep your `main` branch behind of your other branches if you want to do a fast forward merge.
 
-## Common developer workflow for merging:
+### Common developer workflow for merging:
 1. Create a branch for a new change
 2. Make the change
 3. Merge the branch back into `main` (or whatever branch your team dubs the "default" branch)
 4. Remove the branch
 5. Repeat
-# Git rebase:
+
+## Git rebase:
 - When we rebase it doesn’t create any merge commits. It simply replays the commits from another branch on top of main. Let’s take a scenario:
 	- Let’s say we are having 4 commits in our `main` branch, and we have created a branch off of the 2nd commit from `main` branch. That branch is also having 2 commits like this:
 	  ![git_27](/images/Git_basics/git_27.png)
@@ -389,24 +410,28 @@ git branch -m master main
 > [!Warning]
 > You should _never_ rebase a public branch (like `main`) onto anything else. Other developers have it checked out, and if you change its history, you'll cause a lot of problems for them.
 > However, with your own branch, you can rebase onto other branches (including a public branch like `main`) as much as you want.
-# Resetting changes:
-## Soft reset:
+
+## Resetting changes:
+### Soft reset:
 - We can use the command `git reset` to undo the last commit(s) or any changes in the index (staged but not committed changes) and the worktree (unstaged and not committed changes):
   ```bash
   git reset --soft COMMIT_HASH
   ```
   - The `--soft` option is useful if you just want to go back to a previous commit, but keep all of your changes.
   - Committed changes will be uncommitted and staged, while uncommitted changes will remain staged or unstaged as before.
-## Hard reset:
+
+### Hard reset:
 - In the case of `soft commit` we kinda time traveled to the previous commit by preserving our current commits. But in the case of `hard commit` it’s not going to keep the changes:
   ```bash
   git reset --hard COMMIT_HASH
   ```
   - The `--hard` flag makes your working directory and staging area match the specified commit exactly, discarding any local changes.
   - This is useful if you just want to go back to a previous commit and discard all the changes.
+
 > [!Warning]
 > Always be careful when you are using `--hard` reset.  If you were to simply delete a _committed_ file, it would be trivially easy to recover because it is tracked in Git. However, if you used `git reset --hard` to undo committing that file, it would be deleted for good.
-# Git remote:
+
+## Git remote:
 - We can have "remotes," which are just external repos with _mostly_ the same Git history as our local repo.
 - `Git` is just the CLI tool, there’s isn’t any central repo . Github is just someone else’s repo.
 - In git, another repo is called a "remote." The standard convention is that when you're treating the remote as the "authoritative source of truth" (such as GitHub) you would name it the "origin".
@@ -418,7 +443,7 @@ git branch -m master main
 > [!Info]
 > We can refer a local different repo as remote as well. Git will treat other git repos as remote .
 
-## Git fetch - for local repos:
+### Git fetch - for local repos:
 - Adding a remote to our Git repo does _not_ mean that we automagically have all the contents of the remote. First, we need to fetch the contents:
   ```bash
   # Run this from the new repo you created, where you want to fetch other repo's contents
@@ -428,13 +453,15 @@ git branch -m master main
 
 > [!Info]
 > We can log the commits of a remote repo as well using `git log <remote>/<branch>` → `git log origin/main`
-## Merging branches between local and remote repo:
+
+### Merging branches between local and remote repo:
 - For example: if i want to merge the `feature_1` branch of the remote `origin` into our local `main` branch, i would run this inside the local repo:
   ```bash
   git merge origin/feature_1
   ```
 - Because the local repo is currently empty and branch is also empty → means we are behind the remote branch. We will get to see a `fast forward` merge instead of a `commit merge`.
-# .gitignore:
+
+## .gitignore:
 - Sometimes w don’t want to track some crucial files under `git` , because we may put those on the internet unknowingly. To prevent that mistake, we can utilize the file `git` offers which is `.gitignore`.
 - For example, if you work with Python, you probably want to ignore automatically generated files like `.pyc` and `__pycache__`. If you are building a server, you probably want to ignore `.env` files that might hold private keys. If you (I'm sorry) work with JavaScript, you might want to ignore the `node_modules` directory.
 - Inside the `.gitignore` file we can add files like this to ignore them:
@@ -445,12 +472,14 @@ git branch -m master main
 
 > [!Note]
 > You can use regex patterns to match multiple files all at once . Be careful with them if you don’t know how to use regex, specify the specific file paths. But when you will be working with a lot of files and folders, learning a bit of regex doesn’t hurt.
-## What to ignore?
+
+### What to ignore?
 1. Ignore things that can be _generated_ (e.g. compiled code, minified files, etc.)
 2. Ignore dependencies (e.g. `node_modules`, `venv`, `packages`, etc.)
 3. Ignore things that are personal or specific to how you like to work (e.g. editor settings)
 4. Ignore things that are sensitive or dangerous (e.g. `.env` files, passwords, API keys, etc.)
 
 <center>THIS IS THE END OF THIS TUTORIAL</center>
+
 > [!Note]
 > If you want a gamified learning of git or any backend related stuff, i would 100% recommend to check out the Boot.dev’s backend curriculum. Here’s the link ![Boot.dev](https://www.boot.dev/paths/backend?tech=python-golang) 
