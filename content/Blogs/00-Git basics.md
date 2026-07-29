@@ -57,11 +57,11 @@ _We will be covering some basic things about git first then deep dive into git i
 	  - If not set use the following commands to set them up:
 
         ```bash
-	git config set --global user.name "github_username_here"
-	git config set --global user.email "email@example.com"
-    # we can change the config using the same commands with updated details.
+	    git config set --global user.name "github_username_here"
+	    git config set --global user.email "email@example.com"
+        # we can change the config using the same commands with updated details.
         ```
-    - Instead of `github` username you can use your own name too, whatever you prefer.
+        - Instead of `github` username you can use your own name too, whatever you prefer.
 	- Setting our default branch to work on → we will set `main` as our default branch, but you can initially set it up as `master`. For context: `git` uses `master` by default but `github` uses `main` by default.
 	  ```bash
 	  git config set --global init.defaultbranch main # for main
