@@ -172,12 +172,12 @@ _We will be covering some basic things about git first then deep dive into git i
   - `--no-pager` : This will paste the logs onto your current static terminal window only, rather than opening something interactive window like `less/more` 
   - `-n` : This will limit the number of lines from your logs output, in this case we are only fetching the first `10` lines from our logs.
 - Other useful flags:
-  ```bash
- git log --decorate=full # by default
- git log --decorate=short
- git log --decorate=no
- git log --oneline # more compact view of the output  
- git log --oneline --graph --all # shows a nice ASCII art with parent hashes of commit hashes
+  ```bash 
+  git log --decorate=full # by default
+  git log --decorate=short
+  git log --decorate=no
+  git log --oneline # more compact view of the output  
+  git log --oneline --graph --all # shows a nice ASCII art with parent hashes of commit hashes
   ```
 - Also `git` stores all of your commits locally as objects inside `.git/objects` .  A commit is just an object. Which we can see using the following command:
   ```bash
