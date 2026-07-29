@@ -55,12 +55,13 @@ _We will be covering some basic things about git first then deep dive into git i
 	  git --no-pager config get user.email # For email
 	  ```
 	  - If not set use the following commands to set them up:
-	    ```bash
+
+        ```bash
 	git config set --global user.name "github_username_here"
 	git config set --global user.email "email@example.com"
-	# we can change the config using the same commands with updated details.
-	    ```
-	    - Instead of `github` username you can use your own name too, whatever you prefer.
+    # we can change the config using the same commands with updated details.
+        ```
+    - Instead of `github` username you can use your own name too, whatever you prefer.
 	- Setting our default branch to work on → we will set `main` as our default branch, but you can initially set it up as `master`. For context: `git` uses `master` by default but `github` uses `main` by default.
 	  ```bash
 	  git config set --global init.defaultbranch main # for main
@@ -130,6 +131,7 @@ _We will be covering some basic things about git first then deep dive into git i
   git status
   ```
   ![git_4](/images/Git_basics/git_4.png)
+
 > [!Disclaimer]
 > In your case, the results may differ because you are starting with a new repo. Ignore the results , don’t let those intimidate you. Yours repo should show nothing for now.
 - To see changes, create a dummy file and name it let’s say `README.md`:
