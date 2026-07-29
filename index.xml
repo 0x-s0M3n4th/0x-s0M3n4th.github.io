@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:21:10 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:51:28 +0530</lastBuildDate>
     <atom:link href="https://0x-s0M3n4th.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Directories</title>
@@ -958,6 +958,13 @@ Then Linus Torvalds developed a kernel and proclaimed it&amp;rsquo;s availabilit
       <pubDate>Mon, 24 Nov 2025 13:25:00 +0530</pubDate>
       <guid>https://0x-s0M3n4th.github.io/notes/pen-testing-notes/network-pentesting/07-performing-network-penetration-testing/11-snmp-exploitation/</guid>
       <description>Techniques for exploiting SNMP weaknesses to extract sensitive network information.</description>
+    </item>
+    <item>
+      <title>Git Basics: A Practical Guide to Version Control</title>
+      <link>https://0x-s0M3n4th.github.io/blogs/00-git-basics/</link>
+      <pubDate>Wed, 29 Jul 2026 12:51:28 +0530</pubDate>
+      <guid>https://0x-s0M3n4th.github.io/blogs/00-git-basics/</guid>
+      <description>A foundational guide to mastering Git workflows, branching, and safely navigating commits without losing your repository data, based on the boot.dev curriculum.</description>
     </item>
     <item>
       <title>Practical Guide: MAC Address Spoofing</title>
