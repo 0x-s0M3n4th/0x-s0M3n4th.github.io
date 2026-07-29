@@ -1,5 +1,6 @@
 ---
 title: "Git Basics: A Practical Guide to Version Control"
+comments: true
 date: 2026-07-29T12:51:28+05:30
 draft: false
 description: "A foundational guide to mastering Git workflows, branching, and safely navigating commits without losing your repository data, based on the boot.dev curriculum."
