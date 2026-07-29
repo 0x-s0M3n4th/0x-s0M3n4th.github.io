@@ -484,4 +484,4 @@ git branch -m master main
 <center>THIS IS THE END OF THIS TUTORIAL</center>
 
 > [!Note]
-> If you want a gamified learning of git or any backend related stuff, i would 100% recommend to check out the Boot.dev’s backend curriculum. Here’s the link -> ![Boot.dev](https://www.boot.dev/paths/backend?tech=python-golang)  
+> If you want a gamified learning of git or any backend related stuff, i would 100% recommend to check out the Boot.dev’s backend curriculum. Here’s the link -> [Boot.dev](https://www.boot.dev/paths/backend?tech=python-golang)  
