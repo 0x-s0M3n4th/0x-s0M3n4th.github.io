@@ -18,7 +18,7 @@ author: "0x-s0M3n4th"
 > This is a short version inspired from the course offered by `Boot.dev`. If you want a more interactive , hand holding pathway towards git i would 100% recommend their coursework named as `Learn Git`. Do check that out if you have never heard about them, they really good. I can tell because i have tried their many courses personally. Not a paid promotion btw.
 
 ## Basics:
-_We will be covering some basic things about git first then deep dive into git internals(Internals part is not covered in boot.dev’s curriculum in a depply manner)._ That i will share separately as a single blog in my website. Now we will only learn the basics here.
+_We will be covering some basic things about git first then deep dive into some git internals(Internals part is not covered in boot.dev’s curriculum in a depply manner)._ That i will be sharing separately as a single blog in my websit in future. Now we will only learn the basics here and some basic internal working mechanisms.
 
 ### Porcelain and plumbing:
 - In git, commands are divided into high level commands → aka **porcleain**, and low level commands → aka **plumbing**.
