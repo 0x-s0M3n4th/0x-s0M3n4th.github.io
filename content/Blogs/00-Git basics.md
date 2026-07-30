@@ -16,15 +16,15 @@ author: "0x-s0M3n4th"
 ---
 
 > [!Disclaimer]
-> This is a short version inspired from the course offered by `Boot.dev`. If you want a more interactive , hand holding pathway towards git i would 100% recommend their coursework named as `Learn Git`. Do check that out if you have never heard about them, they really good. I can tell because i have tried their many courses personally. Not a paid promotion btw.
+> This is a short version inspired from the course offered by `Boot.dev`. If you want a more interactive , hand holding pathway towards git i would 100% recommend their coursework named as `Learn Git`. Do check that out if you have never heard about them, they are really good. I can tell because i have tried their many courses personally. Not a paid promotion btw.
 
 ## Basics:
-_We will be covering some basic things about git first then deep dive into some git internals(Internals part is not covered in boot.dev’s curriculum in a depply manner)._ That i will be sharing separately as a single blog in my websit in future. Now we will only learn the basics here and some basic internal working mechanisms.
+_We will be covering some basic things about git first then deep dive into some git internals(Internals part is not covered in boot.dev’s curriculum in depth)._ That i will be sharing separately as a single blog in my website in future. Now we will only learn the basics here and some basic internal working mechanisms.
 
 ### Porcelain and plumbing:
-- In git, commands are divided into high level commands → aka **porcleain**, and low level commands → aka **plumbing**.
-- We will mostly use **porcleain** commands to interact with either any of our codebases.
-- Some of the **porcleain** commands are:
+- In git, commands are divided into high level commands → aka **Porcelain**, and low level commands → aka **plumbing**.
+- We will mostly use **Porcelain** commands to interact with either any of our codebases.
+- Some of the **Porcelain** commands are:
 	- `git status`
 	- `git add`
 	- `git init`
@@ -43,7 +43,7 @@ _We will be covering some basic things about git first then deep dive into some 
 > Make sure you have `git` installed, there are numerous tutorials available plus you can simply refer to the official docs for the installation part as per your OS. Then open terminal and run `git version` , you should have a version that is `>2.46.0` , if not please upgrade before proceeding.
 
 **What’s the need of configuring git before hand?**
-- First of all `git` comes with 3 configuration files → *global*, *local* , _system_. Now they both contain certain information about our ownselves that who we are. Whenver code changes, git can track who made the changes using that configuration file.
+- First of all `git` comes with 3 configuration files → *global*, *local* , _system_. Now they both contain certain information about ourselves that who we are. Whenever code changes, git can track who made the changes using that configuration file.
 - Also to ensure that we get proper credit for our own written code(**Blame** in git’s words), we need to set our `name` and `email` into the config files. 
 
 > [!Note]
@@ -63,7 +63,7 @@ _We will be covering some basic things about git first then deep dive into some 
         # we can change the config using the same commands with updated details.
         ```
         - Instead of `github` username you can use your own name too, whatever you prefer.
-	- Setting our default branch to work on → we will set `main` as our default branch, but you can initially set it up as `master`. For context: `git` uses `master` by default but `github` uses `main` by default.
+	- Setting our default branch to work on → we will set `main` as our default branch, but you can initially set it up as `master`. For context: Git historically initialized repositories with `master`; GitHub commonly uses `main`, and you can choose either name. 
 	  ```bash
 	  git config set --global init.defaultbranch main # for main
 	  git config set --global init.defaultbranch master # for master
@@ -83,7 +83,7 @@ _We will be covering some basic things about git first then deep dive into some 
 	  ```
 	- If we need to unset any configuration value, we can use the `unset` command:
 	  ```bash
-	  git config unser <KEY>
+	  git config unset <KEY>
 	  ```
 	- If there are multiple values of a single key like for `user.name` you have set 3 different values, then we can purge all of them in one go:
 	  ```bash
@@ -156,7 +156,7 @@ _We will be covering some basic things about git first then deep dive into some 
 - A `commit` is a snapshot of the repository at a given point in time. It's a way to save the state of the repository, and it's how Git keeps track of changes to the project. A commit comes with a message that describes the changes made in the commit.
 - Here’s how we can made a `commit`:
   ```bash
-  git commit -m "YOUR_MESSAGE_ABOUT_THE_CHANGES_YOU_ARE_COMMITING"
+  git commit -m "YOUR_MESSAGE_ABOUT_THE_CHANGES_YOU_ARE_COMMITTING"
   ```
 
 > [!Info]
@@ -165,13 +165,13 @@ _We will be covering some basic things about git first then deep dive into some 
 ### Git log:
 - A Git repo is a (potentially very long) list of commits, where each commit represents the _full state of the repository_ at a given point in time.
 - The `git log` command shows the history of the commits done by you in a repo. Via the logs we can see that → who made the commit, when the commit was made, what was changed.
-- Each commit has a unique identifier called a "commit hash" like this `343cdc6121cc032a31004e61f745307b7acbad26`. For convenience, you can refer to any commit or change within Git by using the first `7`characters of its hash. For mine, that's `343cdc6`. 
+- Each commit has a unique identifier called a "commit hash" like this `343cdc6121cc032a31004e61f745307b7acbad26`. For convenience, you can refer to any commit or change within Git by using the first `seven` characters of its hash. For mine, that's `343cdc6`. To note seven characters are conventional, but Git may require more when that prefix is ambiguous. 
 - To check the logs you can use the following command:
   ```bash
   git --no-pager log -n 10
   ```
   - `--no-pager` : This will paste the logs onto your current static terminal window only, rather than opening something interactive window like `less/more` 
-  - `-n` : This will limit the number of lines from your logs output, in this case we are only fetching the first `10` lines from our logs.
+  - `-n` : It limits the number of commits shown in the output. 
 - Other useful flags:
   ```bash 
   git log --decorate=full # by default
@@ -187,10 +187,10 @@ _We will be covering some basic things about git first then deep dive into some 
  ![git_5](/images/Git_basics/git_5.png) 
 - If you want to see the contents of a particular commit you can see that using this command:
   ```bash
-  ls -al .git/objects/<COMMIT-INITIAL>/<COMMIT-HASH>
+  ls -al .git/objects/<first-two-hex>/<remaining-hex>
   ls -al .git/objects/a8/7a5e851ac246528fa29156528afa4838e7bcec
   ```
-- You should see Compressed RAW bytes. We can convert it into a hexdump so that, atleast we can understand the some headers stuff(LARPING):
+- You should see Compressed RAW bytes. We can convert it into a hexdump so that we can understand the contents of the file in a hexadecimal format(LARPING). For that we will be using a tool named as `xxd`/:
   ```bash
   xxd .git/objects/a8/7a5e851ac246528fa29156528afa4838e7bcec
   ```
@@ -224,7 +224,7 @@ _We will be covering some basic things about git first then deep dive into some 
 	  - The `author`
 	  - The `committer`
 	  - The commit message.
-- Still we can’t see the contents of our file which we commited. Because it’s stored inside a `blob` and the blob is stored inside the `tree`.
+- Still we can’t see the contents of our file which we committed. Because it’s stored inside a `blob` and the blob is stored inside the `tree`.
 - To see the contents follow the steps:
 	- Copy the `tree` object’s hash and use it with `git cat-file`:
 	  ```bash
@@ -272,7 +272,7 @@ git branch -m master main
 	  ```
 	- Second:
 	  ```bash
-	  git switch -c <NEW-BRANCH-NAME>
+	  git -c switch <NEW-BRANCH-NAME>
 	  ```
 	  - The `switch` command allows us to switch branches. Including the `-c` flag tells Git to create a new branch and switch to it.
 - If we want to create a branch off of some other commit, other than the latest one, say for example there are 3 commits in `main` branch → `A, B, C`, i want to create a branch from `B`  we can use the following command:
@@ -294,13 +294,16 @@ git branch -m master main
 - The "heads" (or "tips") of branches are stored in the `.git/refs/heads` directory. It contains one file for each branch and the branch files are containing their respective `commit hash` that the branch points to.  
 - Seeing the `commit hash` of the branch tips, let’ see our `main` branch:
   ```bash
-  cat .git/refs/head/main
+  cat .git/refs/heads/main
   # if you have branches you can see those hashes too.
   ```
   ![git_15](/images/Git_basics/git_15.png)
 - After getting the commit hash we can see the properties of that hash using `git cat-file` as well as we can find it’s object location inside `.git` directory:
   ```bash
+  # Dinding the hash object location
   find .git -name "a8"
+  # See the hash object:
+  ls .git/objects/a8/
   git cat-file -p <HASH_VALUE>
   ```
   ![git_16](/images/Git_basics/git_16.png)
@@ -309,7 +312,7 @@ git branch -m master main
 ## Git merge:
 - Let’s say we are in this stage where we are having 2 branches → `main` with 3 commits and `new_branch` with 2 commits:
   ![git_18](/images/Git_basics/git_18.png)
-- Now if i merge `new_branch` into `main` git combines both the branches by creating a new commit that has both histories as parents:
+- If neither branch tip is an ancestor of the other, merging `new_branch` into `main` creates a merge commit with both histories as parents:
   ![git_19](/images/Git_basics/git_19.png)
 <center>Merging to main  </center>
 
@@ -327,7 +330,7 @@ git branch -m master main
 ![git_20](/images/Git_basics/git_20.png)
 <center>Merging to new_branch</center>
 
-- When we will be merging the branch we can merge from the `main`  or vise-versa using the following command:
+- When we will be merging the branch we can merge from the `main`  or vice-versa using the following command:
   ```bash
   git switch main
   git merge new_branch # merging new_branch from main branch
@@ -367,7 +370,7 @@ git branch -m master main
     - In `fast forward merge` , no merge commit is created. On the above scenario the `head` pointer is pointing to `main` after merging. 
     
 >[!Important]
->From which branch i will be merging the head will point to that branch only.
+> The head will always point to that branch from which i will be merging.
 
   - Another common point of confusion is that let’s say what will happen if the branch we are working on is having multiple commits and what will happen if `main` branch moves forward with multiple commits, let’s see both the scenarios:
     - **When branch_1 will have multiple commits, and main branch is behind with not further commits**:
@@ -416,7 +419,7 @@ git branch -m master main
 
 ## Resetting changes:
 ### Soft reset:
-- We can use the command `git reset` to undo the last commit(s) or any changes in the index (staged but not committed changes) and the worktree (unstaged and not committed changes):
+- Moves the current branch and, depending on its mode, may reset the index and working tree. `--soft` moves only the branch pointer:
   ```bash
   git reset --soft COMMIT_HASH
   ```
@@ -436,7 +439,7 @@ git branch -m master main
 
 ## Git remote:
 - We can have "remotes," which are just external repos with _mostly_ the same Git history as our local repo.
-- `Git` is just the CLI tool, there’s isn’t any central repo . Github is just someone else’s repo.
+- `Git` is just the CLI tool, there’s isn’t a central repo . Github is just someone else’s repo.
 - In git, another repo is called a "remote." The standard convention is that when you're treating the remote as the "authoritative source of truth" (such as GitHub) you would name it the "origin".
 - Syntax:
   ```bash
@@ -452,7 +455,7 @@ git branch -m master main
   # Run this from the new repo you created, where you want to fetch other repo's contents
   git fetch origin
   ```
-- Just because we fetched all of the metadata from the remote `webflyx` repo doesn't mean we have all of the files. We can confirm this via running `git log` , we will get to see that there’s no commits in the logs.
+- Fetching downloads the remote’s reachable commits and objects while updating remote-tracking branches, but it does not update your current branch or working tree. Use `git log origin/main` to inspect the fetched history, then merge, rebase, or switch as appropriate.
 
 > [!Info]
 > We can log the commits of a remote repo as well using `git log <remote>/<branch>` → `git log origin/main`
@@ -465,7 +468,7 @@ git branch -m master main
 - Because the local repo is currently empty and branch is also empty → means we are behind the remote branch. We will get to see a `fast forward` merge instead of a `commit merge`.
 
 ## .gitignore:
-- Sometimes w don’t want to track some crucial files under `git` , because we may put those on the internet unknowingly. To prevent that mistake, we can utilize the file `git` offers which is `.gitignore`.
+- Sometimes we don’t want to track some crucial files under `git` , because we may put those on the internet unknowingly. To prevent that mistake, we can utilize the file `git` offers which is `.gitignore`.
 - For example, if you work with Python, you probably want to ignore automatically generated files like `.pyc` and `__pycache__`. If you are building a server, you probably want to ignore `.env` files that might hold private keys. If you (I'm sorry) work with JavaScript, you might want to ignore the `node_modules` directory.
 - Inside the `.gitignore` file we can add files like this to ignore them:
   ```text
